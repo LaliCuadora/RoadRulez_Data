@@ -6,38 +6,38 @@
     {
       "codigo_ine": "18087",
       "nombre": "Granada",
-      "provincia": "Granada",
+      "provincia": "Andalucía",
       "latitud": 37.1773,
       "longitud": -3.5986,
       "estado_norma": "RESTRINGIDO",
-      "texto_normativa": "Ordenanza Municipal de Fomento de la Convivencia Ciudadana (BOP de Granada Nº 117, 21/06/2021). El estacionamiento y pernocta se rige por la normativa general de tráfico, pero la acampada en vías públicas está estrictamente prohibida (art. 45 y ss.), entendiendo por acampada el despliegue de elementos que desborden el perímetro del vehículo. Se prohíbe además la emisión de ruidos molestos en horario nocturno.",
-      "resumen_corto": "Pernocta permitida como estacionamiento (V-16). Prohibido acampar (desplegar toldos/patas) y emitir ruidos de noche.",
-      "fuente_url": "https://www.granada.es/inet/transparencia.nsf/xtdoc/60C38171E976A035C12586DE00344487/$file/ORDENANZA%20CONVIVENCIA%20CIUDADANA%20MAYO%202021.pdf",
-      "ultima_actualizacion": "2026-05-17"
+      "texto_normativa": "Ordenanza Municipal de Convivencia Ciudadana (2019), art. 45: Se permite la estancia de vehículos habitables en zonas no urbanas siempre que no supere las 48h y no se generen residuos. Queda prohibido el uso de generadores entre las 22:00 y las 08:00 horas.",
+      "resumen_corto": "Permitido fuera de zona urbana, máx. 48h. Sin generadores nocturnos.",
+      "fuente_url": "https://www.granada.org/inet/wordenanz.nsf/wwalias/33E8E05267172F0EC1257656003437A2",
+      "ultima_actualizacion": "2024-03-15"
     },
     {
       "codigo_ine": "29067",
       "nombre": "Málaga",
-      "provincia": "Málaga",
+      "provincia": "Andalucía",
       "latitud": 36.7213,
       "longitud": -4.4213,
-      "estado_norma": "RESTRINGIDO",
-      "texto_normativa": "Ordenanza de Garantía de la Convivencia Ciudadana y Protección de los Espacios Públicos en la Ciudad de Málaga (BOP Nº 34, 19/02/2014, art. 31bis y Modificación BOP Nº 54, 19/03/2021). Queda expresamente prohibido el campismo y la acampada en los espacios públicos, incluyendo la instalación de tiendas de campaña, toldos o caravanas, salvo autorización. Las sanciones graves por pernoctar con características de acampada o en zonas protegidas del litoral ascienden hasta los 750€.",
-      "resumen_corto": "Estacionamiento regulado por la DGT. Estrictamente prohibido acampar o pernoctar con el vehículo 'desplegado' en el término municipal. Multa: hasta 750€.",
-      "fuente_url": "https://www.malaga.eu/visorcontenido/ANUNCIOS_bop/MODIFICACION%20ORDENANZA%20CONVIVENCIA.pdf",
-      "ultima_actualizacion": "2026-05-17"
+      "estado_norma": "PROHIBIDO",
+      "texto_normativa": "Ordenanza de Protección de Espacios Públicos (2021): Queda expresamente prohibida la pernocta en vehículos de cualquier tipo en todo el término municipal, incluidas áreas de servicio no habilitadas. Sanción: 750€.",
+      "resumen_corto": "PROHIBIDO en todo el término municipal. Multa: 750€.",
+      "fuente_url": "https://www.malaga.eu/visorcontenido/NRMDocumentDisplayer/699/DocumentoNormativa699",
+      "ultima_actualizacion": "2024-01-10"
     },
     {
-      "codigo_ine": "29084",
+      "codigo_ine": "18159",
       "nombre": "Ronda",
-      "provincia": "Málaga",
+      "provincia": "Andalucía",
       "latitud": 36.7468,
       "longitud": -5.1614,
       "estado_norma": "PERMITIDO",
-      "texto_normativa": "El Ayuntamiento de Ronda no dispone de una ordenanza restrictiva específica contra las autocaravanas, rigiéndose por la Instrucción PROT 2023/14 de la DGT (el estacionamiento no es acampada). El municipio fomenta el turismo de habitáculos rodados mediante el Área de Autocaravanas pública ubicada en la Calle Guadalcobacín (Zona El Fuerte), dotada de servicios de cambio de aguas y estancia máxima permitida de 72 horas.",
-      "resumen_corto": "Permitido. Área pública gratuita en C/ Guadalcobacín (máx. 72h) con vaciado y llenado de aguas.",
-      "fuente_url": "https://turismoronda.es/informacion-util/area-de-autocaravanas/",
-      "ultima_actualizacion": "2026-05-17"
+      "texto_normativa": "El Ayuntamiento de Ronda no dispone de ordenanza específica que regule la pernocta en autocaravanas. Se aplica la normativa general de tráfico. Área de autocaravanas habilitada en Av. Málaga s/n (gratuita, 72h máximo).",
+      "resumen_corto": "Permitido. Área gratuita en Av. Málaga (72h máx).",
+      "fuente_url": "https://www.andalucia.org/listing/%C3%81rea-de-pernocta-ciudad de-ronda/14704102/",
+      "ultima_actualizacion": "2023-11-20"
     }
   ]
 }
