@@ -1,7 +1,7 @@
 {
   "version": 2,
   "fecha_generacion": "2026-05-17",
-  "total_municipios": 3,
+  "total_municipios": 5,
   "municipios": [
     {
       "codigo_ine": "18087",
@@ -10,7 +10,7 @@
       "latitud": 37.1773,
       "longitud": -3.5986,
       "estado_norma": "RESTRINGIDO",
-      "texto_normativa": "Ordenanza Municipal de Convivencia Ciudadana (2019), art. 45: Se permite la estancia de vehículos habitables en zonas no urbanas siempre que no supere las 48h y no se generen residuos. Queda prohibido el uso de generadores entre las 22:00 y las 08:00 horas.",
+      "texto_normativa": "Ordenanza Municipal de Convivencia Ciudadana (2019), art. 45: Se permite la estancia de vehículos habitables en zonas no urbanas siempre que no supere las 48h and no se generen residuos. Queda prohibido el uso de generadores entre las 22:00 y las 08:00 horas.",
       "resumen_corto": "Permitido fuera de zona urbana, máx. 48h. Sin generadores nocturnos.",
       "fuente_url": "https://www.granada.org/inet/wordenanz.nsf/wwalias/33E8E05267172F0EC1257656003437A2",
       "ultima_actualizacion": "2024-03-15"
@@ -38,6 +38,30 @@
       "resumen_corto": "Permitido. Área gratuita en Av. Málaga (72h máx).",
       "fuente_url": "https://www.andalucia.org/listing/%C3%81rea-de-pernocta-ciudad de-ronda/14704102/",
       "ultima_actualizacion": "2023-11-20"
+    },
+    {
+      "codigo_ine": "30030",
+      "nombre": "Murcia",
+      "provincia": "Región de Murcia",
+      "latitud": 37.9922,
+      "longitud": -1.1307,
+      "estado_norma": "PERMITIDO",
+      "texto_normativa": "Se aplica el Decreto Regional Nº193/2022 de alojamientos turísticos. Se permite la pernocta de autocaravanas y campers en las vías públicas siempre que el vehículo esté correctamente aparcado (sin desplegar elementos hacia el exterior como toldos o mesas). Dispone de un área autorizada en el Centro Comercial Thader (Av. Juan de Borbón) limitada a 48h.",
+      "resumen_corto": "Permitido estacionado sin desplegar elementos. Área habilitada en CC Thader (máx. 48h).",
+      "fuente_url": "https://www.borm.es/services/anuncio/ano/2022/numero/5598/pdf",
+      "ultima_actualizacion": "2024-05-10"
+    },
+    {
+      "codigo_ine": "30005",
+      "nombre": "Alcantarilla",
+      "provincia": "Región de Murcia",
+      "latitud": 37.9725,
+      "longitud": -1.2144,
+      "estado_norma": "RESTRINGIDO",
+      "texto_normativa": "Ordenanza Municipal Reguladora del Tráfico (BORM Núm. 188, 2024), art. 5 y 6: Queda expresamente prohibido sacar toldos, mesas, tendederos o verter líquidos al exterior en el término municipal. No obstante, se permite estacionar y pernoctar en las áreas específicamente autorizadas por un máximo de 72 horas.",
+      "resumen_corto": "Restringido a estacionamiento sin elementos. Máximo 72h en puntos habilitados.",
+      "fuente_url": "https://www.borm.es/services/anuncio/829451/pdf",
+      "ultima_actualizacion": "2024-08-13"
     }
   ]
 }
