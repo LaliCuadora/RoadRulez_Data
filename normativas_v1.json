@@ -1,7 +1,7 @@
 {
-  "version": 2,
+  "version": 3,
   "fecha_generacion": "2026-05-17",
-  "total_municipios": 5,
+  "total_municipios": 6,
   "municipios": [
     {
       "codigo_ine": "18087",
@@ -62,6 +62,18 @@
       "resumen_corto": "Restringido a estacionamiento sin elementos. Máximo 72h en puntos habilitados.",
       "fuente_url": "https://www.borm.es/services/anuncio/829451/pdf",
       "ultima_actualizacion": "2024-08-13"
+    },
+    {
+      "codigo_ine": "30016",
+      "nombre": "Cartagena",
+      "provincia": "Región de Murcia",
+      "latitud": 37.6051,
+      "longitud": -0.9867,
+      "estado_norma": "RESTRINGIDO",
+      "texto_normativa": "Ordenanza de Reguladora del Uso de las Vías y Espacios Públicos: Se rige bajo la normativa general de estacionamiento de la DGT, permitiendo el aparcamiento y pernocta sin desplegar enseres. No obstante, está estrictamente prohibida la acampada y pernocta en todo el litoral costero, playas y zonas protegidas del término municipal (como el Parque Regional de Calblanque).",
+      "resumen_corto": "Permitido estacionado en casco urbano. Estrictamente prohibido en playas y Calblanque.",
+      "fuente_url": "https://www.cartagena.es/ordenanzas_ayuntamiento.asp",
+      "ultima_actualizacion": "2025-01-15"
     }
   ]
 }
