@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "fecha_generacion": "2026-05-18",
   "total_municipios": 8132,
   "municipios": [
@@ -70,7 +70,7 @@
     },
     {
       "codigo_ine": "30902",
-      "nombre": "Alcázares, Los",
+      "nombre": "Los Alcázares",
       "provincia": "Murcia",
       "comunidad_autonoma": "Región de Murcia",
       "latitud": 37.3922,
@@ -512,7 +512,7 @@
     },
     {
       "codigo_ine": "30038",
-      "nombre": "Torres de Cotillas, Las",
+      "nombre": "Las Torres de Cotillas",
       "provincia": "Murcia",
       "comunidad_autonoma": "Región de Murcia",
       "latitud": 38.4208,
@@ -551,7 +551,7 @@
     },
     {
       "codigo_ine": "30041",
-      "nombre": "Unión, La",
+      "nombre": "La Unión",
       "provincia": "Murcia",
       "comunidad_autonoma": "Región de Murcia",
       "latitud": 38.5922,
@@ -1409,7 +1409,7 @@
     },
     {
       "codigo_ine": "02014",
-      "nombre": "Ballestero, El",
+      "nombre": "El Ballestero",
       "provincia": "Albacete",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 38.5275,
@@ -1487,7 +1487,7 @@
     },
     {
       "codigo_ine": "02019",
-      "nombre": "Bonillo, El",
+      "nombre": "El Bonillo",
       "provincia": "Albacete",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 38.6609,
@@ -1695,7 +1695,7 @@
     },
     {
       "codigo_ine": "02035",
-      "nombre": "Gineta, La",
+      "nombre": "La Gineta",
       "provincia": "Albacete",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 38.7942,
@@ -1734,7 +1734,7 @@
     },
     {
       "codigo_ine": "02038",
-      "nombre": "Herrera, La",
+      "nombre": "La Herrera",
       "provincia": "Albacete",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 38.9275,
@@ -2111,7 +2111,7 @@
     },
     {
       "codigo_ine": "02066",
-      "nombre": "Recueja, La",
+      "nombre": "La Recueja",
       "provincia": "Albacete",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.3275,
@@ -2150,7 +2150,7 @@
     },
     {
       "codigo_ine": "02069",
-      "nombre": "Roda, La",
+      "nombre": "La Roda",
       "provincia": "Albacete",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.3275,
@@ -2514,7 +2514,7 @@
     },
     {
       "codigo_ine": "03011",
-      "nombre": "Alfàs del Pi, l'",
+      "nombre": "L'Alfàs del Pi",
       "provincia": "Alicante",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 37.7452,
@@ -2579,7 +2579,7 @@
     },
     {
       "codigo_ine": "03017",
-      "nombre": "Alqueria d'Asnar, l'",
+      "nombre": "L'Alqueria d'Asnar",
       "provincia": "Alicante",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 37.8452,
@@ -2618,7 +2618,7 @@
     },
     {
       "codigo_ine": "03001",
-      "nombre": "Atzúbia, l'",
+      "nombre": "L'Atzúbia",
       "provincia": "Alicante",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 37.8452,
@@ -3021,7 +3021,7 @@
     },
     {
       "codigo_ine": "03050",
-      "nombre": "Campello, el",
+      "nombre": "El Campello",
       "provincia": "Alicante",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.1452,
@@ -3073,7 +3073,7 @@
     },
     {
       "codigo_ine": "03075",
-      "nombre": "Castell de Guadalest, el",
+      "nombre": "El Castell de Guadalest",
       "provincia": "Alicante",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.1452,
@@ -3450,7 +3450,7 @@
     },
     {
       "codigo_ine": "03903",
-      "nombre": "Montesinos, Los",
+      "nombre": "Los Montesinos",
       "provincia": "Alicante",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.4452,
@@ -3515,7 +3515,7 @@
     },
     {
       "codigo_ine": "03094",
-      "nombre": "Nucia, la",
+      "nombre": "La Nucia",
       "provincia": "Alicante",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.4452,
@@ -3723,7 +3723,7 @@
     },
     {
       "codigo_ine": "03901",
-      "nombre": "Poblets, els",
+      "nombre": "Els Poblets",
       "provincia": "Alicante",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.6452,
@@ -3775,7 +3775,7 @@
     },
     {
       "codigo_ine": "03110",
-      "nombre": "Ràfol d'Almúnia, el",
+      "nombre": "El Ràfol d'Almúnia",
       "provincia": "Alicante",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.6452,
@@ -3827,7 +3827,7 @@
     },
     {
       "codigo_ine": "03114",
-      "nombre": "Romana, la",
+      "nombre": "La Romana",
       "provincia": "Alicante",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.7452,
@@ -4087,7 +4087,7 @@
     },
     {
       "codigo_ine": "03134",
-      "nombre": "Vall d'Alcalà, la",
+      "nombre": "La Vall d'Alcalà",
       "provincia": "Alicante",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.8452,
@@ -4100,7 +4100,7 @@
     },
     {
       "codigo_ine": "03136",
-      "nombre": "Vall de Gallinera, la",
+      "nombre": "La Vall de Gallinera",
       "provincia": "Alicante",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.9452,
@@ -4113,7 +4113,7 @@
     },
     {
       "codigo_ine": "03137",
-      "nombre": "Vall de Laguar, la",
+      "nombre": "La Vall de Laguar",
       "provincia": "Alicante",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.9452,
@@ -4126,7 +4126,7 @@
     },
     {
       "codigo_ine": "03135",
-      "nombre": "Vall d'Ebo, la",
+      "nombre": "La Vall d'Ebo",
       "provincia": "Alicante",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.9452,
@@ -4139,7 +4139,7 @@
     },
     {
       "codigo_ine": "03138",
-      "nombre": "Verger, el",
+      "nombre": "El Verger",
       "provincia": "Alicante",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.9452,
@@ -4215,8 +4215,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "04001",
       "nombre": "Abla",
@@ -4713,7 +4711,7 @@
     },
     {
       "codigo_ine": "04902",
-      "nombre": "Ejido, El",
+      "nombre": "El Ejido",
       "provincia": "Almería",
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.594,
@@ -4804,7 +4802,7 @@
     },
     {
       "codigo_ine": "04048",
-      "nombre": "Gallardos, Los",
+      "nombre": "Los Gallardos",
       "provincia": "Almería",
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.714,
@@ -5025,7 +5023,7 @@
     },
     {
       "codigo_ine": "04903",
-      "nombre": "Mojonera, La",
+      "nombre": "La Mojonera",
       "provincia": "Almería",
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.954,
@@ -5402,7 +5400,7 @@
     },
     {
       "codigo_ine": "04901",
-      "nombre": "Tres Villas, Las",
+      "nombre": "Las Tres Villas",
       "provincia": "Almería",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.314,
@@ -5556,8 +5554,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "05001",
       "nombre": "Adanero",
@@ -5573,7 +5569,7 @@
     },
     {
       "codigo_ine": "05002",
-      "nombre": "Adrada, La",
+      "nombre": "La Adrada",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.0566,
@@ -5625,7 +5621,7 @@
     },
     {
       "codigo_ine": "05010",
-      "nombre": "Aldehuela, La",
+      "nombre": "La Aldehuela",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.0566,
@@ -5651,7 +5647,7 @@
     },
     {
       "codigo_ine": "05013",
-      "nombre": "Arenal, El",
+      "nombre": "El Arenal",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.0566,
@@ -5742,7 +5738,7 @@
     },
     {
       "codigo_ine": "05021",
-      "nombre": "Barco de Ávila, El",
+      "nombre": "El Barco de Ávila",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.0566,
@@ -5755,7 +5751,7 @@
     },
     {
       "codigo_ine": "05022",
-      "nombre": "Barraco, El",
+      "nombre": "El Barraco",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.1316,
@@ -5820,7 +5816,7 @@
     },
     {
       "codigo_ine": "05027",
-      "nombre": "Berlanas, Las",
+      "nombre": "Las Berlanas",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.1316,
@@ -5898,7 +5894,7 @@
     },
     {
       "codigo_ine": "05036",
-      "nombre": "Bohodón, El",
+      "nombre": "El Bohodón",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.1316,
@@ -6080,7 +6076,7 @@
     },
     {
       "codigo_ine": "05051",
-      "nombre": "Carrera, La",
+      "nombre": "La Carrera",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.2066,
@@ -6223,7 +6219,7 @@
     },
     {
       "codigo_ine": "05061",
-      "nombre": "Colilla, La",
+      "nombre": "La Colilla",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.2816,
@@ -6392,7 +6388,7 @@
     },
     {
       "codigo_ine": "05076",
-      "nombre": "Fresno, El",
+      "nombre": "El Fresno",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.3566,
@@ -6639,7 +6635,7 @@
     },
     {
       "codigo_ine": "05096",
-      "nombre": "Hija de Dios, La",
+      "nombre": "La Hija de Dios",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.4316,
@@ -6652,7 +6648,7 @@
     },
     {
       "codigo_ine": "05097",
-      "nombre": "Horcajada, La",
+      "nombre": "La Horcajada",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.4316,
@@ -6678,7 +6674,7 @@
     },
     {
       "codigo_ine": "05100",
-      "nombre": "Hornillo, El",
+      "nombre": "El Hornillo",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.4316,
@@ -6691,7 +6687,7 @@
     },
     {
       "codigo_ine": "05102",
-      "nombre": "Hoyo de Pinares, El",
+      "nombre": "El Hoyo de Pinares",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.4316,
@@ -6821,7 +6817,7 @@
     },
     {
       "codigo_ine": "05113",
-      "nombre": "Llanos de Tormes, Los",
+      "nombre": "Los Llanos de Tormes",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.5066,
@@ -6834,7 +6830,7 @@
     },
     {
       "codigo_ine": "05112",
-      "nombre": "Losar del Barco, El",
+      "nombre": "El Losar del Barco",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.5066,
@@ -7042,7 +7038,7 @@
     },
     {
       "codigo_ine": "05129",
-      "nombre": "Mirón, El",
+      "nombre": "El Mirón",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.5816,
@@ -7510,7 +7506,7 @@
     },
     {
       "codigo_ine": "05168",
-      "nombre": "Navas del Marqués, Las",
+      "nombre": "Las Navas del Marqués",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.8066,
@@ -7601,7 +7597,7 @@
     },
     {
       "codigo_ine": "05175",
-      "nombre": "Oso, El",
+      "nombre": "El Oso",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.8066,
@@ -7666,7 +7662,7 @@
     },
     {
       "codigo_ine": "05180",
-      "nombre": "Parral, El",
+      "nombre": "El Parral",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.8066,
@@ -8342,7 +8338,7 @@
     },
     {
       "codigo_ine": "05232",
-      "nombre": "Serrada, La",
+      "nombre": "La Serrada",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.1066,
@@ -8459,7 +8455,7 @@
     },
     {
       "codigo_ine": "05241",
-      "nombre": "Tiemblo, El",
+      "nombre": "El Tiemblo",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.1066,
@@ -8524,7 +8520,7 @@
     },
     {
       "codigo_ine": "05247",
-      "nombre": "Torre, La",
+      "nombre": "La Torre",
       "provincia": "Ávila",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.1816,
@@ -8782,8 +8778,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "06001",
       "nombre": "Acedera",
@@ -8838,7 +8832,7 @@
     },
     {
       "codigo_ine": "06005",
-      "nombre": "Albuera, La",
+      "nombre": "La Albuera",
       "provincia": "Badajoz",
       "comunidad_autonoma": "Extremadura",
       "latitud": 38.2794,
@@ -9189,7 +9183,7 @@
     },
     {
       "codigo_ine": "06032",
-      "nombre": "Carrascalejo, El",
+      "nombre": "El Carrascalejo",
       "provincia": "Badajoz",
       "comunidad_autonoma": "Extremadura",
       "latitud": 38.464,
@@ -9267,7 +9261,7 @@
     },
     {
       "codigo_ine": "06037",
-      "nombre": "Codosera, La",
+      "nombre": "La Codosera",
       "provincia": "Badajoz",
       "comunidad_autonoma": "Extremadura",
       "latitud": 38.5563,
@@ -9293,7 +9287,7 @@
     },
     {
       "codigo_ine": "06039",
-      "nombre": "Coronada, La",
+      "nombre": "La Coronada",
       "provincia": "Badajoz",
       "comunidad_autonoma": "Extremadura",
       "latitud": 38.5563,
@@ -9527,7 +9521,7 @@
     },
     {
       "codigo_ine": "06058",
-      "nombre": "Garrovilla, La",
+      "nombre": "La Garrovilla",
       "provincia": "Badajoz",
       "comunidad_autonoma": "Extremadura",
       "latitud": 38.6486,
@@ -9579,7 +9573,7 @@
     },
     {
       "codigo_ine": "06061",
-      "nombre": "Haba, La",
+      "nombre": "La Haba",
       "provincia": "Badajoz",
       "comunidad_autonoma": "Extremadura",
       "latitud": 38.7409,
@@ -9709,7 +9703,7 @@
     },
     {
       "codigo_ine": "06071",
-      "nombre": "Lapa, La",
+      "nombre": "La Lapa",
       "provincia": "Badajoz",
       "comunidad_autonoma": "Extremadura",
       "latitud": 38.7409,
@@ -9943,7 +9937,7 @@
     },
     {
       "codigo_ine": "06089",
-      "nombre": "Morera, La",
+      "nombre": "La Morera",
       "provincia": "Badajoz",
       "comunidad_autonoma": "Extremadura",
       "latitud": 38.9256,
@@ -9956,7 +9950,7 @@
     },
     {
       "codigo_ine": "06090",
-      "nombre": "Nava de Santiago, La",
+      "nombre": "La Nava de Santiago",
       "provincia": "Badajoz",
       "comunidad_autonoma": "Extremadura",
       "latitud": 38.9256,
@@ -10073,7 +10067,7 @@
     },
     {
       "codigo_ine": "06099",
-      "nombre": "Parra, La",
+      "nombre": "La Parra",
       "provincia": "Badajoz",
       "comunidad_autonoma": "Extremadura",
       "latitud": 39.0179,
@@ -10294,7 +10288,7 @@
     },
     {
       "codigo_ine": "06115",
-      "nombre": "Roca de la Sierra, La",
+      "nombre": "La Roca de la Sierra",
       "provincia": "Badajoz",
       "comunidad_autonoma": "Extremadura",
       "latitud": 39.1102,
@@ -10398,7 +10392,7 @@
     },
     {
       "codigo_ine": "06122",
-      "nombre": "Santos de Maimona, Los",
+      "nombre": "Los Santos de Maimona",
       "provincia": "Badajoz",
       "comunidad_autonoma": "Extremadura",
       "latitud": 39.2025,
@@ -10905,7 +10899,7 @@
     },
     {
       "codigo_ine": "06162",
-      "nombre": "Zarza, La",
+      "nombre": "La Zarza",
       "provincia": "Badajoz",
       "comunidad_autonoma": "Extremadura",
       "latitud": 39.4794,
@@ -10929,8 +10923,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "07002",
       "nombre": "Alaior",
@@ -11128,7 +11120,7 @@
     },
     {
       "codigo_ine": "07064",
-      "nombre": "Castell, Es",
+      "nombre": "Es Castell",
       "provincia": "Islas Baleares",
       "comunidad_autonoma": "Islas Baleares",
       "latitud": 39.1196,
@@ -11427,7 +11419,7 @@
     },
     {
       "codigo_ine": "07037",
-      "nombre": "Mercadal, Es",
+      "nombre": "Es Mercadal",
       "provincia": "Islas Baleares",
       "comunidad_autonoma": "Islas Baleares",
       "latitud": 39.5696,
@@ -11440,7 +11432,7 @@
     },
     {
       "codigo_ine": "07902",
-      "nombre": "Migjorn Gran, Es",
+      "nombre": "Es Migjorn Gran",
       "provincia": "Islas Baleares",
       "comunidad_autonoma": "Islas Baleares",
       "latitud": 39.5696,
@@ -11505,7 +11497,7 @@
     },
     {
       "codigo_ine": "07044",
-      "nombre": "Pobla, Sa",
+      "nombre": "Sa Pobla",
       "provincia": "Islas Baleares",
       "comunidad_autonoma": "Islas Baleares",
       "latitud": 39.7196,
@@ -11557,7 +11549,7 @@
     },
     {
       "codigo_ine": "07059",
-      "nombre": "Salines, Ses",
+      "nombre": "Ses Salines",
       "provincia": "Islas Baleares",
       "comunidad_autonoma": "Islas Baleares",
       "latitud": 39.8696,
@@ -11802,8 +11794,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "08001",
       "nombre": "Abrera",
@@ -11871,7 +11861,7 @@
     },
     {
       "codigo_ine": "08005",
-      "nombre": "Ametlla del Vallès, L'",
+      "nombre": "L'Ametlla del Vallès",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.7851,
@@ -12144,7 +12134,7 @@
     },
     {
       "codigo_ine": "08025",
-      "nombre": "Bruc, El",
+      "nombre": "El Bruc",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.8518,
@@ -12157,7 +12147,7 @@
     },
     {
       "codigo_ine": "08026",
-      "nombre": "Brull, El",
+      "nombre": "El Brull",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.8518,
@@ -12170,7 +12160,7 @@
     },
     {
       "codigo_ine": "08027",
-      "nombre": "Cabanyes, Les",
+      "nombre": "Les Cabanyes",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.8518,
@@ -12859,7 +12849,7 @@
     },
     {
       "codigo_ine": "08078",
-      "nombre": "Espunyola, L'",
+      "nombre": "L'Espunyola",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.0518,
@@ -12872,7 +12862,7 @@
     },
     {
       "codigo_ine": "08254",
-      "nombre": "Esquirol, L'",
+      "nombre": "L'Esquirol",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.0518,
@@ -12885,7 +12875,7 @@
     },
     {
       "codigo_ine": "08079",
-      "nombre": "Estany, L'",
+      "nombre": "L'Estany",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.0518,
@@ -12989,7 +12979,7 @@
     },
     {
       "codigo_ine": "08086",
-      "nombre": "Franqueses del Vallès, Les",
+      "nombre": "Les Franqueses del Vallès",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.1184,
@@ -13028,7 +13018,7 @@
     },
     {
       "codigo_ine": "08088",
-      "nombre": "Garriga, La",
+      "nombre": "La Garriga",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.1184,
@@ -13093,7 +13083,7 @@
     },
     {
       "codigo_ine": "08094",
-      "nombre": "Granada, La",
+      "nombre": "La Granada",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.1184,
@@ -13171,7 +13161,7 @@
     },
     {
       "codigo_ine": "08101",
-      "nombre": "Hospitalet de Llobregat, L'",
+      "nombre": "L'Hospitalet de Llobregat",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.1851,
@@ -13184,7 +13174,7 @@
     },
     {
       "codigo_ine": "08162",
-      "nombre": "Hostalets de Pierola, Els",
+      "nombre": "Els Hostalets de Pierola",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.1851,
@@ -13223,7 +13213,7 @@
     },
     {
       "codigo_ine": "08104",
-      "nombre": "Llacuna, La",
+      "nombre": "La Llacuna",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.1851,
@@ -13236,7 +13226,7 @@
     },
     {
       "codigo_ine": "08105",
-      "nombre": "Llagosta, La",
+      "nombre": "La Llagosta",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.1851,
@@ -13392,7 +13382,7 @@
     },
     {
       "codigo_ine": "08116",
-      "nombre": "Masies de Roda, Les",
+      "nombre": "Les Masies de Roda",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.2518,
@@ -13405,7 +13395,7 @@
     },
     {
       "codigo_ine": "08117",
-      "nombre": "Masies de Voltregà, Les",
+      "nombre": "Les Masies de Voltregà",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.2518,
@@ -13418,7 +13408,7 @@
     },
     {
       "codigo_ine": "08118",
-      "nombre": "Masnou, El",
+      "nombre": "El Masnou",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.2518,
@@ -13717,7 +13707,7 @@
     },
     {
       "codigo_ine": "08142",
-      "nombre": "Nou de Berguedà, La",
+      "nombre": "La Nou de Berguedà",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.3184,
@@ -13925,7 +13915,7 @@
     },
     {
       "codigo_ine": "08905",
-      "nombre": "Palma de Cervelló, La",
+      "nombre": "La Palma de Cervelló",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.3851,
@@ -13938,7 +13928,7 @@
     },
     {
       "codigo_ine": "08158",
-      "nombre": "Papiol, El",
+      "nombre": "El Papiol",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.3851,
@@ -14003,7 +13993,7 @@
     },
     {
       "codigo_ine": "08164",
-      "nombre": "Pla del Penedès, El",
+      "nombre": "El Pla del Penedès",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.3851,
@@ -14016,7 +14006,7 @@
     },
     {
       "codigo_ine": "08165",
-      "nombre": "Pobla de Claramunt, La",
+      "nombre": "La Pobla de Claramunt",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.4518,
@@ -14029,7 +14019,7 @@
     },
     {
       "codigo_ine": "08166",
-      "nombre": "Pobla de Lillet, La",
+      "nombre": "La Pobla de Lillet",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.4518,
@@ -14055,7 +14045,7 @@
     },
     {
       "codigo_ine": "08182",
-      "nombre": "Pont de Vilomara i Rocafort, El",
+      "nombre": "El Pont de Vilomara i Rocafort",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.4518,
@@ -14081,7 +14071,7 @@
     },
     {
       "codigo_ine": "08169",
-      "nombre": "Prat de Llobregat, El",
+      "nombre": "El Prat de Llobregat",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.4518,
@@ -14107,7 +14097,7 @@
     },
     {
       "codigo_ine": "08170",
-      "nombre": "Prats de Rei, Els",
+      "nombre": "Els Prats de Rei",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.4518,
@@ -14185,7 +14175,7 @@
     },
     {
       "codigo_ine": "08177",
-      "nombre": "Quar, La",
+      "nombre": "La Quar",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.4518,
@@ -14237,7 +14227,7 @@
     },
     {
       "codigo_ine": "08181",
-      "nombre": "Roca del Vallès, La",
+      "nombre": "La Roca del Vallès",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.5184,
@@ -15511,7 +15501,7 @@
     },
     {
       "codigo_ine": "08286",
-      "nombre": "Torre de Claramunt, La",
+      "nombre": "La Torre de Claramunt",
       "provincia": "Barcelona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.8518,
@@ -15847,8 +15837,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "09001",
       "nombre": "Abajas",
@@ -15981,7 +15969,7 @@
     },
     {
       "codigo_ine": "09014",
-      "nombre": "Altos, Los",
+      "nombre": "Los Altos",
       "provincia": "Burgos",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.744,
@@ -16163,7 +16151,7 @@
     },
     {
       "codigo_ine": "09030",
-      "nombre": "Ausines, Los",
+      "nombre": "Los Ausines",
       "provincia": "Burgos",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.8072,
@@ -16202,7 +16190,7 @@
     },
     {
       "codigo_ine": "09034",
-      "nombre": "Balbases, Los",
+      "nombre": "Los Balbases",
       "provincia": "Burgos",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.8072,
@@ -16293,7 +16281,7 @@
     },
     {
       "codigo_ine": "09043",
-      "nombre": "Barrios de Bureba, Los",
+      "nombre": "Los Barrios de Bureba",
       "provincia": "Burgos",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.8072,
@@ -17060,7 +17048,7 @@
     },
     {
       "codigo_ine": "09117",
-      "nombre": "Cueva de Roa, La",
+      "nombre": "La Cueva de Roa",
       "provincia": "Burgos",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.9966,
@@ -17359,7 +17347,7 @@
     },
     {
       "codigo_ine": "09144",
-      "nombre": "Gallega, La",
+      "nombre": "La Gallega",
       "provincia": "Burgos",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.1229,
@@ -17515,7 +17503,7 @@
     },
     {
       "codigo_ine": "09166",
-      "nombre": "Hormazas, Las",
+      "nombre": "Las Hormazas",
       "provincia": "Burgos",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.1229,
@@ -17541,7 +17529,7 @@
     },
     {
       "codigo_ine": "09168",
-      "nombre": "Horra, La",
+      "nombre": "La Horra",
       "provincia": "Burgos",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.1229,
@@ -18646,7 +18634,7 @@
     },
     {
       "codigo_ine": "09276",
-      "nombre": "Puebla de Arganzón, La",
+      "nombre": "La Puebla de Arganzón",
       "provincia": "Burgos",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.4387,
@@ -18841,7 +18829,7 @@
     },
     {
       "codigo_ine": "09297",
-      "nombre": "Quintanillas, Las",
+      "nombre": "Las Quintanillas",
       "provincia": "Burgos",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.5019,
@@ -18997,7 +18985,7 @@
     },
     {
       "codigo_ine": "09312",
-      "nombre": "Revilla y Ahedo, La",
+      "nombre": "La Revilla y Ahedo",
       "provincia": "Burgos",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.5019,
@@ -19465,7 +19453,7 @@
     },
     {
       "codigo_ine": "09365",
-      "nombre": "Sequera de Haza, La",
+      "nombre": "La Sequera de Haza",
       "provincia": "Burgos",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.6282,
@@ -20063,7 +20051,7 @@
     },
     {
       "codigo_ine": "09422",
-      "nombre": "Vid de Bureba, La",
+      "nombre": "La Vid de Bureba",
       "provincia": "Burgos",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.8177,
@@ -20076,7 +20064,7 @@
     },
     {
       "codigo_ine": "09421",
-      "nombre": "Vid y Barrios, La",
+      "nombre": "La Vid y Barrios",
       "provincia": "Burgos",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.8177,
@@ -20672,8 +20660,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "10001",
       "nombre": "Abadía",
@@ -20832,7 +20818,7 @@
     },
     {
       "codigo_ine": "10013",
-      "nombre": "Aldea del Obispo, La",
+      "nombre": "La Aldea del Obispo",
       "provincia": "Cáceres",
       "comunidad_autonoma": "Extremadura",
       "latitud": 38.8752,
@@ -21573,7 +21559,7 @@
     },
     {
       "codigo_ine": "10069",
-      "nombre": "Cumbre, La",
+      "nombre": "La Cumbre",
       "provincia": "Cáceres",
       "comunidad_autonoma": "Extremadura",
       "latitud": 39.1952,
@@ -21690,7 +21676,7 @@
     },
     {
       "codigo_ine": "10078",
-      "nombre": "Garganta, La",
+      "nombre": "La Garganta",
       "provincia": "Cáceres",
       "comunidad_autonoma": "Extremadura",
       "latitud": 39.2752,
@@ -21768,7 +21754,7 @@
     },
     {
       "codigo_ine": "10085",
-      "nombre": "Gordo, El",
+      "nombre": "El Gordo",
       "provincia": "Cáceres",
       "comunidad_autonoma": "Extremadura",
       "latitud": 39.3552,
@@ -21781,7 +21767,7 @@
     },
     {
       "codigo_ine": "10086",
-      "nombre": "Granja, La",
+      "nombre": "La Granja",
       "provincia": "Cáceres",
       "comunidad_autonoma": "Extremadura",
       "latitud": 39.3552,
@@ -22535,7 +22521,7 @@
     },
     {
       "codigo_ine": "10144",
-      "nombre": "Pesga, La",
+      "nombre": "La Pesga",
       "provincia": "Cáceres",
       "comunidad_autonoma": "Extremadura",
       "latitud": 39.6752,
@@ -23094,7 +23080,7 @@
     },
     {
       "codigo_ine": "10184",
-      "nombre": "Torno, El",
+      "nombre": "El Torno",
       "provincia": "Cáceres",
       "comunidad_autonoma": "Extremadura",
       "latitud": 39.9152,
@@ -23573,8 +23559,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "11001",
       "nombre": "Alcalá de los Gazules",
@@ -23668,7 +23652,7 @@
     },
     {
       "codigo_ine": "11008",
-      "nombre": "Barrios, Los",
+      "nombre": "Los Barrios",
       "provincia": "Cádiz",
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.0985,
@@ -23720,7 +23704,7 @@
     },
     {
       "codigo_ine": "11011",
-      "nombre": "Bosque, El",
+      "nombre": "El Bosque",
       "provincia": "Cádiz",
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.0985,
@@ -23811,7 +23795,7 @@
     },
     {
       "codigo_ine": "11018",
-      "nombre": "Gastor, El",
+      "nombre": "El Gastor",
       "provincia": "Cádiz",
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.4414,
@@ -23863,7 +23847,7 @@
     },
     {
       "codigo_ine": "11022",
-      "nombre": "Línea de la Concepción, La",
+      "nombre": "La Línea de la Concepción",
       "provincia": "Cádiz",
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.4414,
@@ -23928,7 +23912,7 @@
     },
     {
       "codigo_ine": "11027",
-      "nombre": "Puerto de Santa María, El",
+      "nombre": "El Puerto de Santa María",
       "provincia": "Cádiz",
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.6128,
@@ -24160,8 +24144,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "12002",
       "nombre": "Aín",
@@ -24203,7 +24185,7 @@
     },
     {
       "codigo_ine": "12005",
-      "nombre": "Alcora, l'",
+      "nombre": "L'Alcora",
       "provincia": "Castellón",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.3864,
@@ -24775,7 +24757,7 @@
     },
     {
       "codigo_ine": "12050",
-      "nombre": "Coves de Vinromà, les",
+      "nombre": "Les Coves de Vinromà",
       "provincia": "Castellón",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.7864,
@@ -24944,7 +24926,7 @@
     },
     {
       "codigo_ine": "12070",
-      "nombre": "Jana, la",
+      "nombre": "La Jana",
       "provincia": "Castellón",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.8864,
@@ -24970,7 +24952,7 @@
     },
     {
       "codigo_ine": "12074",
-      "nombre": "Llosa, la",
+      "nombre": "La Llosa",
       "provincia": "Castellón",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.8864,
@@ -25009,7 +24991,7 @@
     },
     {
       "codigo_ine": "12075",
-      "nombre": "Mata de Morella, la",
+      "nombre": "La Mata de Morella",
       "provincia": "Castellón",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.8864,
@@ -25204,7 +25186,7 @@
     },
     {
       "codigo_ine": "12093",
-      "nombre": "Pobla de Benifassà, la",
+      "nombre": "La Pobla de Benifassà",
       "provincia": "Castellón",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 40.0864,
@@ -25217,7 +25199,7 @@
     },
     {
       "codigo_ine": "12094",
-      "nombre": "Pobla Tornesa, la",
+      "nombre": "La Pobla Tornesa",
       "provincia": "Castellón",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 40.0864,
@@ -25295,7 +25277,7 @@
     },
     {
       "codigo_ine": "12098",
-      "nombre": "Salzadella, la",
+      "nombre": "La Salzadella",
       "provincia": "Castellón",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 40.0864,
@@ -25386,7 +25368,7 @@
     },
     {
       "codigo_ine": "12103",
-      "nombre": "Serratella, la",
+      "nombre": "La Serratella",
       "provincia": "Castellón",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 40.1864,
@@ -25529,7 +25511,7 @@
     },
     {
       "codigo_ine": "12115",
-      "nombre": "Toro, El",
+      "nombre": "El Toro",
       "provincia": "Castellón",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 40.2864,
@@ -25555,7 +25537,7 @@
     },
     {
       "codigo_ine": "12119",
-      "nombre": "Torre d'en Besora, la",
+      "nombre": "La Torre d'en Besora",
       "provincia": "Castellón",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 40.2864,
@@ -25568,7 +25550,7 @@
     },
     {
       "codigo_ine": "12120",
-      "nombre": "Torre d'en Doménec, la",
+      "nombre": "La Torre d'en Doménec",
       "provincia": "Castellón",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 40.2864,
@@ -25659,7 +25641,7 @@
     },
     {
       "codigo_ine": "12126",
-      "nombre": "Vall d'Uixó, la",
+      "nombre": "La Vall d'Uixó",
       "provincia": "Castellón",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 40.3864,
@@ -25763,7 +25745,7 @@
     },
     {
       "codigo_ine": "12136",
-      "nombre": "Vilavella, la",
+      "nombre": "La Vilavella",
       "provincia": "Castellón",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 40.4864,
@@ -25917,8 +25899,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "13001",
       "nombre": "Abenójar",
@@ -26402,7 +26382,7 @@
     },
     {
       "codigo_ine": "13036",
-      "nombre": "Cortijos, Los",
+      "nombre": "Los Cortijos",
       "provincia": "Ciudad Real",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 38.7448,
@@ -26571,7 +26551,7 @@
     },
     {
       "codigo_ine": "13050",
-      "nombre": "Labores, Las",
+      "nombre": "Las Labores",
       "provincia": "Ciudad Real",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 38.9848,
@@ -26805,7 +26785,7 @@
     },
     {
       "codigo_ine": "13067",
-      "nombre": "Pozuelos de Calatrava, Los",
+      "nombre": "Los Pozuelos de Calatrava",
       "provincia": "Ciudad Real",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.1048,
@@ -26883,7 +26863,7 @@
     },
     {
       "codigo_ine": "13901",
-      "nombre": "Robledo, El",
+      "nombre": "El Robledo",
       "provincia": "Ciudad Real",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.2248,
@@ -27000,7 +26980,7 @@
     },
     {
       "codigo_ine": "13079",
-      "nombre": "Solana, La",
+      "nombre": "La Solana",
       "provincia": "Ciudad Real",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.3448,
@@ -27245,8 +27225,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "14001",
       "nombre": "Adamuz",
@@ -27379,7 +27357,7 @@
     },
     {
       "codigo_ine": "14011",
-      "nombre": "Blázquez, Los",
+      "nombre": "Los Blázquez",
       "provincia": "Córdoba",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.4215,
@@ -27457,7 +27435,7 @@
     },
     {
       "codigo_ine": "14017",
-      "nombre": "Carlota, La",
+      "nombre": "La Carlota",
       "provincia": "Córdoba",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.5549,
@@ -27470,7 +27448,7 @@
     },
     {
       "codigo_ine": "14018",
-      "nombre": "Carpio, El",
+      "nombre": "El Carpio",
       "provincia": "Córdoba",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.5549,
@@ -27665,7 +27643,7 @@
     },
     {
       "codigo_ine": "14032",
-      "nombre": "Granjuela, La",
+      "nombre": "La Granjuela",
       "provincia": "Córdoba",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.8215,
@@ -27691,7 +27669,7 @@
     },
     {
       "codigo_ine": "14902",
-      "nombre": "Guijarrosa, La",
+      "nombre": "La Guijarrosa",
       "provincia": "Córdoba",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.8215,
@@ -27704,7 +27682,7 @@
     },
     {
       "codigo_ine": "14034",
-      "nombre": "Guijo, El",
+      "nombre": "El Guijo",
       "provincia": "Córdoba",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.8215,
@@ -28003,7 +27981,7 @@
     },
     {
       "codigo_ine": "14057",
-      "nombre": "Rambla, La",
+      "nombre": "La Rambla",
       "provincia": "Córdoba",
       "comunidad_autonoma": "Andalucía",
       "latitud": 38.2215,
@@ -28107,7 +28085,7 @@
     },
     {
       "codigo_ine": "14065",
-      "nombre": "Victoria, La",
+      "nombre": "La Victoria",
       "provincia": "Córdoba",
       "comunidad_autonoma": "Andalucía",
       "latitud": 38.3549,
@@ -28224,7 +28202,7 @@
     },
     {
       "codigo_ine": "14074",
-      "nombre": "Viso, El",
+      "nombre": "El Viso",
       "provincia": "Córdoba",
       "comunidad_autonoma": "Andalucía",
       "latitud": 38.4882,
@@ -28248,8 +28226,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "15001",
       "nombre": "Abegondo",
@@ -29149,7 +29125,7 @@
     },
     {
       "codigo_ine": "15070",
-      "nombre": "Pontes de García Rodríguez, As",
+      "nombre": "As Pontes de García Rodríguez",
       "provincia": "A Coruña",
       "comunidad_autonoma": "Galicia",
       "latitud": 43.6113,
@@ -29292,7 +29268,7 @@
     },
     {
       "codigo_ine": "15081",
-      "nombre": "Somozas, As",
+      "nombre": "As Somozas",
       "provincia": "A Coruña",
       "comunidad_autonoma": "Galicia",
       "latitud": 43.7313,
@@ -29459,8 +29435,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "16001",
       "nombre": "Abia de la Obispalía",
@@ -29476,7 +29450,7 @@
     },
     {
       "codigo_ine": "16002",
-      "nombre": "Acebrón, El",
+      "nombre": "El Acebrón",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.4704,
@@ -29541,7 +29515,7 @@
     },
     {
       "codigo_ine": "16007",
-      "nombre": "Alberca de Záncara, La",
+      "nombre": "La Alberca de Záncara",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.4704,
@@ -29645,7 +29619,7 @@
     },
     {
       "codigo_ine": "16015",
-      "nombre": "Almarcha, La",
+      "nombre": "La Almarcha",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.4704,
@@ -30061,7 +30035,7 @@
     },
     {
       "codigo_ine": "16049",
-      "nombre": "Cañavate, El",
+      "nombre": "El Cañavate",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.7104,
@@ -30373,7 +30347,7 @@
     },
     {
       "codigo_ine": "16074",
-      "nombre": "Cierva, La",
+      "nombre": "La Cierva",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.7904,
@@ -30451,7 +30425,7 @@
     },
     {
       "codigo_ine": "16085",
-      "nombre": "Frontera, La",
+      "nombre": "La Frontera",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.8704,
@@ -30620,7 +30594,7 @@
     },
     {
       "codigo_ine": "16098",
-      "nombre": "Herrumblar, El",
+      "nombre": "El Herrumblar",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.8704,
@@ -30633,7 +30607,7 @@
     },
     {
       "codigo_ine": "16099",
-      "nombre": "Hinojosa, La",
+      "nombre": "La Hinojosa",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.9504,
@@ -30646,7 +30620,7 @@
     },
     {
       "codigo_ine": "16100",
-      "nombre": "Hinojosos, Los",
+      "nombre": "Los Hinojosos",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.9504,
@@ -30659,7 +30633,7 @@
     },
     {
       "codigo_ine": "16101",
-      "nombre": "Hito, El",
+      "nombre": "El Hito",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.9504,
@@ -30880,7 +30854,7 @@
     },
     {
       "codigo_ine": "16121",
-      "nombre": "Majadas, Las",
+      "nombre": "Las Majadas",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.0304,
@@ -30919,7 +30893,7 @@
     },
     {
       "codigo_ine": "16124",
-      "nombre": "Mesas, Las",
+      "nombre": "Las Mesas",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.0304,
@@ -31231,7 +31205,7 @@
     },
     {
       "codigo_ine": "16152",
-      "nombre": "Parra de las Vegas, La",
+      "nombre": "La Parra de las Vegas",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.1904,
@@ -31244,7 +31218,7 @@
     },
     {
       "codigo_ine": "16153",
-      "nombre": "Pedernoso, El",
+      "nombre": "El Pedernoso",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.1904,
@@ -31257,7 +31231,7 @@
     },
     {
       "codigo_ine": "16154",
-      "nombre": "Pedroñeras, Las",
+      "nombre": "Las Pedroñeras",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.1904,
@@ -31270,7 +31244,7 @@
     },
     {
       "codigo_ine": "16155",
-      "nombre": "Peral, El",
+      "nombre": "El Peral",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.1904,
@@ -31283,7 +31257,7 @@
     },
     {
       "codigo_ine": "16156",
-      "nombre": "Peraleja, La",
+      "nombre": "La Peraleja",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.1904,
@@ -31296,7 +31270,7 @@
     },
     {
       "codigo_ine": "16157",
-      "nombre": "Pesquera, La",
+      "nombre": "La Pesquera",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.1904,
@@ -31309,7 +31283,7 @@
     },
     {
       "codigo_ine": "16158",
-      "nombre": "Picazo, El",
+      "nombre": "El Picazo",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.1904,
@@ -31439,7 +31413,7 @@
     },
     {
       "codigo_ine": "16169",
-      "nombre": "Pozuelo, El",
+      "nombre": "El Pozuelo",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.2704,
@@ -31465,7 +31439,7 @@
     },
     {
       "codigo_ine": "16171",
-      "nombre": "Provencio, El",
+      "nombre": "El Provencio",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.2704,
@@ -31946,7 +31920,7 @@
     },
     {
       "codigo_ine": "16906",
-      "nombre": "Valdecolmenas, Los",
+      "nombre": "Los Valdecolmenas",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.4304,
@@ -32024,7 +31998,7 @@
     },
     {
       "codigo_ine": "16903",
-      "nombre": "Valeras, Las",
+      "nombre": "Las Valeras",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.5104,
@@ -32050,7 +32024,7 @@
     },
     {
       "codigo_ine": "16173",
-      "nombre": "Valle de Altomira, El",
+      "nombre": "El Valle de Altomira",
       "provincia": "Cuenca",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.5104,
@@ -32555,8 +32529,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "17001",
       "nombre": "Agullana",
@@ -32676,7 +32648,7 @@
     },
     {
       "codigo_ine": "17011",
-      "nombre": "Armentera, L'",
+      "nombre": "L'Armentera",
       "provincia": "Girona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.3794,
@@ -32793,7 +32765,7 @@
     },
     {
       "codigo_ine": "17022",
-      "nombre": "Bisbal d'Empordà, La",
+      "nombre": "La Bisbal d'Empordà",
       "provincia": "Girona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.4594,
@@ -33131,7 +33103,7 @@
     },
     {
       "codigo_ine": "17189",
-      "nombre": "Cellera de Ter, La",
+      "nombre": "La Cellera de Ter",
       "provincia": "Girona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.6194,
@@ -33287,7 +33259,7 @@
     },
     {
       "codigo_ine": "17062",
-      "nombre": "Escala, L'",
+      "nombre": "L'Escala",
       "provincia": "Girona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.6994,
@@ -33339,7 +33311,7 @@
     },
     {
       "codigo_ine": "17005",
-      "nombre": "Far d'Empordà, El",
+      "nombre": "El Far d'Empordà",
       "provincia": "Girona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.6994,
@@ -33612,7 +33584,7 @@
     },
     {
       "codigo_ine": "17086",
-      "nombre": "Jonquera, La",
+      "nombre": "La Jonquera",
       "provincia": "Girona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.7794,
@@ -33742,7 +33714,7 @@
     },
     {
       "codigo_ine": "17096",
-      "nombre": "Llosses, Les",
+      "nombre": "Les Llosses",
       "provincia": "Girona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.8594,
@@ -34119,7 +34091,7 @@
     },
     {
       "codigo_ine": "17130",
-      "nombre": "Pera, La",
+      "nombre": "La Pera",
       "provincia": "Girona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 42.0194,
@@ -34145,7 +34117,7 @@
     },
     {
       "codigo_ine": "17133",
-      "nombre": "Planes d'Hostoles, Les",
+      "nombre": "Les Planes d'Hostoles",
       "provincia": "Girona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 42.0194,
@@ -34210,7 +34182,7 @@
     },
     {
       "codigo_ine": "17140",
-      "nombre": "Port de la Selva, El",
+      "nombre": "El Port de la Selva",
       "provincia": "Girona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 42.0994,
@@ -34236,7 +34208,7 @@
     },
     {
       "codigo_ine": "17139",
-      "nombre": "Preses, Les",
+      "nombre": "Les Preses",
       "provincia": "Girona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 42.0994,
@@ -34847,7 +34819,7 @@
     },
     {
       "codigo_ine": "17188",
-      "nombre": "Selva de Mar, La",
+      "nombre": "La Selva de Mar",
       "provincia": "Girona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 42.3394,
@@ -34938,7 +34910,7 @@
     },
     {
       "codigo_ine": "17195",
-      "nombre": "Tallada d'Empordà, La",
+      "nombre": "La Tallada d'Empordà",
       "provincia": "Girona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 42.4194,
@@ -35094,7 +35066,7 @@
     },
     {
       "codigo_ine": "17014",
-      "nombre": "Vajol, La",
+      "nombre": "La Vajol",
       "provincia": "Girona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 42.4194,
@@ -35107,7 +35079,7 @@
     },
     {
       "codigo_ine": "17208",
-      "nombre": "Vall de Bianya, La",
+      "nombre": "La Vall de Bianya",
       "provincia": "Girona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 42.4994,
@@ -35120,7 +35092,7 @@
     },
     {
       "codigo_ine": "17207",
-      "nombre": "Vall d'en Bas, La",
+      "nombre": "La Vall d'en Bas",
       "provincia": "Girona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 42.4994,
@@ -35430,8 +35402,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "18001",
       "nombre": "Agrón",
@@ -35850,7 +35820,7 @@
     },
     {
       "codigo_ine": "18114",
-      "nombre": "Calahorra, La",
+      "nombre": "La Calahorra",
       "provincia": "Granada",
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.7619,
@@ -36357,7 +36327,7 @@
     },
     {
       "codigo_ine": "18905",
-      "nombre": "Gabias, Las",
+      "nombre": "Las Gabias",
       "provincia": "Granada",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.0388,
@@ -36474,7 +36444,7 @@
     },
     {
       "codigo_ine": "18906",
-      "nombre": "Guájares, Los",
+      "nombre": "Los Guájares",
       "provincia": "Granada",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.1311,
@@ -36838,7 +36808,7 @@
     },
     {
       "codigo_ine": "18126",
-      "nombre": "Malahá, La",
+      "nombre": "La Malahá",
       "provincia": "Granada",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.3158,
@@ -37150,7 +37120,7 @@
     },
     {
       "codigo_ine": "18154",
-      "nombre": "Peza, La",
+      "nombre": "La Peza",
       "provincia": "Granada",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.5004,
@@ -37163,7 +37133,7 @@
     },
     {
       "codigo_ine": "18910",
-      "nombre": "Pinar, El",
+      "nombre": "El Pinar",
       "provincia": "Granada",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.5004,
@@ -37397,7 +37367,7 @@
     },
     {
       "codigo_ine": "18901",
-      "nombre": "Taha, La",
+      "nombre": "La Taha",
       "provincia": "Granada",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.5927,
@@ -37514,7 +37484,7 @@
     },
     {
       "codigo_ine": "18902",
-      "nombre": "Valle, El",
+      "nombre": "El Valle",
       "provincia": "Granada",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.685,
@@ -37670,7 +37640,7 @@
     },
     {
       "codigo_ine": "18193",
-      "nombre": "Zubia, La",
+      "nombre": "La Zubia",
       "provincia": "Granada",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.7773,
@@ -37694,8 +37664,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "19001",
       "nombre": "Abánades",
@@ -38257,7 +38225,7 @@
     },
     {
       "codigo_ine": "19052",
-      "nombre": "Bodera, La",
+      "nombre": "La Bodera",
       "provincia": "Guadalajara",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.1745,
@@ -38413,7 +38381,7 @@
     },
     {
       "codigo_ine": "19067",
-      "nombre": "Cardoso de la Sierra, El",
+      "nombre": "El Cardoso de la Sierra",
       "provincia": "Guadalajara",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.2451,
@@ -38439,7 +38407,7 @@
     },
     {
       "codigo_ine": "19071",
-      "nombre": "Casar, El",
+      "nombre": "El Casar",
       "provincia": "Guadalajara",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.2451,
@@ -38777,7 +38745,7 @@
     },
     {
       "codigo_ine": "19102",
-      "nombre": "Cubillo de Uceda, El",
+      "nombre": "El Cubillo de Uceda",
       "provincia": "Guadalajara",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.3862,
@@ -39219,7 +39187,7 @@
     },
     {
       "codigo_ine": "19146",
-      "nombre": "Huerce, La",
+      "nombre": "La Huerce",
       "provincia": "Guadalajara",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.5274,
@@ -39310,7 +39278,7 @@
     },
     {
       "codigo_ine": "19154",
-      "nombre": "Inviernas, Las",
+      "nombre": "Las Inviernas",
       "provincia": "Guadalajara",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.5274,
@@ -39635,7 +39603,7 @@
     },
     {
       "codigo_ine": "19182",
-      "nombre": "Mierla, La",
+      "nombre": "La Mierla",
       "provincia": "Guadalajara",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.6686,
@@ -39674,7 +39642,7 @@
     },
     {
       "codigo_ine": "19185",
-      "nombre": "Miñosa, La",
+      "nombre": "La Miñosa",
       "provincia": "Guadalajara",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.6686,
@@ -39830,7 +39798,7 @@
     },
     {
       "codigo_ine": "19197",
-      "nombre": "Navas de Jadraque, Las",
+      "nombre": "Las Navas de Jadraque",
       "provincia": "Guadalajara",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.7392,
@@ -39869,7 +39837,7 @@
     },
     {
       "codigo_ine": "19200",
-      "nombre": "Olivar, El",
+      "nombre": "El Olivar",
       "provincia": "Guadalajara",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.7392,
@@ -39895,7 +39863,7 @@
     },
     {
       "codigo_ine": "19202",
-      "nombre": "Olmeda de Jadraque, La",
+      "nombre": "La Olmeda de Jadraque",
       "provincia": "Guadalajara",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.7392,
@@ -39908,7 +39876,7 @@
     },
     {
       "codigo_ine": "19203",
-      "nombre": "Ordial, El",
+      "nombre": "El Ordial",
       "provincia": "Guadalajara",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.7392,
@@ -39999,7 +39967,7 @@
     },
     {
       "codigo_ine": "19213",
-      "nombre": "Pedregal, El",
+      "nombre": "El Pedregal",
       "provincia": "Guadalajara",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.8098,
@@ -40116,7 +40084,7 @@
     },
     {
       "codigo_ine": "19222",
-      "nombre": "Pobo de Dueñas, El",
+      "nombre": "El Pobo de Dueñas",
       "provincia": "Guadalajara",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.8098,
@@ -40246,7 +40214,7 @@
     },
     {
       "codigo_ine": "19232",
-      "nombre": "Recuenco, El",
+      "nombre": "El Recuenco",
       "provincia": "Guadalajara",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.8804,
@@ -40597,7 +40565,7 @@
     },
     {
       "codigo_ine": "19260",
-      "nombre": "Sotillo, El",
+      "nombre": "El Sotillo",
       "provincia": "Guadalajara",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.9509,
@@ -40714,7 +40682,7 @@
     },
     {
       "codigo_ine": "19269",
-      "nombre": "Toba, La",
+      "nombre": "La Toba",
       "provincia": "Guadalajara",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 41.0215,
@@ -41390,7 +41358,7 @@
     },
     {
       "codigo_ine": "19332",
-      "nombre": "Yunta, La",
+      "nombre": "La Yunta",
       "provincia": "Guadalajara",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 41.2333,
@@ -41440,8 +41408,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "20001",
       "nombre": "Abaltzisketa",
@@ -42586,8 +42552,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "21001",
       "nombre": "Alájar",
@@ -42616,7 +42580,7 @@
     },
     {
       "codigo_ine": "21003",
-      "nombre": "Almendro, El",
+      "nombre": "El Almendro",
       "provincia": "Huelva",
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.6614,
@@ -42811,7 +42775,7 @@
     },
     {
       "codigo_ine": "21018",
-      "nombre": "Campillo, El",
+      "nombre": "El Campillo",
       "provincia": "Huelva",
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.9281,
@@ -42876,7 +42840,7 @@
     },
     {
       "codigo_ine": "21023",
-      "nombre": "Cerro de Andévalo, El",
+      "nombre": "El Cerro de Andévalo",
       "provincia": "Huelva",
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.9281,
@@ -43045,7 +43009,7 @@
     },
     {
       "codigo_ine": "21036",
-      "nombre": "Granada de Río-Tinto, La",
+      "nombre": "La Granada de Río-Tinto",
       "provincia": "Huelva",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.1947,
@@ -43058,7 +43022,7 @@
     },
     {
       "codigo_ine": "21037",
-      "nombre": "Granado, El",
+      "nombre": "El Granado",
       "provincia": "Huelva",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.1947,
@@ -43201,7 +43165,7 @@
     },
     {
       "codigo_ine": "21048",
-      "nombre": "Marines, Los",
+      "nombre": "Los Marines",
       "provincia": "Huelva",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.3281,
@@ -43240,7 +43204,7 @@
     },
     {
       "codigo_ine": "21051",
-      "nombre": "Nava, La",
+      "nombre": "La Nava",
       "provincia": "Huelva",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.4614,
@@ -43279,7 +43243,7 @@
     },
     {
       "codigo_ine": "21054",
-      "nombre": "Palma del Condado, La",
+      "nombre": "La Palma del Condado",
       "provincia": "Huelva",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.4614,
@@ -43604,7 +43568,7 @@
     },
     {
       "codigo_ine": "21902",
-      "nombre": "Zarza-Perrunal, La",
+      "nombre": "La Zarza-Perrunal",
       "provincia": "Huelva",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.8614,
@@ -43628,8 +43592,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "22001",
       "nombre": "Abiego",
@@ -44828,7 +44790,7 @@
     },
     {
       "codigo_ine": "22113",
-      "nombre": "Fueva, La",
+      "nombre": "La Fueva",
       "provincia": "Huesca",
       "comunidad_autonoma": "Aragón",
       "latitud": 42.0544,
@@ -44854,7 +44816,7 @@
     },
     {
       "codigo_ine": "22115",
-      "nombre": "Grado, El",
+      "nombre": "El Grado",
       "provincia": "Huesca",
       "comunidad_autonoma": "Aragón",
       "latitud": 42.0544,
@@ -45374,7 +45336,7 @@
     },
     {
       "codigo_ine": "22173",
-      "nombre": "Peñas de Riglos, Las",
+      "nombre": "Las Peñas de Riglos",
       "provincia": "Huesca",
       "comunidad_autonoma": "Aragón",
       "latitud": 42.3115,
@@ -45504,7 +45466,7 @@
     },
     {
       "codigo_ine": "22187",
-      "nombre": "Puebla de Castro, La",
+      "nombre": "La Puebla de Castro",
       "provincia": "Huesca",
       "comunidad_autonoma": "Aragón",
       "latitud": 42.3972,
@@ -45556,7 +45518,7 @@
     },
     {
       "codigo_ine": "22190",
-      "nombre": "Pueyo de Araguás, El",
+      "nombre": "El Pueyo de Araguás",
       "provincia": "Huesca",
       "comunidad_autonoma": "Aragón",
       "latitud": 42.3972,
@@ -45907,7 +45869,7 @@
     },
     {
       "codigo_ine": "22904",
-      "nombre": "Sotonera, La",
+      "nombre": "La Sotonera",
       "provincia": "Huesca",
       "comunidad_autonoma": "Aragón",
       "latitud": 42.5687,
@@ -46256,8 +46218,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "23001",
       "nombre": "Albanchez de Mágina",
@@ -46559,7 +46519,7 @@
     },
     {
       "codigo_ine": "23024",
-      "nombre": "Carolina, La",
+      "nombre": "La Carolina",
       "provincia": "Jaén",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.4196,
@@ -46728,7 +46688,7 @@
     },
     {
       "codigo_ine": "23038",
-      "nombre": "Guardia de Jaén, La",
+      "nombre": "La Guardia de Jaén",
       "provincia": "Jaén",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.6596,
@@ -46832,7 +46792,7 @@
     },
     {
       "codigo_ine": "23047",
-      "nombre": "Iruela, La",
+      "nombre": "La Iruela",
       "provincia": "Jaén",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.6596,
@@ -47157,7 +47117,7 @@
     },
     {
       "codigo_ine": "23072",
-      "nombre": "Puerta de Segura, La",
+      "nombre": "La Puerta de Segura",
       "provincia": "Jaén",
       "comunidad_autonoma": "Andalucía",
       "latitud": 38.0196,
@@ -47482,7 +47442,7 @@
     },
     {
       "codigo_ine": "23099",
-      "nombre": "Villares, Los",
+      "nombre": "Los Villares",
       "provincia": "Jaén",
       "comunidad_autonoma": "Andalucía",
       "latitud": 38.3796,
@@ -47519,8 +47479,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "24001",
       "nombre": "Acebedo",
@@ -47575,7 +47533,7 @@
     },
     {
       "codigo_ine": "24005",
-      "nombre": "Antigua, La",
+      "nombre": "La Antigua",
       "provincia": "León",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.9987,
@@ -47640,7 +47598,7 @@
     },
     {
       "codigo_ine": "24010",
-      "nombre": "Bañeza, La",
+      "nombre": "La Bañeza",
       "provincia": "León",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.9987,
@@ -47666,7 +47624,7 @@
     },
     {
       "codigo_ine": "24012",
-      "nombre": "Barrios de Luna, Los",
+      "nombre": "Los Barrios de Luna",
       "provincia": "León",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.9987,
@@ -47809,7 +47767,7 @@
     },
     {
       "codigo_ine": "24024",
-      "nombre": "Burgo Ranero, El",
+      "nombre": "El Burgo Ranero",
       "provincia": "León",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.0787,
@@ -48329,7 +48287,7 @@
     },
     {
       "codigo_ine": "24068",
-      "nombre": "Ercina, La",
+      "nombre": "La Ercina",
       "provincia": "León",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.3187,
@@ -48758,7 +48716,7 @@
     },
     {
       "codigo_ine": "24104",
-      "nombre": "Omañas, Las",
+      "nombre": "Las Omañas",
       "provincia": "León",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.4787,
@@ -48875,7 +48833,7 @@
     },
     {
       "codigo_ine": "24114",
-      "nombre": "Pola de Gordón, La",
+      "nombre": "La Pola de Gordón",
       "provincia": "León",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.5587,
@@ -49109,7 +49067,7 @@
     },
     {
       "codigo_ine": "24134",
-      "nombre": "Robla, La",
+      "nombre": "La Robla",
       "provincia": "León",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.6387,
@@ -49824,7 +49782,7 @@
     },
     {
       "codigo_ine": "24193",
-      "nombre": "Vecilla, La",
+      "nombre": "La Vecilla",
       "provincia": "León",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.9587,
@@ -50264,8 +50222,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "25001",
       "nombre": "Abella de la Conca",
@@ -50320,7 +50276,7 @@
     },
     {
       "codigo_ine": "25004",
-      "nombre": "Alamús, Els",
+      "nombre": "Els Alamús",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.0176,
@@ -50346,7 +50302,7 @@
     },
     {
       "codigo_ine": "25006",
-      "nombre": "Albagés, L'",
+      "nombre": "L'Albagés",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.0176,
@@ -50385,7 +50341,7 @@
     },
     {
       "codigo_ine": "25009",
-      "nombre": "Albi, L'",
+      "nombre": "L'Albi",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.0176,
@@ -50671,7 +50627,7 @@
     },
     {
       "codigo_ine": "25037",
-      "nombre": "Avellanes i Santa Linya, Les",
+      "nombre": "Les Avellanes i Santa Linya",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.1776,
@@ -50723,7 +50679,7 @@
     },
     {
       "codigo_ine": "25042",
-      "nombre": "Baronia de Rialb, La",
+      "nombre": "La Baronia de Rialb",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.1776,
@@ -50892,7 +50848,7 @@
     },
     {
       "codigo_ine": "25057",
-      "nombre": "Bòrdes, Es",
+      "nombre": "Es Bòrdes",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.2576,
@@ -50905,7 +50861,7 @@
     },
     {
       "codigo_ine": "25058",
-      "nombre": "Borges Blanques, Les",
+      "nombre": "Les Borges Blanques",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.2576,
@@ -51139,7 +51095,7 @@
     },
     {
       "codigo_ine": "25076",
-      "nombre": "Cogul, El",
+      "nombre": "El Cogul",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.3376,
@@ -51165,7 +51121,7 @@
     },
     {
       "codigo_ine": "25163",
-      "nombre": "Coma i la Pedra, La",
+      "nombre": "La Coma i la Pedra",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.3376,
@@ -51217,7 +51173,7 @@
     },
     {
       "codigo_ine": "25081",
-      "nombre": "Espluga Calba, L'",
+      "nombre": "L'Espluga Calba",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.3376,
@@ -51321,7 +51277,7 @@
     },
     {
       "codigo_ine": "25092",
-      "nombre": "Floresta, La",
+      "nombre": "La Floresta",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.4176,
@@ -51360,7 +51316,7 @@
     },
     {
       "codigo_ine": "25096",
-      "nombre": "Fuliola, La",
+      "nombre": "La Fuliola",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.4176,
@@ -51438,7 +51394,7 @@
     },
     {
       "codigo_ine": "25101",
-      "nombre": "Granadella, La",
+      "nombre": "La Granadella",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.4976,
@@ -51451,7 +51407,7 @@
     },
     {
       "codigo_ine": "25102",
-      "nombre": "Granja d'Escarp, La",
+      "nombre": "La Granja d'Escarp",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.4976,
@@ -51516,7 +51472,7 @@
     },
     {
       "codigo_ine": "25903",
-      "nombre": "Guingueta d'Àneu, La",
+      "nombre": "La Guingueta d'Àneu",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.4976,
@@ -51867,7 +51823,7 @@
     },
     {
       "codigo_ine": "25136",
-      "nombre": "Molsosa, La",
+      "nombre": "La Molsosa",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.6576,
@@ -52049,7 +52005,7 @@
     },
     {
       "codigo_ine": "25152",
-      "nombre": "Oluges, Les",
+      "nombre": "Les Oluges",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.7376,
@@ -52062,7 +52018,7 @@
     },
     {
       "codigo_ine": "25153",
-      "nombre": "Omellons, Els",
+      "nombre": "Els Omellons",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.7376,
@@ -52075,7 +52031,7 @@
     },
     {
       "codigo_ine": "25154",
-      "nombre": "Omells de na Gaia, Els",
+      "nombre": "Els Omells de na Gaia",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.7376,
@@ -52127,7 +52083,7 @@
     },
     {
       "codigo_ine": "25158",
-      "nombre": "Palau d'Anglesola, El",
+      "nombre": "El Palau d'Anglesola",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.7376,
@@ -52192,7 +52148,7 @@
     },
     {
       "codigo_ine": "25911",
-      "nombre": "Plans de Sió, Els",
+      "nombre": "Els Plans de Sió",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.7376,
@@ -52205,7 +52161,7 @@
     },
     {
       "codigo_ine": "25168",
-      "nombre": "Poal, El",
+      "nombre": "El Poal",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.7376,
@@ -52218,7 +52174,7 @@
     },
     {
       "codigo_ine": "25169",
-      "nombre": "Pobla de Cérvoles, La",
+      "nombre": "La Pobla de Cérvoles",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.8176,
@@ -52231,7 +52187,7 @@
     },
     {
       "codigo_ine": "25171",
-      "nombre": "Pobla de Segur, La",
+      "nombre": "La Pobla de Segur",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.8176,
@@ -52244,7 +52200,7 @@
     },
     {
       "codigo_ine": "25030",
-      "nombre": "Pont de Bar, El",
+      "nombre": "El Pont de Bar",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.8176,
@@ -52257,7 +52213,7 @@
     },
     {
       "codigo_ine": "25173",
-      "nombre": "Pont de Suert, El",
+      "nombre": "El Pont de Suert",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.8176,
@@ -52283,7 +52239,7 @@
     },
     {
       "codigo_ine": "25174",
-      "nombre": "Portella, La",
+      "nombre": "La Portella",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.8176,
@@ -52608,7 +52564,7 @@
     },
     {
       "codigo_ine": "25035",
-      "nombre": "Sentiu de Sió, La",
+      "nombre": "La Sentiu de Sió",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.9776,
@@ -52634,7 +52590,7 @@
     },
     {
       "codigo_ine": "25203",
-      "nombre": "Seu d'Urgell, La",
+      "nombre": "La Seu d'Urgell",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.9776,
@@ -52660,7 +52616,7 @@
     },
     {
       "codigo_ine": "25206",
-      "nombre": "Soleràs, El",
+      "nombre": "El Soleràs",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.9776,
@@ -52868,7 +52824,7 @@
     },
     {
       "codigo_ine": "25224",
-      "nombre": "Torms, Els",
+      "nombre": "Els Torms",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 42.0576,
@@ -52894,7 +52850,7 @@
     },
     {
       "codigo_ine": "25227",
-      "nombre": "Torre de Cabdella, La",
+      "nombre": "La Torre de Cabdella",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 42.0576,
@@ -53011,7 +52967,7 @@
     },
     {
       "codigo_ine": "25043",
-      "nombre": "Vall de Boí, La",
+      "nombre": "La Vall de Boí",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 42.1376,
@@ -53063,7 +53019,7 @@
     },
     {
       "codigo_ine": "25906",
-      "nombre": "Valls d'Aguilar, Les",
+      "nombre": "Les Valls d'Aguilar",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 42.1376,
@@ -53076,7 +53032,7 @@
     },
     {
       "codigo_ine": "25239",
-      "nombre": "Valls de Valira, Les",
+      "nombre": "Les Valls de Valira",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 42.1376,
@@ -53089,7 +53045,7 @@
     },
     {
       "codigo_ine": "25909",
-      "nombre": "Vansa i Fórnols, La",
+      "nombre": "La Vansa i Fórnols",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 42.1376,
@@ -53245,7 +53201,7 @@
     },
     {
       "codigo_ine": "25253",
-      "nombre": "Vilosell, El",
+      "nombre": "El Vilosell",
       "provincia": "Lleida",
       "comunidad_autonoma": "Cataluña",
       "latitud": 42.2176,
@@ -53269,8 +53225,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "26001",
       "nombre": "Ábalos",
@@ -54794,7 +54748,7 @@
     },
     {
       "codigo_ine": "26122",
-      "nombre": "Rasillo de Cameros, El",
+      "nombre": "El Rasillo de Cameros",
       "provincia": "La Rioja",
       "comunidad_autonoma": "La Rioja",
       "latitud": 42.6958,
@@ -54807,7 +54761,7 @@
     },
     {
       "codigo_ine": "26123",
-      "nombre": "Redal, El",
+      "nombre": "El Redal",
       "provincia": "La Rioja",
       "comunidad_autonoma": "La Rioja",
       "latitud": 42.6958,
@@ -55366,7 +55320,7 @@
     },
     {
       "codigo_ine": "26170",
-      "nombre": "Villar de Arnedo, El",
+      "nombre": "El Villar de Arnedo",
       "provincia": "La Rioja",
       "comunidad_autonoma": "La Rioja",
       "latitud": 42.9727,
@@ -55533,8 +55487,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "27001",
       "nombre": "Abadín",
@@ -55992,7 +55944,7 @@
     },
     {
       "codigo_ine": "27037",
-      "nombre": "Nogais, As",
+      "nombre": "As Nogais",
       "provincia": "Lugo",
       "comunidad_autonoma": "Galicia",
       "latitud": 43.0097,
@@ -56406,11 +56358,9 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "28001",
-      "nombre": "Acebeda, La",
+      "nombre": "La Acebeda",
       "provincia": "Madrid",
       "comunidad_autonoma": "Comunidad de Madrid",
       "latitud": 39.8165,
@@ -56449,7 +56399,7 @@
     },
     {
       "codigo_ine": "28004",
-      "nombre": "Álamo, El",
+      "nombre": "El Álamo",
       "provincia": "Madrid",
       "comunidad_autonoma": "Comunidad de Madrid",
       "latitud": 39.8165,
@@ -56605,7 +56555,7 @@
     },
     {
       "codigo_ine": "28016",
-      "nombre": "Atazar, El",
+      "nombre": "El Atazar",
       "provincia": "Madrid",
       "comunidad_autonoma": "Comunidad de Madrid",
       "latitud": 39.9088,
@@ -56657,7 +56607,7 @@
     },
     {
       "codigo_ine": "28021",
-      "nombre": "Berrueco, El",
+      "nombre": "El Berrueco",
       "provincia": "Madrid",
       "comunidad_autonoma": "Comunidad de Madrid",
       "latitud": 39.9088,
@@ -56696,7 +56646,7 @@
     },
     {
       "codigo_ine": "28023",
-      "nombre": "Boalo, El",
+      "nombre": "El Boalo",
       "provincia": "Madrid",
       "comunidad_autonoma": "Comunidad de Madrid",
       "latitud": 39.9088,
@@ -56787,7 +56737,7 @@
     },
     {
       "codigo_ine": "28030",
-      "nombre": "Cabrera, La",
+      "nombre": "La Cabrera",
       "provincia": "Madrid",
       "comunidad_autonoma": "Comunidad de Madrid",
       "latitud": 40.0011,
@@ -57099,7 +57049,7 @@
     },
     {
       "codigo_ine": "28054",
-      "nombre": "Escorial, El",
+      "nombre": "El Escorial",
       "provincia": "Madrid",
       "comunidad_autonoma": "Comunidad de Madrid",
       "latitud": 40.1857,
@@ -57294,7 +57244,7 @@
     },
     {
       "codigo_ine": "28069",
-      "nombre": "Hiruela, La",
+      "nombre": "La Hiruela",
       "provincia": "Madrid",
       "comunidad_autonoma": "Comunidad de Madrid",
       "latitud": 40.278,
@@ -57502,7 +57452,7 @@
     },
     {
       "codigo_ine": "28086",
-      "nombre": "Molar, El",
+      "nombre": "El Molar",
       "provincia": "Madrid",
       "comunidad_autonoma": "Comunidad de Madrid",
       "latitud": 40.3703,
@@ -57515,7 +57465,7 @@
     },
     {
       "codigo_ine": "28087",
-      "nombre": "Molinos, Los",
+      "nombre": "Los Molinos",
       "provincia": "Madrid",
       "comunidad_autonoma": "Comunidad de Madrid",
       "latitud": 40.3703,
@@ -58009,7 +57959,7 @@
     },
     {
       "codigo_ine": "28127",
-      "nombre": "Rozas de Madrid, Las",
+      "nombre": "Las Rozas de Madrid",
       "provincia": "Madrid",
       "comunidad_autonoma": "Comunidad de Madrid",
       "latitud": 40.6473,
@@ -58139,7 +58089,7 @@
     },
     {
       "codigo_ine": "28137",
-      "nombre": "Santos de la Humosa, Los",
+      "nombre": "Los Santos de la Humosa",
       "provincia": "Madrid",
       "comunidad_autonoma": "Comunidad de Madrid",
       "latitud": 40.7396,
@@ -58152,7 +58102,7 @@
     },
     {
       "codigo_ine": "28138",
-      "nombre": "Serna del Monte, La",
+      "nombre": "La Serna del Monte",
       "provincia": "Madrid",
       "comunidad_autonoma": "Comunidad de Madrid",
       "latitud": 40.7396,
@@ -58529,7 +58479,7 @@
     },
     {
       "codigo_ine": "28168",
-      "nombre": "Vellón, El",
+      "nombre": "El Vellón",
       "provincia": "Madrid",
       "comunidad_autonoma": "Comunidad de Madrid",
       "latitud": 40.9242,
@@ -58735,8 +58685,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "29001",
       "nombre": "Alameda",
@@ -59116,7 +59064,7 @@
     },
     {
       "codigo_ine": "29030",
-      "nombre": "Borge, El",
+      "nombre": "El Borge",
       "provincia": "Málaga",
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.3613,
@@ -59129,7 +59077,7 @@
     },
     {
       "codigo_ine": "29031",
-      "nombre": "Burgo, El",
+      "nombre": "El Burgo",
       "provincia": "Málaga",
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.4813,
@@ -60076,8 +60024,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
-
     {
       "codigo_ine": "31001",
       "nombre": "Abáigar",
@@ -60444,7 +60390,7 @@
     },
     {
       "codigo_ine": "31029",
-      "nombre": "Arcos, Los",
+      "nombre": "Los Arcos",
       "provincia": "Navarra",
       "comunidad_autonoma": "Comunidad Foral de Navarra",
       "latitud": 42.2919,
@@ -60951,7 +60897,7 @@
     },
     {
       "codigo_ine": "31061",
-      "nombre": "Busto, El",
+      "nombre": "El Busto",
       "provincia": "Navarra",
       "comunidad_autonoma": "Comunidad Foral de Navarra",
       "latitud": 42.5169,
@@ -63759,7 +63705,7 @@
     },
     {
       "codigo_ine": "32012",
-      "nombre": "Blancos, Os",
+      "nombre": "Os Blancos",
       "provincia": "Ourense",
       "comunidad_autonoma": "Galicia",
       "latitud": 41.8564,
@@ -65098,7 +65044,7 @@
     },
     {
       "codigo_ine": "33023",
-      "nombre": "Franco, El",
+      "nombre": "El Franco",
       "provincia": "Asturias",
       "comunidad_autonoma": "Principado de Asturias",
       "latitud": 43.0281,
@@ -65488,7 +65434,7 @@
     },
     {
       "codigo_ine": "33054",
-      "nombre": "Regueras, Las",
+      "nombre": "Las Regueras",
       "provincia": "Asturias",
       "comunidad_autonoma": "Principado de Asturias",
       "latitud": 43.5614,
@@ -67126,7 +67072,7 @@
     },
     {
       "codigo_ine": "34904",
-      "nombre": "Pernía, La",
+      "nombre": "La Pernía",
       "provincia": "Palencia",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.0097,
@@ -67269,7 +67215,7 @@
     },
     {
       "codigo_ine": "34140",
-      "nombre": "Puebla de Valdavia, La",
+      "nombre": "La Puebla de Valdavia",
       "provincia": "Palencia",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.0954,
@@ -67581,7 +67527,7 @@
     },
     {
       "codigo_ine": "34175",
-      "nombre": "Serna, La",
+      "nombre": "La Serna",
       "provincia": "Palencia",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.2668,
@@ -67828,7 +67774,7 @@
     },
     {
       "codigo_ine": "34093",
-      "nombre": "Vid de Ojeda, La",
+      "nombre": "La Vid de Ojeda",
       "provincia": "Palencia",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.3526,
@@ -68335,7 +68281,7 @@
     },
     {
       "codigo_ine": "35020",
-      "nombre": "Aldea de San Nicolás, La",
+      "nombre": "La Aldea de San Nicolás",
       "provincia": "Las Palmas",
       "comunidad_autonoma": "Canarias",
       "latitud": 27.5235,
@@ -68491,7 +68437,7 @@
     },
     {
       "codigo_ine": "35014",
-      "nombre": "Oliva, La",
+      "nombre": "La Oliva",
       "provincia": "Las Palmas",
       "comunidad_autonoma": "Canarias",
       "latitud": 27.9235,
@@ -68517,7 +68463,7 @@
     },
     {
       "codigo_ine": "35016",
-      "nombre": "Palmas de Gran Canaria, Las",
+      "nombre": "Las Palmas de Gran Canaria",
       "provincia": "Las Palmas",
       "comunidad_autonoma": "Canarias",
       "latitud": 28.1235,
@@ -69180,7 +69126,7 @@
     },
     {
       "codigo_ine": "36034",
-      "nombre": "Neves, As",
+      "nombre": "As Neves",
       "provincia": "Pontevedra",
       "comunidad_autonoma": "Galicia",
       "latitud": 42.4314,
@@ -69596,7 +69542,7 @@
     },
     {
       "codigo_ine": "37005",
-      "nombre": "Alameda de Gardón, La",
+      "nombre": "La Alameda de Gardón",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.3701,
@@ -69609,7 +69555,7 @@
     },
     {
       "codigo_ine": "37006",
-      "nombre": "Alamedilla, La",
+      "nombre": "La Alamedilla",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.3701,
@@ -69661,7 +69607,7 @@
     },
     {
       "codigo_ine": "37010",
-      "nombre": "Alberca, La",
+      "nombre": "La Alberca",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.3701,
@@ -69674,7 +69620,7 @@
     },
     {
       "codigo_ine": "37011",
-      "nombre": "Alberguería de Argañán, La",
+      "nombre": "La Alberguería de Argañán",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.3701,
@@ -69973,7 +69919,7 @@
     },
     {
       "codigo_ine": "37034",
-      "nombre": "Arco, El",
+      "nombre": "El Arco",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.4333,
@@ -69999,7 +69945,7 @@
     },
     {
       "codigo_ine": "37037",
-      "nombre": "Atalaya, La",
+      "nombre": "La Atalaya",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.4333,
@@ -70090,7 +70036,7 @@
     },
     {
       "codigo_ine": "37045",
-      "nombre": "Bastida, La",
+      "nombre": "La Bastida",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.4964,
@@ -70181,7 +70127,7 @@
     },
     {
       "codigo_ine": "37054",
-      "nombre": "Bodón, El",
+      "nombre": "El Bodón",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.4964,
@@ -70207,7 +70153,7 @@
     },
     {
       "codigo_ine": "37056",
-      "nombre": "Bouza, La",
+      "nombre": "La Bouza",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.4964,
@@ -70272,7 +70218,7 @@
     },
     {
       "codigo_ine": "37061",
-      "nombre": "Cabaco, El",
+      "nombre": "El Cabaco",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.4964,
@@ -70285,7 +70231,7 @@
     },
     {
       "codigo_ine": "37063",
-      "nombre": "Cabeza de Béjar, La",
+      "nombre": "La Cabeza de Béjar",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.5596,
@@ -70376,7 +70322,7 @@
     },
     {
       "codigo_ine": "37071",
-      "nombre": "Calzada de Béjar, La",
+      "nombre": "La Calzada de Béjar",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.5596,
@@ -70428,7 +70374,7 @@
     },
     {
       "codigo_ine": "37077",
-      "nombre": "Campo de Peñaranda, El",
+      "nombre": "El Campo de Peñaranda",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.5596,
@@ -70584,7 +70530,7 @@
     },
     {
       "codigo_ine": "37090",
-      "nombre": "Casas del Conde, Las",
+      "nombre": "Las Casas del Conde",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.6227,
@@ -70714,7 +70660,7 @@
     },
     {
       "codigo_ine": "37102",
-      "nombre": "Cerro, El",
+      "nombre": "El Cerro",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.6227,
@@ -70844,7 +70790,7 @@
     },
     {
       "codigo_ine": "37113",
-      "nombre": "Cubo de Don Sancho, El",
+      "nombre": "El Cubo de Don Sancho",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.6859,
@@ -70922,7 +70868,7 @@
     },
     {
       "codigo_ine": "37119",
-      "nombre": "Encina, La",
+      "nombre": "La Encina",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.6859,
@@ -71078,7 +71024,7 @@
     },
     {
       "codigo_ine": "37132",
-      "nombre": "Fregeneda, La",
+      "nombre": "La Fregeneda",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.749,
@@ -71117,7 +71063,7 @@
     },
     {
       "codigo_ine": "37135",
-      "nombre": "Fuente de San Esteban, La",
+      "nombre": "La Fuente de San Esteban",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.749,
@@ -71468,7 +71414,7 @@
     },
     {
       "codigo_ine": "37163",
-      "nombre": "Hoya, La",
+      "nombre": "La Hoya",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.8122,
@@ -71650,7 +71596,7 @@
     },
     {
       "codigo_ine": "37177",
-      "nombre": "Maíllo, El",
+      "nombre": "El Maíllo",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.8754,
@@ -71689,7 +71635,7 @@
     },
     {
       "codigo_ine": "37180",
-      "nombre": "Manzano, El",
+      "nombre": "El Manzano",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.8754,
@@ -71754,7 +71700,7 @@
     },
     {
       "codigo_ine": "37186",
-      "nombre": "Mata de Ledesma, La",
+      "nombre": "La Mata de Ledesma",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.8754,
@@ -71780,7 +71726,7 @@
     },
     {
       "codigo_ine": "37188",
-      "nombre": "Maya, La",
+      "nombre": "La Maya",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.9385,
@@ -71819,7 +71765,7 @@
     },
     {
       "codigo_ine": "37191",
-      "nombre": "Milano, El",
+      "nombre": "El Milano",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.9385,
@@ -72222,7 +72168,7 @@
     },
     {
       "codigo_ine": "37224",
-      "nombre": "Orbada, La",
+      "nombre": "La Orbada",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.0017,
@@ -72339,7 +72285,7 @@
     },
     {
       "codigo_ine": "37234",
-      "nombre": "Payo, El",
+      "nombre": "El Payo",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.0648,
@@ -72404,7 +72350,7 @@
     },
     {
       "codigo_ine": "37239",
-      "nombre": "Pedroso de la Armuña, El",
+      "nombre": "El Pedroso de la Armuña",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.0648,
@@ -72456,7 +72402,7 @@
     },
     {
       "codigo_ine": "37243",
-      "nombre": "Peña, La",
+      "nombre": "La Peña",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.0648,
@@ -72586,7 +72532,7 @@
     },
     {
       "codigo_ine": "37253",
-      "nombre": "Pino de Tormes, El",
+      "nombre": "El Pino de Tormes",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.128,
@@ -72755,7 +72701,7 @@
     },
     {
       "codigo_ine": "37266",
-      "nombre": "Redonda, La",
+      "nombre": "La Redonda",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.1912,
@@ -72781,7 +72727,7 @@
     },
     {
       "codigo_ine": "37268",
-      "nombre": "Rinconada de la Sierra, La",
+      "nombre": "La Rinconada de la Sierra",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.1912,
@@ -72846,7 +72792,7 @@
     },
     {
       "codigo_ine": "37273",
-      "nombre": "Sagrada, La",
+      "nombre": "La Sagrada",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.1912,
@@ -72859,7 +72805,7 @@
     },
     {
       "codigo_ine": "37303",
-      "nombre": "Sahugo, El",
+      "nombre": "El Sahugo",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.1912,
@@ -73210,7 +73156,7 @@
     },
     {
       "codigo_ine": "37300",
-      "nombre": "Santos, Los",
+      "nombre": "Los Santos",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.2543,
@@ -73301,7 +73247,7 @@
     },
     {
       "codigo_ine": "37309",
-      "nombre": "Sierpe, La",
+      "nombre": "La Sierpe",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.3175,
@@ -73379,7 +73325,7 @@
     },
     {
       "codigo_ine": "37315",
-      "nombre": "Tala, La",
+      "nombre": "La Tala",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.3175,
@@ -73431,7 +73377,7 @@
     },
     {
       "codigo_ine": "37319",
-      "nombre": "Tejado, El",
+      "nombre": "El Tejado",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.3175,
@@ -73509,7 +73455,7 @@
     },
     {
       "codigo_ine": "37325",
-      "nombre": "Tornadizo, El",
+      "nombre": "El Tornadizo",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.3806,
@@ -73769,7 +73715,7 @@
     },
     {
       "codigo_ine": "37346",
-      "nombre": "Veguillas, Las",
+      "nombre": "Las Veguillas",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.4438,
@@ -73782,7 +73728,7 @@
     },
     {
       "codigo_ine": "37347",
-      "nombre": "Vellés, La",
+      "nombre": "La Vellés",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.4438,
@@ -73808,7 +73754,7 @@
     },
     {
       "codigo_ine": "37349",
-      "nombre": "Vídola, La",
+      "nombre": "La Vídola",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.4438,
@@ -74224,7 +74170,7 @@
     },
     {
       "codigo_ine": "37381",
-      "nombre": "Zarza de Pumareda, La",
+      "nombre": "La Zarza de Pumareda",
       "provincia": "Salamanca",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.5069,
@@ -74471,7 +74417,7 @@
     },
     {
       "codigo_ine": "38018",
-      "nombre": "Guancha, La",
+      "nombre": "La Guancha",
       "provincia": "Santa Cruz de Tenerife",
       "comunidad_autonoma": "Canarias",
       "latitud": 28.2065,
@@ -74536,7 +74482,7 @@
     },
     {
       "codigo_ine": "38024",
-      "nombre": "Llanos de Aridane, Los",
+      "nombre": "Los Llanos de Aridane",
       "provincia": "Santa Cruz de Tenerife",
       "comunidad_autonoma": "Canarias",
       "latitud": 28.3779,
@@ -74549,7 +74495,7 @@
     },
     {
       "codigo_ine": "38025",
-      "nombre": "Matanza de Acentejo, La",
+      "nombre": "La Matanza de Acentejo",
       "provincia": "Santa Cruz de Tenerife",
       "comunidad_autonoma": "Canarias",
       "latitud": 28.3779,
@@ -74562,7 +74508,7 @@
     },
     {
       "codigo_ine": "38026",
-      "nombre": "Orotava, La",
+      "nombre": "La Orotava",
       "provincia": "Santa Cruz de Tenerife",
       "comunidad_autonoma": "Canarias",
       "latitud": 28.3779,
@@ -74575,7 +74521,7 @@
     },
     {
       "codigo_ine": "38027",
-      "nombre": "Paso, El",
+      "nombre": "El Paso",
       "provincia": "Santa Cruz de Tenerife",
       "comunidad_autonoma": "Canarias",
       "latitud": 28.3779,
@@ -74588,7 +74534,7 @@
     },
     {
       "codigo_ine": "38901",
-      "nombre": "Pinar de El Hierro, El",
+      "nombre": "El Pinar de El Hierro",
       "provincia": "Santa Cruz de Tenerife",
       "comunidad_autonoma": "Canarias",
       "latitud": 28.3779,
@@ -74640,7 +74586,7 @@
     },
     {
       "codigo_ine": "38031",
-      "nombre": "Realejos, Los",
+      "nombre": "Los Realejos",
       "provincia": "Santa Cruz de Tenerife",
       "comunidad_autonoma": "Canarias",
       "latitud": 28.5493,
@@ -74653,7 +74599,7 @@
     },
     {
       "codigo_ine": "38032",
-      "nombre": "Rosario, El",
+      "nombre": "El Rosario",
       "provincia": "Santa Cruz de Tenerife",
       "comunidad_autonoma": "Canarias",
       "latitud": 28.5493,
@@ -74783,7 +74729,7 @@
     },
     {
       "codigo_ine": "38041",
-      "nombre": "Sauzal, El",
+      "nombre": "El Sauzal",
       "provincia": "Santa Cruz de Tenerife",
       "comunidad_autonoma": "Canarias",
       "latitud": 28.7207,
@@ -74796,7 +74742,7 @@
     },
     {
       "codigo_ine": "38042",
-      "nombre": "Silos, Los",
+      "nombre": "Los Silos",
       "provincia": "Santa Cruz de Tenerife",
       "comunidad_autonoma": "Canarias",
       "latitud": 28.8922,
@@ -74822,7 +74768,7 @@
     },
     {
       "codigo_ine": "38044",
-      "nombre": "Tanque, El",
+      "nombre": "El Tanque",
       "provincia": "Santa Cruz de Tenerife",
       "comunidad_autonoma": "Canarias",
       "latitud": 28.8922,
@@ -74913,7 +74859,7 @@
     },
     {
       "codigo_ine": "38051",
-      "nombre": "Victoria de Acentejo, La",
+      "nombre": "La Victoria de Acentejo",
       "provincia": "Santa Cruz de Tenerife",
       "comunidad_autonoma": "Canarias",
       "latitud": 29.0636,
@@ -75043,7 +74989,7 @@
     },
     {
       "codigo_ine": "39008",
-      "nombre": "Astillero, El",
+      "nombre": "El Astillero",
       "provincia": "Cantabria",
       "comunidad_autonoma": "Cantabria",
       "latitud": 42.8623,
@@ -75277,7 +75223,7 @@
     },
     {
       "codigo_ine": "39025",
-      "nombre": "Corrales de Buelna, Los",
+      "nombre": "Los Corrales de Buelna",
       "provincia": "Cantabria",
       "comunidad_autonoma": "Cantabria",
       "latitud": 43.1023,
@@ -75784,7 +75730,7 @@
     },
     {
       "codigo_ine": "39065",
-      "nombre": "Rozas de Valdearroyo, Las",
+      "nombre": "Las Rozas de Valdearroyo",
       "provincia": "Cantabria",
       "comunidad_autonoma": "Cantabria",
       "latitud": 43.5823,
@@ -76057,7 +76003,7 @@
     },
     {
       "codigo_ine": "39086",
-      "nombre": "Tojos, Los",
+      "nombre": "Los Tojos",
       "provincia": "Cantabria",
       "comunidad_autonoma": "Cantabria",
       "latitud": 43.8223,
@@ -77175,7 +77121,7 @@
     },
     {
       "codigo_ine": "40076",
-      "nombre": "Espinar, El",
+      "nombre": "El Espinar",
       "provincia": "Segovia",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.6858,
@@ -77461,7 +77407,7 @@
     },
     {
       "codigo_ine": "40103",
-      "nombre": "Huertos, Los",
+      "nombre": "Los Huertos",
       "provincia": "Segovia",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.8572,
@@ -77578,7 +77524,7 @@
     },
     {
       "codigo_ine": "40112",
-      "nombre": "Lastrilla, La",
+      "nombre": "La Lastrilla",
       "provincia": "Segovia",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.9429,
@@ -77591,7 +77537,7 @@
     },
     {
       "codigo_ine": "40113",
-      "nombre": "Losa, La",
+      "nombre": "La Losa",
       "provincia": "Segovia",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.9429,
@@ -77721,7 +77667,7 @@
     },
     {
       "codigo_ine": "40125",
-      "nombre": "Matilla, La",
+      "nombre": "La Matilla",
       "provincia": "Segovia",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.9429,
@@ -79073,7 +79019,7 @@
     },
     {
       "codigo_ine": "41007",
-      "nombre": "Algaba, La",
+      "nombre": "La Algaba",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.7828,
@@ -79242,7 +79188,7 @@
     },
     {
       "codigo_ine": "41020",
-      "nombre": "Cabezas de San Juan, Las",
+      "nombre": "Las Cabezas de San Juan",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.9028,
@@ -79268,7 +79214,7 @@
     },
     {
       "codigo_ine": "41022",
-      "nombre": "Campana, La",
+      "nombre": "La Campana",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.0228,
@@ -79398,7 +79344,7 @@
     },
     {
       "codigo_ine": "41031",
-      "nombre": "Castillo de las Guardas, El",
+      "nombre": "El Castillo de las Guardas",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.1428,
@@ -79463,7 +79409,7 @@
     },
     {
       "codigo_ine": "41036",
-      "nombre": "Coronil, El",
+      "nombre": "El Coronil",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.1428,
@@ -79476,7 +79422,7 @@
     },
     {
       "codigo_ine": "41037",
-      "nombre": "Corrales, Los",
+      "nombre": "Los Corrales",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.1428,
@@ -79489,7 +79435,7 @@
     },
     {
       "codigo_ine": "41903",
-      "nombre": "Cuervo de Sevilla, El",
+      "nombre": "El Cuervo de Sevilla",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.1428,
@@ -79567,7 +79513,7 @@
     },
     {
       "codigo_ine": "41043",
-      "nombre": "Garrobo, El",
+      "nombre": "El Garrobo",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.2628,
@@ -79749,7 +79695,7 @@
     },
     {
       "codigo_ine": "41056",
-      "nombre": "Luisiana, La",
+      "nombre": "La Luisiana",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.3828,
@@ -79762,7 +79708,7 @@
     },
     {
       "codigo_ine": "41057",
-      "nombre": "Madroño, El",
+      "nombre": "El Madroño",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.3828,
@@ -79840,7 +79786,7 @@
     },
     {
       "codigo_ine": "41063",
-      "nombre": "Molares, Los",
+      "nombre": "Los Molares",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.5028,
@@ -79879,7 +79825,7 @@
     },
     {
       "codigo_ine": "41066",
-      "nombre": "Navas de la Concepción, Las",
+      "nombre": "Las Navas de la Concepción",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.5028,
@@ -79918,7 +79864,7 @@
     },
     {
       "codigo_ine": "41069",
-      "nombre": "Palacios y Villafranca, Los",
+      "nombre": "Los Palacios y Villafranca",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.6228,
@@ -79931,7 +79877,7 @@
     },
     {
       "codigo_ine": "41904",
-      "nombre": "Palmar de Troya, El",
+      "nombre": "El Palmar de Troya",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.6228,
@@ -79983,7 +79929,7 @@
     },
     {
       "codigo_ine": "41073",
-      "nombre": "Pedroso, El",
+      "nombre": "El Pedroso",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.6228,
@@ -80035,7 +79981,7 @@
     },
     {
       "codigo_ine": "41077",
-      "nombre": "Puebla de Cazalla, La",
+      "nombre": "La Puebla de Cazalla",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.7428,
@@ -80048,7 +79994,7 @@
     },
     {
       "codigo_ine": "41078",
-      "nombre": "Puebla de los Infantes, La",
+      "nombre": "La Puebla de los Infantes",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.7428,
@@ -80061,7 +80007,7 @@
     },
     {
       "codigo_ine": "41079",
-      "nombre": "Puebla del Río, La",
+      "nombre": "La Puebla del Río",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.7428,
@@ -80074,7 +80020,7 @@
     },
     {
       "codigo_ine": "41080",
-      "nombre": "Real de la Jara, El",
+      "nombre": "El Real de la Jara",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.7428,
@@ -80087,7 +80033,7 @@
     },
     {
       "codigo_ine": "41081",
-      "nombre": "Rinconada, La",
+      "nombre": "La Rinconada",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.7428,
@@ -80100,7 +80046,7 @@
     },
     {
       "codigo_ine": "41082",
-      "nombre": "Roda de Andalucía, La",
+      "nombre": "La Roda de Andalucía",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.7428,
@@ -80113,7 +80059,7 @@
     },
     {
       "codigo_ine": "41083",
-      "nombre": "Ronquillo, El",
+      "nombre": "El Ronquillo",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.7428,
@@ -80126,7 +80072,7 @@
     },
     {
       "codigo_ine": "41084",
-      "nombre": "Rubio, El",
+      "nombre": "El Rubio",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.7428,
@@ -80204,7 +80150,7 @@
     },
     {
       "codigo_ine": "41090",
-      "nombre": "Saucejo, El",
+      "nombre": "El Saucejo",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.8628,
@@ -80360,7 +80306,7 @@
     },
     {
       "codigo_ine": "41102",
-      "nombre": "Viso del Alcor, El",
+      "nombre": "El Viso del Alcor",
       "provincia": "Sevilla",
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.9828,
@@ -80371,7 +80317,6 @@
       "fuente_url": "",
       "ultima_actualizacion": ""
     },
-
     {
       "codigo_ine": "42001",
       "nombre": "Abejar",
@@ -80517,7 +80462,7 @@
     },
     {
       "codigo_ine": "42014",
-      "nombre": "Aldehuelas, Las",
+      "nombre": "Las Aldehuelas",
       "provincia": "Soria",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.164,
@@ -81557,7 +81502,7 @@
     },
     {
       "codigo_ine": "42106",
-      "nombre": "Losilla, La",
+      "nombre": "La Losilla",
       "provincia": "Soria",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.764,
@@ -81895,7 +81840,7 @@
     },
     {
       "codigo_ine": "42141",
-      "nombre": "Póveda de Soria, La",
+      "nombre": "La Póveda de Soria",
       "provincia": "Soria",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.9354,
@@ -81960,7 +81905,7 @@
     },
     {
       "codigo_ine": "42149",
-      "nombre": "Rábanos, Los",
+      "nombre": "Los Rábanos",
       "provincia": "Soria",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.9354,
@@ -82051,7 +81996,7 @@
     },
     {
       "codigo_ine": "42157",
-      "nombre": "Riba de Escalote, La",
+      "nombre": "La Riba de Escalote",
       "provincia": "Soria",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.9354,
@@ -82090,7 +82035,7 @@
     },
     {
       "codigo_ine": "42160",
-      "nombre": "Royo, El",
+      "nombre": "El Royo",
       "provincia": "Soria",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.0211,
@@ -82649,7 +82594,7 @@
     },
     {
       "codigo_ine": "42211",
-      "nombre": "Villares de Soria, Los",
+      "nombre": "Los Villares de Soria",
       "provincia": "Soria",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.2783,
@@ -82779,7 +82724,7 @@
     },
     {
       "codigo_ine": "43003",
-      "nombre": "Albiol, L'",
+      "nombre": "L'Albiol",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.5189,
@@ -82818,7 +82763,7 @@
     },
     {
       "codigo_ine": "43904",
-      "nombre": "Aldea, L'",
+      "nombre": "L'Aldea",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.5189,
@@ -82844,7 +82789,7 @@
     },
     {
       "codigo_ine": "43007",
-      "nombre": "Aleixar, L'",
+      "nombre": "L'Aleixar",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.5189,
@@ -82922,7 +82867,7 @@
     },
     {
       "codigo_ine": "43013",
-      "nombre": "Ametlla de Mar, L'",
+      "nombre": "L'Ametlla de Mar",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.6046,
@@ -82935,7 +82880,7 @@
     },
     {
       "codigo_ine": "43906",
-      "nombre": "Ampolla, L'",
+      "nombre": "L'Ampolla",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.6046,
@@ -82961,7 +82906,7 @@
     },
     {
       "codigo_ine": "43016",
-      "nombre": "Arboç, L'",
+      "nombre": "L'Arboç",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.6046,
@@ -82987,7 +82932,7 @@
     },
     {
       "codigo_ine": "43017",
-      "nombre": "Argentera, L'",
+      "nombre": "L'Argentera",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.6046,
@@ -83117,7 +83062,7 @@
     },
     {
       "codigo_ine": "43027",
-      "nombre": "Bisbal de Montsant, La",
+      "nombre": "La Bisbal de Montsant",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.6903,
@@ -83130,7 +83075,7 @@
     },
     {
       "codigo_ine": "43028",
-      "nombre": "Bisbal del Penedès, La",
+      "nombre": "La Bisbal del Penedès",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.6903,
@@ -83169,7 +83114,7 @@
     },
     {
       "codigo_ine": "43031",
-      "nombre": "Borges del Camp, Les",
+      "nombre": "Les Borges del Camp",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.6903,
@@ -83286,7 +83231,7 @@
     },
     {
       "codigo_ine": "43907",
-      "nombre": "Canonja, La",
+      "nombre": "La Canonja",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.776,
@@ -83351,7 +83296,7 @@
     },
     {
       "codigo_ine": "43043",
-      "nombre": "Catllar, El",
+      "nombre": "El Catllar",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.776,
@@ -83481,7 +83426,7 @@
     },
     {
       "codigo_ine": "43054",
-      "nombre": "Espluga de Francolí, L'",
+      "nombre": "L'Espluga de Francolí",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.8618,
@@ -83507,7 +83452,7 @@
     },
     {
       "codigo_ine": "43056",
-      "nombre": "Fatarella, La",
+      "nombre": "La Fatarella",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.8618,
@@ -83520,7 +83465,7 @@
     },
     {
       "codigo_ine": "43057",
-      "nombre": "Febró, La",
+      "nombre": "La Febró",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.8618,
@@ -83533,7 +83478,7 @@
     },
     {
       "codigo_ine": "43058",
-      "nombre": "Figuera, La",
+      "nombre": "La Figuera",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.8618,
@@ -83598,7 +83543,7 @@
     },
     {
       "codigo_ine": "43063",
-      "nombre": "Galera, La",
+      "nombre": "La Galera",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.9475,
@@ -83637,7 +83582,7 @@
     },
     {
       "codigo_ine": "43066",
-      "nombre": "Garidells, Els",
+      "nombre": "Els Garidells",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.9475,
@@ -83689,7 +83634,7 @@
     },
     {
       "codigo_ine": "43070",
-      "nombre": "Guiamets, Els",
+      "nombre": "Els Guiamets",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.9475,
@@ -83715,7 +83660,7 @@
     },
     {
       "codigo_ine": "43072",
-      "nombre": "Lloar, El",
+      "nombre": "El Lloar",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 40.9475,
@@ -83819,7 +83764,7 @@
     },
     {
       "codigo_ine": "43080",
-      "nombre": "Masó, La",
+      "nombre": "La Masó",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.0332,
@@ -83845,7 +83790,7 @@
     },
     {
       "codigo_ine": "43082",
-      "nombre": "Masroig, El",
+      "nombre": "El Masroig",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.0332,
@@ -83858,7 +83803,7 @@
     },
     {
       "codigo_ine": "43083",
-      "nombre": "Milà, El",
+      "nombre": "El Milà",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.0332,
@@ -83884,7 +83829,7 @@
     },
     {
       "codigo_ine": "43085",
-      "nombre": "Molar, El",
+      "nombre": "El Molar",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.0332,
@@ -83936,7 +83881,7 @@
     },
     {
       "codigo_ine": "43090",
-      "nombre": "Montmell, El",
+      "nombre": "El Montmell",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.1189,
@@ -84001,7 +83946,7 @@
     },
     {
       "codigo_ine": "43095",
-      "nombre": "Morell, El",
+      "nombre": "El Morell",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.1189,
@@ -84014,7 +83959,7 @@
     },
     {
       "codigo_ine": "43096",
-      "nombre": "Morera de Montsant, La",
+      "nombre": "La Morera de Montsant",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.1189,
@@ -84027,7 +83972,7 @@
     },
     {
       "codigo_ine": "43097",
-      "nombre": "Nou de Gaià, La",
+      "nombre": "La Nou de Gaià",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.1189,
@@ -84053,7 +83998,7 @@
     },
     {
       "codigo_ine": "43100",
-      "nombre": "Pallaresos, Els",
+      "nombre": "Els Pallaresos",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.1189,
@@ -84066,7 +84011,7 @@
     },
     {
       "codigo_ine": "43099",
-      "nombre": "Palma d'Ebre, La",
+      "nombre": "La Palma d'Ebre",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.1189,
@@ -84118,7 +84063,7 @@
     },
     {
       "codigo_ine": "43104",
-      "nombre": "Perelló, El",
+      "nombre": "El Perelló",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.2046,
@@ -84131,7 +84076,7 @@
     },
     {
       "codigo_ine": "43105",
-      "nombre": "Piles, Les",
+      "nombre": "Les Piles",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.2046,
@@ -84144,7 +84089,7 @@
     },
     {
       "codigo_ine": "43106",
-      "nombre": "Pinell de Brai, El",
+      "nombre": "El Pinell de Brai",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.2046,
@@ -84170,7 +84115,7 @@
     },
     {
       "codigo_ine": "43108",
-      "nombre": "Pla de Santa Maria, El",
+      "nombre": "El Pla de Santa Maria",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.2046,
@@ -84183,7 +84128,7 @@
     },
     {
       "codigo_ine": "43109",
-      "nombre": "Pobla de Mafumet, La",
+      "nombre": "La Pobla de Mafumet",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.2046,
@@ -84196,7 +84141,7 @@
     },
     {
       "codigo_ine": "43110",
-      "nombre": "Pobla de Massaluca, La",
+      "nombre": "La Pobla de Massaluca",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.2046,
@@ -84209,7 +84154,7 @@
     },
     {
       "codigo_ine": "43111",
-      "nombre": "Pobla de Montornès, La",
+      "nombre": "La Pobla de Montornès",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.2046,
@@ -84235,7 +84180,7 @@
     },
     {
       "codigo_ine": "43113",
-      "nombre": "Pont d'Armentera, El",
+      "nombre": "El Pont d'Armentera",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.2046,
@@ -84352,7 +84297,7 @@
     },
     {
       "codigo_ine": "43136",
-      "nombre": "Ràpita, La",
+      "nombre": "La Ràpita",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.2903,
@@ -84404,7 +84349,7 @@
     },
     {
       "codigo_ine": "43124",
-      "nombre": "Riba, La",
+      "nombre": "La Riba",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.2903,
@@ -84430,7 +84375,7 @@
     },
     {
       "codigo_ine": "43126",
-      "nombre": "Riera de Gaià, La",
+      "nombre": "La Riera de Gaià",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.2903,
@@ -84534,7 +84479,7 @@
     },
     {
       "codigo_ine": "43134",
-      "nombre": "Rourell, El",
+      "nombre": "El Rourell",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.376,
@@ -84664,7 +84609,7 @@
     },
     {
       "codigo_ine": "43144",
-      "nombre": "Secuita, La",
+      "nombre": "La Secuita",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.4618,
@@ -84677,7 +84622,7 @@
     },
     {
       "codigo_ine": "43145",
-      "nombre": "Selva del Camp, La",
+      "nombre": "La Selva del Camp",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.4618,
@@ -84703,7 +84648,7 @@
     },
     {
       "codigo_ine": "43044",
-      "nombre": "Sénia, La",
+      "nombre": "La Sénia",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.4618,
@@ -84768,7 +84713,7 @@
     },
     {
       "codigo_ine": "43151",
-      "nombre": "Torre de Fontaubella, La",
+      "nombre": "La Torre de Fontaubella",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.4618,
@@ -84781,7 +84726,7 @@
     },
     {
       "codigo_ine": "43152",
-      "nombre": "Torre de l'Espanyol, La",
+      "nombre": "La Torre de l'Espanyol",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.5475,
@@ -84924,7 +84869,7 @@
     },
     {
       "codigo_ine": "43163",
-      "nombre": "Vendrell, El",
+      "nombre": "El Vendrell",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.5475,
@@ -85067,7 +85012,7 @@
     },
     {
       "codigo_ine": "43173",
-      "nombre": "Vilella Alta, La",
+      "nombre": "La Vilella Alta",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.6332,
@@ -85080,7 +85025,7 @@
     },
     {
       "codigo_ine": "43174",
-      "nombre": "Vilella Baixa, La",
+      "nombre": "La Vilella Baixa",
       "provincia": "Tarragona",
       "comunidad_autonoma": "Cataluña",
       "latitud": 41.6332,
@@ -85873,7 +85818,7 @@
     },
     {
       "codigo_ine": "44061",
-      "nombre": "Cañada de Verich, La",
+      "nombre": "La Cañada de Verich",
       "provincia": "Teruel",
       "comunidad_autonoma": "Aragón",
       "latitud": 39.9856,
@@ -85951,7 +85896,7 @@
     },
     {
       "codigo_ine": "44070",
-      "nombre": "Castellar, El",
+      "nombre": "El Castellar",
       "provincia": "Teruel",
       "comunidad_autonoma": "Aragón",
       "latitud": 40.0656,
@@ -86042,7 +85987,7 @@
     },
     {
       "codigo_ine": "44077",
-      "nombre": "Cerollera, La",
+      "nombre": "La Cerollera",
       "provincia": "Teruel",
       "comunidad_autonoma": "Aragón",
       "latitud": 40.0656,
@@ -86055,7 +86000,7 @@
     },
     {
       "codigo_ine": "44080",
-      "nombre": "Codoñera, La",
+      "nombre": "La Codoñera",
       "provincia": "Teruel",
       "comunidad_autonoma": "Aragón",
       "latitud": 40.0656,
@@ -86133,7 +86078,7 @@
     },
     {
       "codigo_ine": "44088",
-      "nombre": "Cuba, La",
+      "nombre": "La Cuba",
       "provincia": "Teruel",
       "comunidad_autonoma": "Aragón",
       "latitud": 40.1456,
@@ -86172,7 +86117,7 @@
     },
     {
       "codigo_ine": "44092",
-      "nombre": "Cuervo, El",
+      "nombre": "El Cuervo",
       "provincia": "Teruel",
       "comunidad_autonoma": "Aragón",
       "latitud": 40.1456,
@@ -86341,7 +86286,7 @@
     },
     {
       "codigo_ine": "44108",
-      "nombre": "Fresneda, La",
+      "nombre": "La Fresneda",
       "provincia": "Teruel",
       "comunidad_autonoma": "Aragón",
       "latitud": 40.2256,
@@ -86471,7 +86416,7 @@
     },
     {
       "codigo_ine": "44118",
-      "nombre": "Ginebrosa, La",
+      "nombre": "La Ginebrosa",
       "provincia": "Teruel",
       "comunidad_autonoma": "Aragón",
       "latitud": 40.2256,
@@ -86549,7 +86494,7 @@
     },
     {
       "codigo_ine": "44124",
-      "nombre": "Hoz de la Vieja, La",
+      "nombre": "La Hoz de la Vieja",
       "provincia": "Teruel",
       "comunidad_autonoma": "Aragón",
       "latitud": 40.3056,
@@ -86575,7 +86520,7 @@
     },
     {
       "codigo_ine": "44126",
-      "nombre": "Iglesuela del Cid, La",
+      "nombre": "La Iglesuela del Cid",
       "provincia": "Teruel",
       "comunidad_autonoma": "Aragón",
       "latitud": 40.3056,
@@ -86796,7 +86741,7 @@
     },
     {
       "codigo_ine": "44146",
-      "nombre": "Mata de los Olmos, La",
+      "nombre": "La Mata de los Olmos",
       "provincia": "Teruel",
       "comunidad_autonoma": "Aragón",
       "latitud": 40.3856,
@@ -87108,7 +87053,7 @@
     },
     {
       "codigo_ine": "44173",
-      "nombre": "Olmos, Los",
+      "nombre": "Los Olmos",
       "provincia": "Teruel",
       "comunidad_autonoma": "Aragón",
       "latitud": 40.5456,
@@ -87173,7 +87118,7 @@
     },
     {
       "codigo_ine": "44178",
-      "nombre": "Parras de Castellote, Las",
+      "nombre": "Las Parras de Castellote",
       "provincia": "Teruel",
       "comunidad_autonoma": "Aragón",
       "latitud": 40.5456,
@@ -87264,7 +87209,7 @@
     },
     {
       "codigo_ine": "44185",
-      "nombre": "Pobo, El",
+      "nombre": "El Pobo",
       "provincia": "Teruel",
       "comunidad_autonoma": "Aragón",
       "latitud": 40.5456,
@@ -87277,7 +87222,7 @@
     },
     {
       "codigo_ine": "44187",
-      "nombre": "Portellada, La",
+      "nombre": "La Portellada",
       "provincia": "Teruel",
       "comunidad_autonoma": "Aragón",
       "latitud": 40.5456,
@@ -87316,7 +87261,7 @@
     },
     {
       "codigo_ine": "44191",
-      "nombre": "Puebla de Híjar, La",
+      "nombre": "La Puebla de Híjar",
       "provincia": "Teruel",
       "comunidad_autonoma": "Aragón",
       "latitud": 40.6256,
@@ -87329,7 +87274,7 @@
     },
     {
       "codigo_ine": "44192",
-      "nombre": "Puebla de Valverde, La",
+      "nombre": "La Puebla de Valverde",
       "provincia": "Teruel",
       "comunidad_autonoma": "Aragón",
       "latitud": 40.6256,
@@ -88005,7 +87950,7 @@
     },
     {
       "codigo_ine": "44249",
-      "nombre": "Vallecillo, El",
+      "nombre": "El Vallecillo",
       "provincia": "Teruel",
       "comunidad_autonoma": "Aragón",
       "latitud": 40.8656,
@@ -88200,7 +88145,7 @@
     },
     {
       "codigo_ine": "44268",
-      "nombre": "Zoma, La",
+      "nombre": "La Zoma",
       "provincia": "Teruel",
       "comunidad_autonoma": "Aragón",
       "latitud": 40.9456,
@@ -88629,7 +88574,7 @@
     },
     {
       "codigo_ine": "45033",
-      "nombre": "Campillo de la Jara, El",
+      "nombre": "El Campillo de la Jara",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.4342,
@@ -88681,7 +88626,7 @@
     },
     {
       "codigo_ine": "45037",
-      "nombre": "Carpio de Tajo, El",
+      "nombre": "El Carpio de Tajo",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.4342,
@@ -88720,7 +88665,7 @@
     },
     {
       "codigo_ine": "45040",
-      "nombre": "Casar de Escalona, El",
+      "nombre": "El Casar de Escalona",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.4342,
@@ -88811,7 +88756,7 @@
     },
     {
       "codigo_ine": "45048",
-      "nombre": "Cerralbos, Los",
+      "nombre": "Los Cerralbos",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.5199,
@@ -89032,7 +88977,7 @@
     },
     {
       "codigo_ine": "45065",
-      "nombre": "Estrella, La",
+      "nombre": "La Estrella",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.6057,
@@ -89110,7 +89055,7 @@
     },
     {
       "codigo_ine": "45071",
-      "nombre": "Guardia, La",
+      "nombre": "La Guardia",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.6057,
@@ -89123,7 +89068,7 @@
     },
     {
       "codigo_ine": "45072",
-      "nombre": "Herencias, Las",
+      "nombre": "Las Herencias",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.6914,
@@ -89214,7 +89159,7 @@
     },
     {
       "codigo_ine": "45079",
-      "nombre": "Iglesuela del Tiétar, La",
+      "nombre": "La Iglesuela del Tiétar",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.6914,
@@ -89422,7 +89367,7 @@
     },
     {
       "codigo_ine": "45095",
-      "nombre": "Mata, La",
+      "nombre": "La Mata",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.7771,
@@ -89591,7 +89536,7 @@
     },
     {
       "codigo_ine": "45108",
-      "nombre": "Nava de Ricomalillo, La",
+      "nombre": "La Nava de Ricomalillo",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.8628,
@@ -89643,7 +89588,7 @@
     },
     {
       "codigo_ine": "45112",
-      "nombre": "Navalmorales, Los",
+      "nombre": "Los Navalmorales",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.8628,
@@ -89656,7 +89601,7 @@
     },
     {
       "codigo_ine": "45113",
-      "nombre": "Navalucillos, Los",
+      "nombre": "Los Navalucillos",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 39.8628,
@@ -89942,7 +89887,7 @@
     },
     {
       "codigo_ine": "45135",
-      "nombre": "Puebla de Almoradiel, La",
+      "nombre": "La Puebla de Almoradiel",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.0342,
@@ -89955,7 +89900,7 @@
     },
     {
       "codigo_ine": "45136",
-      "nombre": "Puebla de Montalbán, La",
+      "nombre": "La Puebla de Montalbán",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.0342,
@@ -89968,7 +89913,7 @@
     },
     {
       "codigo_ine": "45137",
-      "nombre": "Pueblanueva, La",
+      "nombre": "La Pueblanueva",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.0342,
@@ -89981,7 +89926,7 @@
     },
     {
       "codigo_ine": "45138",
-      "nombre": "Puente del Arzobispo, El",
+      "nombre": "El Puente del Arzobispo",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.0342,
@@ -90059,7 +90004,7 @@
     },
     {
       "codigo_ine": "45144",
-      "nombre": "Real de San Vicente, El",
+      "nombre": "El Real de San Vicente",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.1199,
@@ -90124,7 +90069,7 @@
     },
     {
       "codigo_ine": "45149",
-      "nombre": "Romeral, El",
+      "nombre": "El Romeral",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.1199,
@@ -90371,7 +90316,7 @@
     },
     {
       "codigo_ine": "45167",
-      "nombre": "Toboso, El",
+      "nombre": "El Toboso",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.2057,
@@ -90410,7 +90355,7 @@
     },
     {
       "codigo_ine": "45171",
-      "nombre": "Torre de Esteban Hambrán, La",
+      "nombre": "La Torre de Esteban Hambrán",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.2914,
@@ -90553,7 +90498,7 @@
     },
     {
       "codigo_ine": "45182",
-      "nombre": "Ventas con Peña Aguilera, Las",
+      "nombre": "Las Ventas con Peña Aguilera",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.2914,
@@ -90566,7 +90511,7 @@
     },
     {
       "codigo_ine": "45183",
-      "nombre": "Ventas de Retamosa, Las",
+      "nombre": "Las Ventas de Retamosa",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.2914,
@@ -90579,7 +90524,7 @@
     },
     {
       "codigo_ine": "45184",
-      "nombre": "Ventas de San Julián, Las",
+      "nombre": "Las Ventas de San Julián",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.3771,
@@ -90592,7 +90537,7 @@
     },
     {
       "codigo_ine": "45186",
-      "nombre": "Villa de Don Fadrique, La",
+      "nombre": "La Villa de Don Fadrique",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.3771,
@@ -90774,7 +90719,7 @@
     },
     {
       "codigo_ine": "45199",
-      "nombre": "Viso de San Juan, El",
+      "nombre": "El Viso de San Juan",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.4628,
@@ -90787,7 +90732,7 @@
     },
     {
       "codigo_ine": "45200",
-      "nombre": "Yébenes, Los",
+      "nombre": "Los Yébenes",
       "provincia": "Toledo",
       "comunidad_autonoma": "Castilla-La Mancha",
       "latitud": 40.4628,
@@ -90862,7 +90807,7 @@
       "resumen_corto": "",
       "fuente_url": "",
       "ultima_actualizacion": ""
-    },  
+    },
     {
       "codigo_ine": "46001",
       "nombre": "Ademuz",
@@ -91099,7 +91044,7 @@
     },
     {
       "codigo_ine": "46020",
-      "nombre": "Alcúdia de Crespins, l'",
+      "nombre": "L'Alcúdia de Crespins",
       "provincia": "Valencia",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.9449,
@@ -91112,7 +91057,7 @@
     },
     {
       "codigo_ine": "46019",
-      "nombre": "Alcúdia, l'",
+      "nombre": "L'Alcúdia",
       "provincia": "Valencia",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.9449,
@@ -91333,7 +91278,7 @@
     },
     {
       "codigo_ine": "46037",
-      "nombre": "Alqueria de la Comtessa, l'",
+      "nombre": "L'Alqueria de la Comtessa",
       "provincia": "Valencia",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.0199,
@@ -92321,7 +92266,7 @@
     },
     {
       "codigo_ine": "46116",
-      "nombre": "Eliana, l'",
+      "nombre": "L'Eliana",
       "provincia": "Valencia",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.3949,
@@ -92360,7 +92305,7 @@
     },
     {
       "codigo_ine": "46119",
-      "nombre": "Énova, l'",
+      "nombre": "L'Énova",
       "provincia": "Valencia",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.3949,
@@ -92438,7 +92383,7 @@
     },
     {
       "codigo_ine": "46128",
-      "nombre": "Font de la Figuera, la",
+      "nombre": "La Font de la Figuera",
       "provincia": "Valencia",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.3949,
@@ -92451,7 +92396,7 @@
     },
     {
       "codigo_ine": "46127",
-      "nombre": "Font d'en Carròs, la",
+      "nombre": "La Font d'en Carròs",
       "provincia": "Valencia",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.3949,
@@ -92542,7 +92487,7 @@
     },
     {
       "codigo_ine": "46132",
-      "nombre": "Genovés, el",
+      "nombre": "El Genovés",
       "provincia": "Valencia",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.4699,
@@ -92607,7 +92552,7 @@
     },
     {
       "codigo_ine": "46137",
-      "nombre": "Granja de la Costera, la",
+      "nombre": "La Granja de la Costera",
       "provincia": "Valencia",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.4699,
@@ -92789,7 +92734,7 @@
     },
     {
       "codigo_ine": "46157",
-      "nombre": "Llosa de Ranes, la",
+      "nombre": "La Llosa de Ranes",
       "provincia": "Valencia",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.5449,
@@ -93153,7 +93098,7 @@
     },
     {
       "codigo_ine": "46183",
-      "nombre": "Olleria, l'",
+      "nombre": "L'Olleria",
       "provincia": "Valencia",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.6949,
@@ -93244,7 +93189,7 @@
     },
     {
       "codigo_ine": "46189",
-      "nombre": "Palomar, el",
+      "nombre": "El Palomar",
       "provincia": "Valencia",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.6949,
@@ -93348,7 +93293,7 @@
     },
     {
       "codigo_ine": "46199",
-      "nombre": "Pobla de Farnals, la",
+      "nombre": "La Pobla de Farnals",
       "provincia": "Valencia",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.6949,
@@ -93361,7 +93306,7 @@
     },
     {
       "codigo_ine": "46202",
-      "nombre": "Pobla de Vallbona, la",
+      "nombre": "La Pobla de Vallbona",
       "provincia": "Valencia",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.7699,
@@ -93374,7 +93319,7 @@
     },
     {
       "codigo_ine": "46200",
-      "nombre": "Pobla del Duc, la",
+      "nombre": "La Pobla del Duc",
       "provincia": "Valencia",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.7699,
@@ -93387,7 +93332,7 @@
     },
     {
       "codigo_ine": "46203",
-      "nombre": "Pobla Llarga, la",
+      "nombre": "La Pobla Llarga",
       "provincia": "Valencia",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.7699,
@@ -93452,7 +93397,7 @@
     },
     {
       "codigo_ine": "46204",
-      "nombre": "Puig de Santa Maria, el",
+      "nombre": "El Puig de Santa Maria",
       "provincia": "Valencia",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.7699,
@@ -93595,7 +93540,7 @@
     },
     {
       "codigo_ine": "46211",
-      "nombre": "Real de Gandia, el",
+      "nombre": "El Real de Gandia",
       "provincia": "Valencia",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.8449,
@@ -94297,7 +94242,7 @@
     },
     {
       "codigo_ine": "46262",
-      "nombre": "Yesa, La",
+      "nombre": "La Yesa",
       "provincia": "Valencia",
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 40.0699,
@@ -94713,7 +94658,7 @@
     },
     {
       "codigo_ine": "47031",
-      "nombre": "Campillo, El",
+      "nombre": "El Campillo",
       "provincia": "Valladolid",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.2237,
@@ -95584,7 +95529,7 @@
     },
     {
       "codigo_ine": "47099",
-      "nombre": "Mudarra, La",
+      "nombre": "La Mudarra",
       "provincia": "Valladolid",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.5666,
@@ -95701,7 +95646,7 @@
     },
     {
       "codigo_ine": "47110",
-      "nombre": "Parrilla, La",
+      "nombre": "La Parrilla",
       "provincia": "Valladolid",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.6523,
@@ -95714,7 +95659,7 @@
     },
     {
       "codigo_ine": "47111",
-      "nombre": "Pedraja de Portillo, La",
+      "nombre": "La Pedraja de Portillo",
       "provincia": "Valladolid",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.6523,
@@ -96299,7 +96244,7 @@
     },
     {
       "codigo_ine": "47158",
-      "nombre": "Seca, La",
+      "nombre": "La Seca",
       "provincia": "Valladolid",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.9094,
@@ -96533,7 +96478,7 @@
     },
     {
       "codigo_ine": "47176",
-      "nombre": "Unión de Campos, La",
+      "nombre": "La Unión de Campos",
       "provincia": "Valladolid",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.9952,
@@ -97235,7 +97180,7 @@
     },
     {
       "codigo_ine": "47232",
-      "nombre": "Zarza, La",
+      "nombre": "La Zarza",
       "provincia": "Valladolid",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 42.2523,
@@ -99003,7 +98948,7 @@
     },
     {
       "codigo_ine": "49024",
-      "nombre": "Bóveda de Toro, La",
+      "nombre": "La Bóveda de Toro",
       "provincia": "Zamora",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.9784,
@@ -99406,7 +99351,7 @@
     },
     {
       "codigo_ine": "49058",
-      "nombre": "Cubo de Tierra del Vino, El",
+      "nombre": "El Cubo de Tierra del Vino",
       "provincia": "Zamora",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.1284,
@@ -99809,7 +99754,7 @@
     },
     {
       "codigo_ine": "49095",
-      "nombre": "Hiniesta, La",
+      "nombre": "La Hiniesta",
       "provincia": "Zamora",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.2784,
@@ -99900,7 +99845,7 @@
     },
     {
       "codigo_ine": "49102",
-      "nombre": "Maderal, El",
+      "nombre": "El Maderal",
       "provincia": "Zamora",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.3534,
@@ -100433,7 +100378,7 @@
     },
     {
       "codigo_ine": "49146",
-      "nombre": "Pego, El",
+      "nombre": "El Pego",
       "provincia": "Zamora",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.5034,
@@ -100498,7 +100443,7 @@
     },
     {
       "codigo_ine": "49151",
-      "nombre": "Perdigón, El",
+      "nombre": "El Perdigón",
       "provincia": "Zamora",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.5784,
@@ -100589,7 +100534,7 @@
     },
     {
       "codigo_ine": "49158",
-      "nombre": "Piñero, El",
+      "nombre": "El Piñero",
       "provincia": "Zamora",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.5784,
@@ -101252,7 +101197,7 @@
     },
     {
       "codigo_ine": "49220",
-      "nombre": "Torre del Valle, La",
+      "nombre": "La Torre del Valle",
       "provincia": "Zamora",
       "comunidad_autonoma": "Castilla y León",
       "latitud": 41.8784,
@@ -102214,7 +102159,7 @@
     },
     {
       "codigo_ine": "50022",
-      "nombre": "Almolda, La",
+      "nombre": "La Almolda",
       "provincia": "Zaragoza",
       "comunidad_autonoma": "Aragón",
       "latitud": 41.1267,
@@ -102253,7 +102198,7 @@
     },
     {
       "codigo_ine": "50025",
-      "nombre": "Almunia de Doña Godina, La",
+      "nombre": "La Almunia de Doña Godina",
       "provincia": "Zaragoza",
       "comunidad_autonoma": "Aragón",
       "latitud": 41.1267,
@@ -102734,7 +102679,7 @@
     },
     {
       "codigo_ine": "50062",
-      "nombre": "Burgo de Ebro, El",
+      "nombre": "El Burgo de Ebro",
       "provincia": "Zaragoza",
       "comunidad_autonoma": "Aragón",
       "latitud": 41.2679,
@@ -102747,7 +102692,7 @@
     },
     {
       "codigo_ine": "50063",
-      "nombre": "Buste, El",
+      "nombre": "El Buste",
       "provincia": "Zaragoza",
       "comunidad_autonoma": "Aragón",
       "latitud": 41.2679,
@@ -103137,7 +103082,7 @@
     },
     {
       "codigo_ine": "50091",
-      "nombre": "Cuerlas, Las",
+      "nombre": "Las Cuerlas",
       "provincia": "Zaragoza",
       "comunidad_autonoma": "Aragón",
       "latitud": 41.409,
@@ -103280,7 +103225,7 @@
     },
     {
       "codigo_ine": "50106",
-      "nombre": "Fayos, Los",
+      "nombre": "Los Fayos",
       "provincia": "Zaragoza",
       "comunidad_autonoma": "Aragón",
       "latitud": 41.4796,
@@ -103319,7 +103264,7 @@
     },
     {
       "codigo_ine": "50109",
-      "nombre": "Frago, El",
+      "nombre": "El Frago",
       "provincia": "Zaragoza",
       "comunidad_autonoma": "Aragón",
       "latitud": 41.4796,
@@ -103332,7 +103277,7 @@
     },
     {
       "codigo_ine": "50110",
-      "nombre": "Frasno, El",
+      "nombre": "El Frasno",
       "provincia": "Zaragoza",
       "comunidad_autonoma": "Aragón",
       "latitud": 41.4796,
@@ -103592,7 +103537,7 @@
     },
     {
       "codigo_ine": "50132",
-      "nombre": "Joyosa, La",
+      "nombre": "La Joyosa",
       "provincia": "Zaragoza",
       "comunidad_autonoma": "Aragón",
       "latitud": 41.5502,
@@ -104229,7 +104174,7 @@
     },
     {
       "codigo_ine": "50182",
-      "nombre": "Muela, La",
+      "nombre": "La Muela",
       "provincia": "Zaragoza",
       "comunidad_autonoma": "Aragón",
       "latitud": 41.762,
@@ -104528,7 +104473,7 @@
     },
     {
       "codigo_ine": "50205",
-      "nombre": "Pedrosas, Las",
+      "nombre": "Las Pedrosas",
       "provincia": "Zaragoza",
       "comunidad_autonoma": "Aragón",
       "latitud": 41.8326,
@@ -104593,7 +104538,7 @@
     },
     {
       "codigo_ine": "50210",
-      "nombre": "Pintanos, Los",
+      "nombre": "Los Pintanos",
       "provincia": "Zaragoza",
       "comunidad_autonoma": "Aragón",
       "latitud": 41.9032,
@@ -104710,7 +104655,7 @@
     },
     {
       "codigo_ine": "50219",
-      "nombre": "Puebla de Alfindén, La",
+      "nombre": "La Puebla de Alfindén",
       "provincia": "Zaragoza",
       "comunidad_autonoma": "Aragón",
       "latitud": 41.9032,
@@ -105685,7 +105630,7 @@
     },
     {
       "codigo_ine": "50282",
-      "nombre": "Vilueña, La",
+      "nombre": "La Vilueña",
       "provincia": "Zaragoza",
       "comunidad_autonoma": "Aragón",
       "latitud": 42.1855,
@@ -105711,7 +105656,7 @@
     },
     {
       "codigo_ine": "50296",
-      "nombre": "Zaida, La",
+      "nombre": "La Zaida",
       "provincia": "Zaragoza",
       "comunidad_autonoma": "Aragón",
       "latitud": 42.2561,
