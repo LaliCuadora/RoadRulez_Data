@@ -101,11 +101,11 @@
       "comunidad_autonoma": "Región de Murcia",
       "latitud": 38.04954,
       "longitud": -1.24202,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. Se aplica la Instrucción PROT 2026/04 de la DGT and la Ordenanza de Convivencia de Alguazas: El estacionamiento y la pernocta en el interior del vehículo son libres en las zonas aptas del casco urbano siempre que la actividad no trascienda al exterior (sin desplegar toldos, mesas, calzos ni emitir vertidos). El ayuntamiento mantiene la potestad de sancionar la acampada libre o usos abusivos del espacio público.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "30008",
