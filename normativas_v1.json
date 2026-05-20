@@ -10,10 +10,10 @@
       "comunidad_autonoma": "Región de Murcia",
       "latitud": 38.20628,
       "longitud": -1.043499,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
+      "estado_norma": "PERMITIDO",
+      "texto_normativa": "Ordenanza Municipal de Convivencia Ciudadana de Abanilla y normativa general de Tráfico: Se prohíbe expresamente la acampada libre en todo el término municipal. El estacionamiento de vehículos habitables está sujeto a las normas generales de circulación, permitiéndose la pernocta en su interior siempre que no se trascienda al exterior mediante el despliegue de enseres (mesas, sillas, toldos), niveladores o vertido de aguas sucias a la vía pública.",
+      "resumen_corto": "Permitido estacionar y pernoctar como un turismo en zonas autorizadas de la vía pública. Estrictamente prohibido acampar (sacar toldos, sillas o calzar el vehículo) y verter residuos líquidos según la ordenanza local.",
+      "fuente_url": "https://www.aranzadilaley.es/ordenanzas-municipales/documento.php?d=LE0000598804_20170628.HTML",
       "ultima_actualizacion": ""
     },
     {
@@ -23,11 +23,11 @@
       "comunidad_autonoma": "Región de Murcia",
       "latitud": 38.20514,
       "longitud": -1.397181,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "texto_normativa": "Ordenanza de Convivencia Ciudadana de Abarán y Reglamento General de Circulación: Se autoriza el estacionamiento de vehículos vivienda en las vías públicas aptas, permitiendo la pernocta en su interior sin superar el perímetro del vehículo. Queda expresamente prohibido realizar actos de acampada (colocar calzos, patas, toldos o mesas) y verter aguas grises o negras en zonas no autorizadas del término municipal.",
+      "resumen_corto": "Estacionamiento y pernocta permitidos en el casco urbano como un turismo más. Estrictamente prohibido acampar, desplegar elementos al exterior o verter líquidos fuera de las áreas habilitadas.",
+      "fuente_url": "https://www.borm.es/services/anuncio/ano/2008/numero/10236/pdf?id=349329",
+      "ultima_actualizacion": "13/08/2008"
     },
     {
       "codigo_ine": "30003",
@@ -36,11 +36,11 @@
       "comunidad_autonoma": "Región de Murcia",
       "latitud": 37.4038,
       "longitud": -1.581161,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "texto_normativa": "Ordenanza Municipal de Autocaravanas de Águilas (Art. 5 y 6): Se permite el estacionamiento y la pernocta por un tiempo máximo de 48 horas en las zonas expresamente habilitadas, quedando prohibida la acampada (desplegar toldos, mesas, sillas o verter líquidos). Se prohíbe la parada y el estacionamiento de estos vehículos en el litoral, paseos marítimos, así como la acampada libre a menos de 5 kilómetros de un camping, playa o núcleo urbano.",
+      "resumen_corto": "Permitido un máximo de 48 horas exclusivamente en las áreas oficiales habilitadas para autocaravanas del municipio. Estrictamente prohibido pernoctar en playas, paseos marítimos y espacios protegidos.",
+      "fuente_url": "https://transparencia.ayuntamientodeaguilas.org/wp-content/uploads/2018/02/35c5e9.pdf",
+      "ultima_actualizacion":"19/01/2018"
     },
     {
       "codigo_ine": "30004",
@@ -49,11 +49,11 @@
       "comunidad_autonoma": "Región de Murcia",
       "latitud": 38.02719,
       "longitud": -1.384766,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "texto_normativa": "Permitido estacionar y pernoctar en el casco urbano bajo las normas de un turismo común. Estrictamente prohibido acampar (sacar sillas, mesas, toldos o poner calzos) y verter líquidos en la vía pública.",
+      "resumen_corto": "Sin ordenanza específica para autocaravanas. Se rige enteramente por la normativa general de tráfico (DGT) y la Ordenanza de Convivencia de Albudeite: Se permite el estacionamiento y la pernocta en el interior del vehículo en las zonas aptas del casco urbano, estando prohibida la acampada libre (despliegue de elementos externos o niveladores) y el vertido de aguas residuales.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "30005",
@@ -75,11 +75,11 @@
       "comunidad_autonoma": "Región de Murcia",
       "latitud": 37.3922,
       "longitud": -0.3807,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Permitido exclusivamente en las áreas oficiales habilitadas y campings autorizados. Estrictamente prohibido estacionar, pernoctar o acampar en playas, paseos marítimos y vías residenciales del litoral.",
+      "texto_normativa": "Ordenanza de Playas y Convivencia de Los Alcázares junto a la Instrucción PROT 2026/04 de la DGT: Se restringe el estacionamiento y la pernocta de autocaravanas en todo el frente costero, playas y zonas de dominio público marítimo-terrestre. En el casco urbano interior se permite el estacionamiento técnico regulado por la DGT, quedando prohibida la acampada (calzos, toldos, ventanas salientes) y la emisión de ruidos o vertidos.",
+      "fuente_url": "https://www.borm.es/eli/es-mu-01309027/odnz/2023/2/7/(1)/dof/spa/html",
+      "ultima_actualizacion": "07/02/2023"
     },
     {
       "codigo_ine": "30006",
@@ -88,11 +88,11 @@
       "comunidad_autonoma": "Región de Murcia",
       "latitud": 37.79744,
       "longitud": -1.573683,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas y zonas habilitadas según la Instrucción PROT 2026/04 de la DGT. Estrictamente prohibido acampar o pernoctar libremente dentro del límite del Parque Natural de Sierra Espuña.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas en el casco urbano. Se aplica la Instrucción PROT 2026/04 de la DGT y la normativa medioambiental de Sierra Espuña: Se permite el estacionamiento técnico y la pernocta en el interior del vehículo en suelo urbano y parkings autorizados sin desplegar enseres exteriores. Queda prohibido cualquier tipo de asentamiento o acampada en los caminos rurales y espacios forestales protegidos.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "30007",
@@ -36412,9 +36412,9 @@
       "longitud": -3.597929,
       "estado_norma": "RESTRINGIDO",
       "texto_normativa": "Ordenanza Municipal de Convivencia Ciudadana (2019), art. 45: Se permite la estancia de vehículos habitables en zonas no urbanas siempre que no supere las 48h y no se generen residuos. Queda prohibido el uso de generadores entre las 22:00 y las 08:00 horas.",
-      "resumen_corto": "Permitido fuera de zona urbana, máx. 48h. Sin generadores nocturnos.",
-      "fuente_url": "https://www.granada.org/inet/wordenanz.nsf/wwalias/33E8E05267172F0EC1257656003437A2",
-      "ultima_actualizacion": "2024-03-15"
+      "resumen_corto": "Prohibido en la vía pública urbana; solo permitido en áreas oficiales (Alhambra) o campings periféricos. Máx. 48-72h. Prohibido desplegar elementos exteriores (toldos/sillas/calzos) en calles.",
+      "fuente_url": "https://www.granada.org/inet/wordenanz.nsf/0/33e8e05267172f0ec1257656003437a2?OpenDocument",
+      "ultima_actualizacion": "23/01/2018"
     },
     {
       "codigo_ine": "18088",
