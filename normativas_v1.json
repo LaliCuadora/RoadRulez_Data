@@ -105674,11 +105674,11 @@
       "comunidad_autonoma": "Aragón",
       "latitud": 41.65629,
       "longitud": -0.8765379,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar de manera libre. El municipio cuenta con un área pública municipal habilitada oficialmente por el ayuntamiento.",
+      "texto_normativa": "Sin ordenanza restrictiva para autocaravanas. El ayuntamiento regula y fomenta la actividad mediante un área pública municipal con servicios (Área de Valdespartera). Se permite el estacionamiento general y la pernocta en el interior del vehículo bajo las condiciones de la Instrucción PROT 2026/04 de la DGT. Queda prohibida la acampada libre o despliegue de elementos exteriores en el resto del término urbano.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "50298",
@@ -105687,11 +105687,11 @@
       "comunidad_autonoma": "Aragón",
       "latitud": 41.86918,
       "longitud": -0.7881644,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la normativa de convivencia local: El estacionamiento y la pernocta en el interior del vehículo son libres en suelo urbano habilitado siempre que la actividad no trascienda al exterior (sin calzos, patas estabilizadoras ni enseres externos). El vaciado de aguas residuales debe realizarse en instalaciones autorizadas.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "51001",
@@ -105700,11 +105700,11 @@
       "comunidad_autonoma": "Ciudad Autónoma de Ceuta",
       "latitud": 35.88829,
       "longitud": -5.316195,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la normativa de convivencia local: El estacionamiento y la pernocta en el interior del vehículo son libres en suelo urbano habilitado siempre que la actividad no trascienda al exterior (sin calzos, patas estabilizadoras ni enseres externos). El vaciado de aguas residuales debe realizarse en instalaciones autorizadas.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "52001",
@@ -105713,11 +105713,11 @@
       "comunidad_autonoma": "Ciudad Autónoma de Melilla",
       "latitud": 35.29234,
       "longitud": -2.938794,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la normativa de convivencia local: El estacionamiento y la pernocta en el interior del vehículo son libres en suelo urbano habilitado siempre que la actividad no trascienda al exterior (sin calzos, patas estabilizadoras ni enseres externos). El vaciado de aguas residuales debe realizarse en instalaciones autorizadas.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     }
   ]
 }
