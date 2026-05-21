@@ -59550,11 +59550,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.71965,
       "longitud": -4.420019,
-      "estado_norma": "PROHIBIDO",
-      "texto_normativa": "Ordenanza de Protección de Espacios Públicos (2021): Queda expresamente prohibida la pernocta en vehículos de cualquier tipo en todo el término municipal, incluidas áreas de servicio no habilitadas. Sanción: 750€.",
-      "resumen_corto": "PROHIBIDO en todo el término municipal. Multa: 750€.",
-      "fuente_url": "https://www.malaga.eu/visorcontenido/NRMDocumentDisplayer/782/DocumentoNormativa782",
-      "ultima_actualizacion": "2024-01-10"
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Permitido estacionar en las zonas habilitadas del municipio y área pública. Prohibida la pernocta en viales urbanos residenciales y zonas de playa por ordenanza local.",
+      "texto_normativa": "Regulado por la Ordenanza de Movilidad Sostenible de Málaga. Restringe el estacionamiento continuado y prohíbe el uso habitacional o pernocta de autocaravanas y vehículos vivienda en las vías públicas urbanas residenciales y zonas del litoral, derivando la actividad a los espacios específicos. Dispone de área pública municipal oficial sujeta a límite de horas y normas de uso.",
+      "fuente_url": "https://static.malaga.es/municipios/subidas/archivos/7/9/arc_51797.pdf",
+      "ultima_actualizacion": "15/10/2012"
     },
     {
       "codigo_ine": "29068",
