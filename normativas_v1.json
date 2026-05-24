@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "fecha_generacion": "2026-05-18",
   "total_municipios": 8132,
   "municipios": [
@@ -2428,11 +2428,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.3452,
       "longitud": -0.481006,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Permitido estacionamiento técnico urbano general. Prohibida la pernocta en viales residenciales y en todo el frente marítimo y playas por ordenanza local.",
+      "texto_normativa": "Ordenanza municipal de movilidad. Regula y restringe el uso habitacional de vehículos vivienda en las calles del casco urbano residencial y zonas costeras, derivando la estancia de pernocta al área pública municipal oficial o instalaciones habilitadas. Prohibido el despliegue de enseres (toldos, sillas) en todo el término. Dispone de área pública municipal.",      
+      "fuente_url": "https://www.alicante.es/es/normativa/ordenanza-convivencia-civica-termino-municipal-alicante",
+      "ultima_actualizacion": "27/04/2022"
     },
     {
       "codigo_ine": "03005",
