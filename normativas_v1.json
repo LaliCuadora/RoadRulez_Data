@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "fecha_generacion": "2026-05-18",
   "total_municipios": 8132,
   "municipios": [
@@ -14,7 +14,7 @@
       "texto_normativa": "Ordenanza Municipal de Convivencia Ciudadana de Abanilla y normativa general de Tráfico: Se prohíbe expresamente la acampada libre en todo el término municipal. El estacionamiento de vehículos habitables está sujeto a las normas generales de circulación, permitiéndose la pernocta en su interior siempre que no se trascienda al exterior mediante el despliegue de enseres (mesas, sillas, toldos), niveladores o vertido de aguas sucias a la vía pública.",
       "resumen_corto": "Permitido estacionar y pernoctar como un turismo en zonas autorizadas de la vía pública. Estrictamente prohibido acampar (sacar toldos, sillas o calzar el vehículo) y verter residuos líquidos según la ordenanza local.",
       "fuente_url": "https://www.aranzadilaley.es/ordenanzas-municipales/documento.php?d=LE0000598804_20170628.HTML",
-      "ultima_actualizacion": ""
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "30002",
@@ -2389,10 +2389,10 @@
       "latitud": 38.44117,
       "longitud": -0.6395459,
       "estado_norma": "PERMITIDO",
-      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la normativa general de tráfico, siempre que esté correctamente aparcado y no se monte campamento.",
-      "texto_normativa": "Sin ordenanza municipal restrictiva específica para autocaravanas. Al no poseer normativa local limitativa en el casco urbano, se aplica la normativa general de tráfico y el Decreto de Turismo autonómico: se autoriza el estacionamiento técnico y la pernocta en el interior del habitáculo siempre que no se desplieguen elementos de acampada (toldos, mesas o calzos) y el vehículo no exceda los límites de la plaza de aparcamiento.",
-      "fuente_url": "https://www.agost.es/",
-      "ultima_actualizacion": "25/06/2026"
+      "resumen_corto": "Permitido estacionar y pernoctar de manera libre. El municipio cuenta con un área pública municipal habilitada oficialmente por el ayuntamiento.",
+      "texto_normativa": "Sin ordenanza municipal restrictiva para autocaravanas. El ayuntamiento fomenta la actividad mediante la gestión de un área pública municipal oficial equipada con servicios. Se permite el estacionamiento general y la pernocta en el habitáculo bajo las condiciones de la Instrucción PROT 2026/04 de la DGT, quedando prohibida la acampada o despliegue de enseres exteriores en el resto del término urbano.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03003",
@@ -2415,10 +2415,10 @@
       "latitud": 38.49932,
       "longitud": -0.3627366,
       "estado_norma": "PERMITIDO",
-      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas, siempre que esté correctamente aparcado, no exceda marcas viales y no se monte campamento.",
-      "texto_normativa": "El municipio no cuenta con un articulado prohibitivo o discriminatorio específico contra los vehículos vivienda en sus calles céntricas. Se aplica el reglamento general de circulación nacional y el decreto autonómico valenciano: el estacionamiento y el descanso nocturno en el habitáculo son libres en plazas aptas para el gálibo del vehículo, estando estrictamente prohibido el vertido de aguas y la acampada exterior.",
-      "fuente_url": "https://www.aigues.es/",
-      "ultima_actualizacion": "25/06/2026"
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia de Agres: Se autoriza el estacionamiento y la pernocta en el habitáculo interior del vehículo en las zonas del casco urbano aptas para turismos. Queda prohibida la acampada libre (desplegar toldos, mesas, sillas o calzos) y realizar vertidos a la vía pública.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03014",
@@ -2428,10 +2428,10 @@
       "latitud": 38.3452,
       "longitud": -0.481006,
       "estado_norma": "RESTRINGIDO",
-      "resumen_corto": "Estacionamiento habitacional y pernocta restringidos. Limitaciones severas de estacionamiento por dimensiones y MMA en el casco urbano y líneas de playa.",
-      "texto_normativa": "La Ordenanza de Movilidad local introduce restricciones drásticas por tamaño. Se prohíbe el estacionamiento de vehículos con fines habitacionales o que superen los 2.100 kg de MMA o dimensiones estándar en la primera línea de playas (San Juan, El Postiguet, Urbanova) y vías del casco histórico. El uso residencial de la vía pública nocturna está perseguido, derivando de forma restrictiva a los usuarios a parkings autorizados de pago o áreas privadas perimetrales.",
-      "fuente_url": "https://www.alicante.es/",
-      "ultima_actualizacion": "25/06/2026"
+      "resumen_corto": "Permitido estacionamiento técnico urbano general. Prohibida la pernocta en viales residenciales y en todo el frente marítimo y playas por ordenanza local.",
+      "texto_normativa": "Ordenanza municipal de movilidad. Regula y restringe el uso habitacional de vehículos vivienda en las calles del casco urbano residencial y zonas costeras, derivando la estancia de pernocta al área pública municipal oficial o instalaciones habilitadas. Prohibido el despliegue de enseres (toldos, sillas) en todo el término. Dispone de área pública municipal.",
+      "fuente_url": "https://www.alicante.es/sites/default/files/documentos/202204/ordenanza-convivencia-civica.pdf",
+      "ultima_actualizacion": "03/03/2022"
     },
     {
       "codigo_ine": "03005",
@@ -2456,8 +2456,8 @@
       "estado_norma": "PERMITIDO",
       "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas, siempre que esté correctamente aparcado y no se monte campamento ni se invada la calzada.",
       "texto_normativa": "Sin ordenanza municipal restrictiva para autocaravanas en el entramado urbano. El municipio, integrado en el Vall de Pop, aplica de forma directa el marco genérico nacional y autonómico. El estacionamiento técnico y el descanso interior son libres en los viales urbanos idóneos para el peso del vehículo, quedando tajantemente prohibido verter fluidos o desplegar complementos exteriores de acampada.",
-      "fuente_url": "https://www.alcalali.es/",
-      "ultima_actualizacion": "25/06/2026"
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03009",
@@ -2492,11 +2492,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 37.7452,
       "longitud": -0.0315,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia de Agres: Se autoriza el estacionamiento y la pernocta en el habitáculo interior del vehículo en las zonas del casco urbano aptas para turismos. Queda prohibida la acampada libre (desplegar toldos, mesas, sillas o calzos) y realizar vertidos a la vía pública.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03010",
@@ -2505,11 +2505,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.77266,
       "longitud": -0.5552129,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia de Agres: Se autoriza el estacionamiento y la pernocta en el habitáculo interior del vehículo en las zonas del casco urbano aptas para turismos. Queda prohibida la acampada libre (desplegar toldos, mesas, sillas o calzos) y realizar vertidos a la vía pública.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03011",
@@ -2518,11 +2518,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 37.7452,
       "longitud": 0.2685,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Permitido estacionamiento técnico urbano general. Prohibida la pernocta y la acampada en la primera línea de la playa de l'Albir y zonas costeras por ordenanza.",
+      "texto_normativa": "Ordenanza municipal de convivencia y playas. Restringe la pernocta y la habitabilidad de vehículos vivienda en el frente marítimo de l'Albir y áreas residenciales de alta ocupación turística, permitiendo únicamente el estacionamiento técnico común sin despliegue de enseres bajo criterios DGT en viales ordinarios alejados de la costa. Sin área pública municipal.",
+      "fuente_url": "https://www.lalfas.es/list-transparencia/oyr/ordenanza-municipal-de-uso-y-aprovechamiento-de-la-playa-del-albir-3/",
+      "ultima_actualizacion": "29/11/2011"
     },
     {
       "codigo_ine": "03012",
@@ -2531,11 +2531,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.08587,
       "longitud": -0.7957607,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia de Agres: Se autoriza el estacionamiento y la pernocta en el habitáculo interior del vehículo en las zonas del casco urbano aptas para turismos. Queda prohibida la acampada libre (desplegar toldos, mesas, sillas o calzos) y realizar vertidos a la vía pública.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03013",
@@ -2544,11 +2544,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.33886,
       "longitud": -1.003234,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar de manera libre. El municipio cuenta con un área pública municipal habilitada oficialmente por el ayuntamiento.",
+      "texto_normativa": "Sin ordenanza restrictiva para autocaravanas. El ayuntamiento promueve el turismo itinerante mediante la gestión de un área pública municipal oficial equipada con bornas de servicios. Se permite el estacionamiento general y la pernocta en el habitáculo bajo los criterios de la Instrucción PROT 2026/04 de la DGT, estando prohibida la acampada libre o despliegue de enseres fuera de los límites del vehículo en el resto del término urbano.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03015",
@@ -3220,11 +3220,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.2655,
       "longitud": -0.6984587,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Permitido estacionamiento técnico urbano general. Prohibida la pernocta y acampada en todo el frente litoral, playas y zonas protegidas como el Clot de Galvany.",
+      "texto_normativa": "Regulación municipal protectora del litoral y espacios naturales. Se autoriza el estacionamiento técnico en el casco urbano interior siguiendo las pautas de la DGT, pero se restringe estrictamente la pernocta, habitabilidad y el despliegue de enseres (toldos, calzos, mesas) en todas las playas del término (Arenales, La Marina) y perímetros protegidos. Sin área pública municipal.",
+      "fuente_url": "https://pimesa.es/wp-content/uploads/2023/07/Ordenanza_Municipal_Limpieza.pdf",
+      "ultima_actualizacion": "14/11/2007"
     },
     {
       "codigo_ine": "03067",
