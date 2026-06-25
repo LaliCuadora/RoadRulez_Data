@@ -595,11 +595,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.85244,
       "longitud": -2.389455,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar de manera libre. El municipio cuenta con un área pública municipal habilitada oficialmente por el ayuntamiento.",
+      "texto_normativa": "Sin ordenanza restrictiva para autocaravanas. El ayuntamiento promueve la acogida mediante un área pública municipal oficial equipada con bornas de servicios ecológicos. Se permite el estacionamiento general y la pernocta en el interior del habitáculo bajo los criterios de la Instrucción PROT 2026/04 de la DGT, estando prohibida la acampada libre o despliegue de elementos exteriores en el resto del término urbano.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01001",
@@ -608,11 +608,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.84149,
       "longitud": -2.513507,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+     "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar de manera libre. El municipio cuenta con un área pública municipal habilitada oficialmente por el ayuntamiento.",
+      "texto_normativa": "Sin ordenanza específica restrictiva para autocaravanas. El ayuntamiento fomenta el turismo itinerante mediante la gestión de un área pública municipal oficial. Se permite el estacionamiento técnico y la pernocta en el habitáculo interior de acuerdo con la Instrucción PROT 2026/04 de la DGT, quedando prohibida la acampada o despliegue de enseres en las vías públicas.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01002",
@@ -621,11 +621,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 43.05265,
       "longitud": -3.001022,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+     "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar de manera libre. El municipio cuenta con un área pública municipal habilitada oficialmente por el ayuntamiento.",
+      "texto_normativa": "Sin ordenanza municipal prohibitiva. El consistorio promueve el sector mediante la dotación de un área pública municipal oficial regulada. Se autoriza el estacionamiento y el uso habitacional interior de los vehículos vivienda en las plazas urbanas convencionales bajo los criterios comunes de la Instrucción PROT 2026/04 de la DGT, estando prohibida la acampada.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion":  "11/03/2026"    
     },
     {
       "codigo_ine": "01049",
@@ -634,11 +634,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.80235,
       "longitud": -2.982607,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+     "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia local: Se autoriza el estacionamiento técnico y la pernocta en el habitáculo interior en cualquier plaza urbana apta. Queda prohibida la acampada (desplegar toldos, mesas, sillas o calzar el vehículo) y realizar vertidos de fluidos.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion":  "11/03/2026"
     },
     {
       "codigo_ine": "01003",
@@ -647,11 +647,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 43.054,
       "longitud": -2.566,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia de Aramaio: El estacionamiento y la pernocta en el interior del habitáculo son libres en suelo urbano habilitado siempre que la actividad no trascienda al exterior (sin calzos, patas estabilizadoras, toldos ni enseres externos).",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion":  "11/03/2026"
     },
     {
       "codigo_ine": "01006",
@@ -660,11 +660,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.72305,
       "longitud": -2.872574,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia local: Se autoriza el estacionamiento técnico y la pernocta en el interior del habitáculo en cualquier plaza urbana convencional adaptada para turismos. Queda terminantemente prohibido desbordar el perímetro exterior del vehículo o realizar vertidos líquidos a la vía pública.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01037",
@@ -673,11 +673,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.73981,
       "longitud": -2.44598,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar de manera libre. El municipio cuenta con un área pública municipal habilitada oficialmente por el ayuntamiento.",
+      "texto_normativa": "Sin ordenanza restrictiva para autocaravanas. El ayuntamiento promueve la itinerancia mediante la gestión de un área pública municipal oficial con bornas de servicios. Se permite el estacionamiento general y la pernocta en el habitáculo bajo los criterios de la Instrucción PROT 2026/04 de la DGT, estando prohibida la acampada libre o el despliegue de enseres fuera del vehículo en el resto del término municipal.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01008",
@@ -686,12 +686,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.91669,
       "longitud": -2.491817,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
-    },
+     "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia local: Se autoriza el estacionamiento técnico y la pernocta en el interior del habitáculo en cualquier plaza urbana apta. Queda prohibida la acampada (desplegar toldos, mesas, sillas o calzar el vehículo) y realizar vertidos de líquidos a la calzada.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"    },
     {
       "codigo_ine": "01004",
       "nombre": "Artziniega",
@@ -699,11 +698,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 43.1222,
       "longitud": -3.128209,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+     "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal con servicios, pero habilita parkings aptos. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia local: El estacionamiento y la pernocta en el interior del habitáculo son libres en suelo urbano habilitado siempre que la actividad no trascienda al exterior (sin calzos, patas, toldos ni enseres externos).",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01009",
@@ -712,11 +711,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.89567,
       "longitud": -2.321,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia local: Se autoriza el estacionamiento técnico y la pernocta en el habitáculo interior en cualquier plaza urbana apta para la categoría del vehículo. Queda prohibida la acampada (desplegar toldos, mesas, sillas o calzar el vehículo) y verter líquidos.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01010",
@@ -725,11 +724,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 43.08333,
       "longitud": -3.063056,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+     "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia local: El estacionamiento y la pernocta en el interior del habitáculo son libres en suelo urbano habilitado siempre que la actividad no trascienda al exterior (sin calzos, patas estabilizadoras, toldos ni elementos externos).",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01011",
@@ -738,11 +737,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.53029,
       "longitud": -2.679144,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza municipal prohibitiva para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia de Barrundia: Se autoriza el estacionamiento técnico y la pernocta en el interior del habitáculo en cualquier plaza urbana común apta. Queda prohibida la acampada y realizar cualquier tipo de vertido a la calzada.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01013",
@@ -751,11 +750,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.91669,
       "longitud": -2.491817,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia local: Se autoriza el estacionamiento técnico y la pernocta en el habitáculo interior en cualquier plaza urbana convencional. Queda prohibida la acampada y realizar vertidos de líquidos a la calzada.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01014",
@@ -777,11 +776,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.62669,
       "longitud": -2.497532,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar de manera libre. El municipio cuenta con un área pública municipal habilitada oficialmente por el ayuntamiento.",
+      "texto_normativa": "Sin ordenanza restrictiva para autocaravanas. El ayuntamiento promueve el turismo itinerante gestionando un área pública municipal oficial con bornas de servicios ecológicos. Se permite el estacionamiento general y la pernocta en el interior del habitáculo bajo los criterios de la Instrucción PROT 2026/04 de la DGT, estando prohibida la acampada libre en el resto del núcleo urbano.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01017",
@@ -790,11 +789,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.69194,
       "longitud": -2.37,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar de manera libre. El municipio cuenta con un área pública municipal habilitada oficialmente por el ayuntamiento.",
+      "texto_normativa": "Sin ordenanza municipal prohibitiva. El consistorio promueve la acogida mediante un área pública municipal oficial provista de bornas de servicios. Se autoriza el estacionamiento técnico y el uso habitacional interior en las plazas urbanas convencionales bajo los criterios unificados de la Instrucción PROT 2026/04 de la DGT, estando prohibida la acampada libre.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01021",
@@ -803,11 +802,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.84956,
       "longitud": -2.544762,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar de manera libre. El municipio cuenta con un área pública municipal habilitada oficialmente por el ayuntamiento.",
+      "texto_normativa": "Sin ordenanza específica restrictiva para autocaravanas. El ayuntamiento fomenta el sector itinerante mediante la gestión de un área pública municipal oficial. Se permite el estacionamiento técnico y la pernocta en el interior del habitáculo de acuerdo con la Instrucción PROT 2026/04 de la DGT, estando prohibido desplegar elementos de acampada en el resto de la calzada.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01022",
@@ -816,11 +815,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.51507,
       "longitud": -2.618277,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar de manera libre. El municipio cuenta con un área pública municipal habilitada oficialmente por el ayuntamiento.",
+      "texto_normativa": "Sin ordenanza local prohibitiva. El ayuntamiento promueve activamente el turismo itinerante mediante la gestión de un área pública municipal oficial equipada con servicios completos. Se autoriza el estacionamiento y la pernocta técnica en viales convencionales bajo los criterios unificados de la Instrucción PROT 2026/04 de la DGT, quedando prohibida la acampada.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01023",
@@ -829,11 +828,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.5705,
       "longitud": -2.544915,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia de Elvillar: El estacionamiento y la pernocta en el interior del habitáculo son libres en suelo urbano habilitado siempre que la actividad no trascienda al exterior (sin desplegar toldos, mesas, sillas o calzar el vehículo).",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01046",
@@ -842,11 +841,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.71577,
       "longitud": -2.968477,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia local: Se autoriza el estacionamiento técnico y la pernocta en el interior del habitáculo en cualquier plaza urbana apta. Queda prohibida la acampada y realizar vertidos de líquidos a la calzada.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01056",
@@ -855,11 +854,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.75673,
       "longitud": -2.321858,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia local: El estacionamiento y la pernocta en el interior del habitáculo son libres en suelo urbano habilitado siempre que la actividad no trascienda al exterior (sin calzos, patas estabilizadoras, toldos ni enseres externos).",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01901",
@@ -868,11 +867,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.81917,
       "longitud": -2.807778,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar de manera libre. El municipio cuenta con un área pública municipal habilitada oficialmente por el ayuntamiento.",
+      "texto_normativa": "Sin ordenanza restrictiva para autocaravanas. El ayuntamiento promueve el turismo itinerante mediante la gestión de un área pública municipal oficial provista de bornas de servicios ecológicos. Se permite el estacionamiento general y la pernocta en el interior del habitáculo bajo los criterios de la Instrucción PROT 2026/04 de la DGT, estando prohibida la acampada libre o despliegue de elementos exteriores en el resto del término urbano.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01027",
@@ -881,11 +880,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.82207,
       "longitud": -2.495043,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia local: Se autoriza el estacionamiento técnico y la pernocta en el interior del habitáculo en cualquier plaza urbana apta. Queda prohibida la acampada (desplegar toldos, mesas, sillas o calzar el vehículo) y realizar vertidos de fluidos.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01019",
@@ -894,11 +893,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.59167,
       "longitud": -2.516079,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia local: El estacionamiento y la pernocta en el interior del habitáculo son libres en suelo urbano habilitado siempre que la actividad no trascienda al exterior (sin desplegar toldos, mesas, sillas o calzar el vehículo).",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01020",
@@ -907,11 +906,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.87139,
       "longitud": -2.885556,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar de manera libre. El municipio cuenta con un área pública municipal habilitada oficialmente por el ayuntamiento.",
+      "texto_normativa": "Sin ordenanza local prohibitiva. El ayuntamiento promueve activamente el turismo itinerante mediante la gestión de un área pública municipal oficial equipada con bornas de servicios. Se autoriza el estacionamiento y la pernocta técnica en viales convencionales bajo los criterios unificados de la Instrucción PROT 2026/04 de la DGT, quedando prohibida la acampada.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01028",
@@ -920,11 +919,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.59042,
       "longitud": -2.793166,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento y pernocta restringidos. Se prohíbe el uso habitacional y descanso nocturno en el núcleo urbano convencional, derivando la estancia de forma obligatoria al área municipal.",
+      "texto_normativa": "La normativa local aplica restricciones al turismo itinerante para proteger los espacios públicos del casco urbano. El estacionamiento con carácter residencial o de pernocta está restringido en las vías públicas urbanas generales de la localidad, siendo obligatorio pernoctar dentro de los límites del área de autocaravanas municipal habilitada.",
+      "fuente_url": "https://www.labastida.eus/index.php/es/ayuntamiento/ordenanzas",
+      "ultima_actualizacion": "10/03/2023"
     },
     {
       "codigo_ine": "01030",
@@ -933,11 +932,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.6264,
       "longitud": -2.58382,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia local: Se autoriza el estacionamiento técnico y la pernocta en el interior del habitáculo en cualquier plaza urbana apta. Queda prohibida la acampada (desplegar toldos, mesas, sillas o calzar el vehículo) y realizar vertidos de líquidos a la calzada.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01031",
@@ -946,11 +945,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.55428,
       "longitud": -2.584237,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento y pernocta restringidos. Prohibido el uso habitacional en todo el casco histórico y accesos inmediatos, limitando la estancia al área pública exterior.",
+      "texto_normativa": "Existe una restricción integral de estacionamiento nocturno y uso habitacional de autocaravanas in situ por razones de protección patrimonial. Los usuarios de estos vehículos tienen restringida la pernocta libre en las vías públicas comunes, debiendo estacionar de manera obligatoria en el área pública perimetral habilitada.",
+      "fuente_url": "https://www.laguardia.eus/index.php?option=com_dropfiles&view=frontsearch&catid=11&cattype=default&limitstart=0&limit=100&Itemid=341",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01032",
@@ -959,11 +958,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.56262,
       "longitud": -2.513204,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia de Lanciego: El estacionamiento y la pernocta en el interior del habitáculo son libres en suelo urbano habilitado siempre que la actividad no trascienda al exterior (sin calzos, patas estabilizadoras, toldos ni elementos externos).",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01902",
@@ -972,11 +971,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.75667,
       "longitud": -2.987556,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza municipal prohibitiva para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia de Lantarón: Se autoriza el estacionamiento técnico y la pernocta en el interior del habitáculo en cualquier plaza urbana común apta. Queda prohibida la acampada y realizar cualquier tipo de vertido a la calzada.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01033",
@@ -985,11 +984,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.49467,
       "longitud": -2.575167,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal con servicios. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia local: Se autoriza el estacionamiento técnico y la pernocta en el habitáculo interior en cualquier plaza urbana apta para la categoría del vehículo. Queda prohibida la acampada (desplegar toldos, mesas, sillas o calzar el vehículo) y verter líquidos.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01036",
@@ -998,11 +997,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 43.14333,
       "longitud": -2.962985,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento y pernocta restringidos. El municipio dispone de un área pública oficial y limita el estacionamiento residencial prolongado en las calles céntricas del casco urbano.",
+      "texto_normativa": "La ordenanza local regula el estacionamiento de los vehículos vivienda por razones de espacio y ordenación del tráfico urbano. Se prohíbe el aparcamiento con fines de pernocta o permanencia prolongada en las principales arterias urbanas comerciales, derivando de forma preferente la estancia habitacional nocturna al área de autocaravanas municipal de Ellakuri.",
+      "fuente_url": "https://drive.google.com/file/d/1BZMJYjHZdyzkq4_IPo0KrODB83pP4abg/view",
+      "ultima_actualizacion": "01/10/2017"
     },
     {
       "codigo_ine": "01058",
@@ -1011,11 +1010,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.9324,
       "longitud": -2.4194,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar de manera libre. El municipio cuenta con un área pública municipal habilitada oficialmente por el ayuntamiento.",
+      "texto_normativa": "Sin ordenanza específica restrictiva para autocaravanas. El ayuntamiento promueve el turismo itinerante mediante la gestión de un área pública municipal oficial. Se permite el estacionamiento técnico y la pernocta en el habitáculo interior de acuerdo con la Instrucción PROT 2026/04 de la DGT, quedando estrictamente prohibida la acampada libre o despliegue de enseres fuera de los límites del vehículo en el resto del entramado vial municipal.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01034",
@@ -1024,11 +1023,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.56607,
       "longitud": -2.633635,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia local: Se autoriza el estacionamiento técnico y la pernocta en el interior del habitáculo en cualquier plaza urbana apta. Queda prohibida la acampada (desplegar toldos, mesas, sillas o calzar el vehículo) y realizar vertidos de fluidos.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01039",
@@ -1037,11 +1036,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.52802,
       "longitud": -2.40767,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza municipal prohibitiva para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia local: El estacionamiento y la pernocta en el interior del habitáculo son libres en suelo urbano habilitado siempre que la actividad no trascienda al exterior (sin desplegar toldos, mesas, sillas o calzar el vehículo).",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01041",
@@ -1050,11 +1049,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.54517,
       "longitud": -2.624532,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado and no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal con servicios. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia local: Se autoriza el estacionamiento técnico y la pernocta en el interior del habitáculo en cualquier plaza urbana apta para la categoría del vehículo. Queda prohibida la acampada (desplegar toldos, mesas, sillas o calzar el vehículo) y verter líquidos.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01042",
@@ -1063,11 +1062,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 43.16222,
       "longitud": -3.018889,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar de manera libre. El municipio cuenta con un área pública municipal habilitada oficialmente por el ayuntamiento.",
+      "texto_normativa": "Sin ordenanza local prohibitiva. El consistorio promueve la acogida mediante un área pública municipal oficial provista de bornas de servicios. Se autoriza el estacionamiento técnico y el uso habitacional interior en las plazas urbanas convencionales bajo los criterios comunes de la Instrucción PROT 2026/04 de la DGT, estando prohibida la acampada libre.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01043",
@@ -1076,11 +1075,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.50614,
       "longitud": -2.436965,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar de manera libre. El municipio cuenta con un área pública municipal habilitada oficialmente por el ayuntamiento.",
+      "texto_normativa": "Sin ordenanza específica restrictiva para autocaravanas. El ayuntamiento fomenta el turismo itinerante mediante la gestión de un área pública municipal oficial. Se permite el estacionamiento técnico y la pernocta en el interior del habitáculo de acuerdo con la Instrucción PROT 2026/04 de la DGT, estando prohibido desplegar elementos de acampada en el resto de la calzada pública.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01044",
@@ -1089,11 +1088,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.6441,
       "longitud": -2.713375,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia local: Se autoriza el estacionamiento técnico y la pernocta en el interior del habitáculo en cualquier plaza urbana apta. Queda prohibida la acampada y realizar vertidos de líquidos a la calzada.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01047",
@@ -1102,11 +1101,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.71267,
       "longitud": -2.918541,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia local: El estacionamiento y la pernocta en el interior del habitáculo son libres en suelo urbano habilitado siempre que la actividad no trascienda al exterior (sin desplegar elementos como toldos, mesas o calzos).",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01052",
@@ -1115,11 +1114,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.56983,
       "longitud": -2.680185,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza municipal prohibitiva para autocaravanas. No dispone de área pública municipal. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia local: Se autoriza el estacionamiento técnico y la pernocta en el interior del habitáculo en cualquier plaza urbana común apta para el gálibo del vehículo, quedando prohibida la acampada.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01053",
@@ -1128,11 +1127,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.87472,
       "longitud": -2.376111,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal con servicios. Se aplica la Instrucción PROT 2026/04 de la DGT and la Ordenanza de Convivencia local: Se autoriza el estacionamiento técnico y la pernocta en el interior del habitáculo en cualquier plaza urbana apta para la categoría del vehículo. Queda prohibida la acampada (desplegar toldos, mesas, sillas o calzar el vehículo) y verter líquidos.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01054",
@@ -1141,11 +1140,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.97194,
       "longitud": -2.922222,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento y pernocta restringidos. Prohibida por normativa medioambiental la pernocta en vehículos habitáculo dentro de todo el ámbito del Parque Natural de Gorbeia.",
+      "texto_normativa": "La normativa medioambiental del Parque Natural de Gorbeia impone restricciones severas en el municipio. Se prohíbe el estacionamiento nocturno con fines de pernocta o habitabilidad desde el ocaso hasta el amanecer en todos los parkings, pistas y áreas recreativas integradas en el espacio protegido. El uso habitacional queda relegado exclusivamente al casco urbano de Izarra, fuera del parque, bajo los términos estrictos de no acampada.",
+      "fuente_url": "https://gorbeiaparkea.eus/es/normativa",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01055",
@@ -1154,11 +1153,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.85,
       "longitud": -3.1,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar de manera libre. El municipio cuenta con un área pública municipal habilitada oficialmente por el ayuntamiento.",
+      "texto_normativa": "Sin ordenanza restrictiva para autocaravanas. El ayuntamiento promueve el turismo de naturaleza mediante la gestión de un área pública municipal oficial provista de bornas de servicios ecológicos. Se permite el estacionamiento general y la pernocta en el interior del habitáculo bajo los criterios de la Instrucción PROT 2026/04 de la DGT, estando prohibida la acampada libre o despliegue de elementos exteriores en el resto del entramado municipal.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01057",
@@ -1167,11 +1166,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.54872,
       "longitud": -2.665456,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza específica para autocaravanas. No dispone de área pública municipal con servicios. Se aplica la Instrucción PROT 2026/04 de la DGT y la Ordenanza de Convivencia local: Se autoriza el estacionamiento técnico y la pernocta en el habitáculo interior en cualquier plaza urbana apta para la categoría del vehículo. Queda prohibida la acampada (desplegar toldos, mesas, sillas o calzar el vehículo) y realizar vertidos.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01059",
@@ -1180,11 +1179,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.84641,
       "longitud": -2.667893,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento habitacional y pernocta restringidos. Prohibido el uso residencial en el entramado público general, obligando al uso del área de Lakua.",
+      "texto_normativa": "La Ordenanza de Movilidad local restringe severamente la actividad. Se prohíbe el estacionamiento de autocaravanas y vehículos vivienda con carácter habitacional o de pernocta en las calles y aparcamientos convencionales de todo el término urbano. La estancia y pernocta quedan confinadas de forma restrictiva al Área de Autocaravanas de Lakua por un tiempo máximo regulado, bajo apercibimiento de sanción fuera de ella.",
+      "fuente_url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u3e222f0b_197f65330dc__166f",
+      "ultima_actualizacion": "04/11/2025"
     },
     {
       "codigo_ine": "01060",
@@ -1193,11 +1192,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.5693,
       "longitud": -2.470064,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza municipal restrictiva ni reguladora específica para autocaravanas en el término municipal. Rigen los principios estatales de la Instrucción PROT 2026/04 de la DGT, autorizándose el estacionamiento técnico y el descanso en el interior del habitáculo siempre que el vehículo cumpla las normas de tráfico y no trascienda su actividad al exterior mediante elementos de acampada.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01061",
@@ -1206,11 +1205,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.88563,
       "longitud": -2.347254,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza municipal restrictiva ni reguladora específica para autocaravanas en el término municipal. Rigen los principios estatales de la Instrucción PROT 2026/04 de la DGT, autorizándose el estacionamiento técnico y el descanso en el interior del habitáculo siempre que el vehículo cumpla las normas de tráfico y no trascienda su actividad al exterior mediante elementos de acampada.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01062",
@@ -1219,11 +1218,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.65998,
       "longitud": -2.879353,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la Instrucción PROT 2026/04 de la DGT, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza municipal restrictiva ni reguladora específica para autocaravanas en el término municipal. Rigen los principios estatales de la Instrucción PROT 2026/04 de la DGT, autorizándose el estacionamiento técnico y el descanso en el interior del habitáculo siempre que el vehículo cumpla las normas de tráfico y no trascienda su actividad al exterior mediante elementos de acampada.",
+      "fuente_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/muevete-con-seguridad/normas-de-trafico/NOR-normativa-general/report_Instruccion-PROT-2026_04-Autocaravanas.pdf",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01018",
@@ -1232,11 +1231,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.9682,
       "longitud": -2.7183,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento y pernocta restringidos. La legislación ambiental del Parque Natural de Gorbeia veta la permanencia nocturna y pernocta de vehículos habitáculo en sus áreas.",
+      "texto_normativa": "Normativa municipal condicionada por la protección del espacio natural. Queda estrictamente restringido el estacionamiento residencial o pernocta en todo el suelo rústico y parkings públicos integrados en la demarcación del Parque Natural de Gorbeia a partir del atardecer. La infracción de esta norma conlleva sanciones medioambientales autonómicas, permitiéndose el descanso técnico únicamente en el núcleo urbano residencial.",
+      "fuente_url": "https://gorbeiaparkea.eus/es/normativa",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "01063",
@@ -1245,11 +1244,11 @@
       "comunidad_autonoma": "País Vasco",
       "latitud": 42.98167,
       "longitud": -2.844,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento y pernocta restringidos. Prohibida de forma absoluta la pernocta y el estacionamiento nocturno en el Parking de Sarria y todo el entorno del Parque Natural.",
+      "texto_normativa": "Restricción integral en el término municipal por afección del Parque Natural de Gorbeia. El PORN del espacio protegido prohíbe explícitamente pernoctar dentro de cualquier vehículo vivienda en las áreas de estacionamiento del parque (incluido el parking de Sarria) entre el ocaso y el amanecer. Los usuarios que deseen realizar pernocta técnica deben desplazarse obligatoriamente fuera de las zonas protegidas hacia el núcleo urbano de Murgia.",
+      "fuente_url": "https://www.zuia.eus/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "02001",
@@ -2389,11 +2388,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.44117,
       "longitud": -0.6395459,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la normativa general de tráfico, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "Sin ordenanza municipal restrictiva específica para autocaravanas. Al no poseer normativa local limitativa en el casco urbano, se aplica la normativa general de tráfico y el Decreto de Turismo autonómico: se autoriza el estacionamiento técnico y la pernocta en el interior del habitáculo siempre que no se desplieguen elementos de acampada (toldos, mesas o calzos) y el vehículo no exceda los límites de la plaza de aparcamiento.",
+      "fuente_url": "https://www.agost.es/",
+      "ultima_actualizacion": "25/06/2026"
     },
     {
       "codigo_ine": "03003",
@@ -2402,11 +2401,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.77988,
       "longitud": -0.5156772,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento y pernocta restringidos. Prohibida por normativa medioambiental la pernocta en vehículos habitáculo dentro de todo el ámbito del Parque Natural de la Serra de Mariola.",
+      "texto_normativa": "La legislación de protección ambiental de la Serra de Mariola restringe de forma severa la actividad en el término municipal. Queda prohibida la permanencia nocturna y pernocta en autocaravanas y campers desde el ocaso hasta el amanecer en parkings, pistas forestales y áreas recreativas del parque natural (como el área del Santuario). La pernocta técnica se tolera exclusivamente dentro del casco urbano residencial, sin desplegar enseres.",
+      "fuente_url": "https://dogv.gva.es/es/resultat-dogv?id=24&sig=7041/2007&L=1&url_lista=",
+      "ultima_actualizacion": "25/05/2007"
     },
     {
       "codigo_ine": "03004",
@@ -2415,11 +2414,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.49932,
       "longitud": -0.3627366,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas, siempre que esté correctamente aparcado, no exceda marcas viales y no se monte campamento.",
+      "texto_normativa": "El municipio no cuenta con un articulado prohibitivo o discriminatorio específico contra los vehículos vivienda en sus calles céntricas. Se aplica el reglamento general de circulación nacional y el decreto autonómico valenciano: el estacionamiento y el descanso nocturno en el habitáculo son libres en plazas aptas para el gálibo del vehículo, estando estrictamente prohibido el vertido de aguas y la acampada exterior.",
+      "fuente_url": "https://www.aigues.es/",
+      "ultima_actualizacion": "25/06/2026"
     },
     {
       "codigo_ine": "03014",
@@ -2428,11 +2427,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.3452,
       "longitud": -0.481006,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento habitacional y pernocta restringidos. Limitaciones severas de estacionamiento por dimensiones y MMA en el casco urbano y líneas de playa.",
+      "texto_normativa": "La Ordenanza de Movilidad local introduce restricciones drásticas por tamaño. Se prohíbe el estacionamiento de vehículos con fines habitacionales o que superen los 2.100 kg de MMA o dimensiones estándar en la primera línea de playas (San Juan, El Postiguet, Urbanova) y vías del casco histórico. El uso residencial de la vía pública nocturna está perseguido, derivando de forma restrictiva a los usuarios a parkings autorizados de pago o áreas privadas perimetrales.",
+      "fuente_url": "https://www.alicante.es/",
+      "ultima_actualizacion": "25/06/2026"
     },
     {
       "codigo_ine": "03005",
@@ -2441,11 +2440,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.1806,
       "longitud": -0.8696246,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas según la normativa general de tráfico, siempre que esté correctamente aparcado y no se monte campamento.",
+      "texto_normativa": "No existe ordenanza específica local que penalice o restrinja el estacionamiento técnico de autocaravanas en Albatera. Rige el marco estatal y autonómico: se autoriza el estacionamiento y la pernocta en el interior del habitáculo en cualquier plaza pública urbana apta, siempre y cuando no se trascienda al exterior con toldos, patas niveladoras o elementos que constituyan acampada ilegal.",
+      "fuente_url": "https://www.alicante.es/es/normativa/ordenanza-municipal-circulacion-peatones-y-vehiculos",
+      "ultima_actualizacion": "30/12/2011"
     },
     {
       "codigo_ine": "03006",
@@ -2454,11 +2453,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.75568,
       "longitud": -0.046652,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el vehículo en vías públicas urbanas, siempre que esté correctamente aparcado y no se monte campamento ni se invada la calzada.",
+      "texto_normativa": "Sin ordenanza municipal restrictiva para autocaravanas en el entramado urbano. El municipio, integrado en el Vall de Pop, aplica de forma directa el marco genérico nacional y autonómico. El estacionamiento técnico y el descanso interior son libres en los viales urbanos idóneos para el peso del vehículo, quedando tajantemente prohibido verter fluidos o desplegar complementos exteriores de acampada.",
+      "fuente_url": "https://www.alcalali.es/",
+      "ultima_actualizacion": "25/06/2026"
     },
     {
       "codigo_ine": "03009",
@@ -2467,11 +2466,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.69763,
       "longitud": -0.4730959,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento y pernocta restringidos. Fuertes restricciones de pernocta en los parkings de acceso a los Parques Naturales (Font Roja y Mariola) y límites de MMA urbanos.",
+      "texto_normativa": "Normativa local y sectorial condicionada por la alta protección ambiental del entorno. La ordenanza de tráfico prohíbe el estacionamiento de vehículos de más de 3.500 kg en el casco urbano general salvo zonas señalizadas. Asimismo, las normativas medioambientales de la Font Roja y la Serra de Mariola prohíben estrictamente pernoctar en cualquier vehículo en sus parkings y accesos desde el atardecer, quedando la pernocta estrictamente limitada al descanso técnico dentro de zonas residenciales autorizadas fuera de espacios naturales.",
+      "fuente_url": "https://www.alcoi.org/export/sites/default/es/areas/gab_juridico/ordenanzas/descargas/Ordenanza_reguladora_en_materia_de_ordenacion_del_trafico_de_personas_y_vehiculos_en_las_vias_urbanas.pdf",
+      "ultima_actualizacion": "05/01/2021"
     },
     {
       "codigo_ine": "03008",
@@ -2480,11 +2479,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.67542,
       "longitud": -0.3323183,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento y pernocta restringidos. La normativa medioambiental de la Serra de Aitana veta la permanencia nocturna y pernocta de vehículos vivienda en su demarcación.",
+      "texto_normativa": "Municipio de montaña con limitaciones rigurosas por solapamiento con el entorno protegido de Aitana. Queda terminantemente restringido el estacionamiento residencial o pernocta en todo el suelo rústico, pistas, miradores y parkings públicos de montaña a partir del ocaso para evitar la degradación del medio. La infracción de esta norma conlleva severas sanciones ambientales autonómicas, permitiéndose el descanso únicamente en el minúsculo casco urbano si las dimensiones del vehículo lo permiten.",
+      "fuente_url": "https://mediambient.gva.es/auto/montes-bosques/PORF/PORF%20-%20Altea/05_EATE/EATE_PORF_Altea.pdf",
+      "ultima_actualizacion": "25/06/2026"
     },
     {
       "codigo_ine": "03007",
