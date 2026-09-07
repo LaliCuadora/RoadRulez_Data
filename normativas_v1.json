@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 2,
   "fecha_generacion": "2026-07-28",
   "total_municipios": 8132,
   "municipios": [
@@ -24007,11 +24007,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.20975,
       "longitud": -5.384572,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Prohibida la pernocta, acampada y estacionamiento habitacional en todo el litoral (Sotogrande, Torreguadiaro) por Ley de Costas bajo sanción.",
+      "texto_normativa": "Municipio costero en la comarca del Campo de Gibraltar. Por aplicación de la Ley 22/1988 de Costas y la ordenanza local de playas, están estrictamente prohibidos la pernocta, el acampamiento y el uso habitacional en todo el litoral (Torreguadiaro, Sotogrande, Cala Chullera) y sus aparcamientos de acceso, bajo sanción e inspección activa.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "11032",
@@ -24020,11 +24020,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.77882,
       "longitud": -6.354198,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Prohibida la pernocta y acampada en todo el frente marítimo (Bajo de Guía, Las Piletas) por Ley de Costas bajo sanción directa.",
+      "texto_normativa": "Municipio costero junto a la desembocadura del Guadalquivir. La Ley 22/1988 de Costas prohíbe la pernocta, el uso residencial y la acampada en el frente marítimo, accesos y paseos litorales (Bajo de Guía, Las Piletas, La Calzada). Las estancias deben canalizarse hacia las áreas y recintos habilitados fuera de la zona de servidumbre.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "11034",
@@ -24033,11 +24033,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.86406,
       "longitud": -5.181413,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en zonas autorizadas y vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Sierra de Cádiz emblemático por sus casas cueva. Dispone de estacionamiento público adecuado para autocaravanas en los accesos al casco histórico. Rige la norma general DGT PROT 2026/04: permitidos el aparcamiento y la pernocta interior, estando prohibida la acampada o el despliegue de enseres al exterior.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "11035",
@@ -24046,11 +24046,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.01271,
       "longitud": -5.602954,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Prohibida la pernocta, acampada y uso habitacional en todo el litoral (Bolonia, Valdevaqueros, Los Lances) y Parque Natural por la Ley de Costas bajo severa multa.",
+      "texto_normativa": "Municipio costero con máxima protección ambiental (Parque Natural del Estrecho / Parque Natural Los Alcornocales). La Ley 22/1988 de Costas y la normativa ambiental prohíben de forma rotunda la pernocta, el acampamiento y el uso residencial en todo el litoral y aparcamientos de playa (Bolonia, Valdevaqueros, Los Lances) con intensa vigilancia de la Guardia Civil.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "11036",
@@ -24059,11 +24059,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.91553,
       "longitud": -5.234736,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en las vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Sierra de Cádiz. Carece de normativa local restrictiva para vehículos vivienda. Se aplica la regulación general de la DGT PROT 2026/04: autorizados el aparcamiento y la pernocta en el interior del vehículo dentro del casco urbano siempre que no se utilicen elementos de acampada fuera del perímetro del vehículo.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "11037",
@@ -24072,11 +24072,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.86951,
       "longitud": -6.176695,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en viales urbanos según la Instrucción PROT 2026/04 de la DGT, respetando la prohibición de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Costa Noroeste (entorno del Guadalquivir/Marsismas). Rige el marco normativo de la DGT PROT 2026/04: permitidos el aparcamiento y el descanso en el interior de la autocaravana en zonas de estacionamiento urbano habilitadas sin invadir la vía pública con elementos externos.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "11038",
@@ -24085,11 +24085,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.67771,
       "longitud": -5.446557,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar. Cuenta con área pública municipal habilitada y aplica la Instrucción PROT 2026/04 de la DGT.",
+      "texto_normativa": "Municipio emblemático de la Sierra de Cádiz. Dispone de área pública municipal equipada con servicios de cambio de aguas para autocaravanas. Se autoriza el estacionamiento y uso pernoctador según la Instrucción PROT 2026/04 de la DGT, prohibiéndose el despliegue de enseres fuera de zonas de acampada autorizadas.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "11039",
@@ -24098,11 +24098,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.25331,
       "longitud": -5.962856,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Prohibida la pernocta, acampada y estacionamiento habitacional en todo el litoral (El Palmar) por la Ley de Costas bajo sanción directa.",
+      "texto_normativa": "Municipio costero con el litoral de El Palmar. En aplicación directa de la Ley 22/1988 de Costas y la regulación de playas, la pernocta, acampada y estacionamiento habitacional están estrictamente prohibidos en todo el frente litoral, bolsas de aparcamiento y accesos a playa por la franja de servidumbre, sancionando activamente las infracciones.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "11040",
@@ -24111,11 +24111,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.69587,
       "longitud": -5.388137,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en las vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio situado en el corazón del Parque Natural Sierra de Grazalema. Aplica la normativa de la DGT PROT 2026/04: se autorizan el aparcamiento y la pernocta dentro del casco urbano siempre que no suponga acampada. Fuera del suelo urbano rigen las restricciones medioambientales del Parque Natural.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "11041",
@@ -24124,11 +24124,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.86132,
       "longitud": -5.641834,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en las vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Sierra de Cádiz. Carece de ordenanza específica restrictiva para vehículos vivienda. Se aplica la regulación general de la DGT PROT 2026/04: se autorizan el estacionamiento y la pernocta en el interior dentro del casco urbano siempre que no se invada la vía pública con elementos externos.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "11042",
@@ -24137,11 +24137,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.84053,
       "longitud": -5.390547,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar. Dispone de espacio municipal habilitado y rige la Instrucción PROT 2026/04 de la DGT.",
+      "texto_normativa": "Municipio de la Sierra de Cádiz integrado en el Parque Natural Sierra de Grazalema. Dispone de zonas de estacionamiento municipal adaptadas para autocaravanas. Rige la Instrucción PROT 2026/04 de la DGT: se autorizan el aparcamiento y la pernocta interior en zonas urbanas sin despliegue de enseres. Prohibida la acampada fuera de zonas autorizadas por la normativa ambiental del Parque.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12002",
@@ -24150,11 +24150,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.90086,
       "longitud": -0.3407996,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Plana Baixa en el Parque Natural de la Sierra de Espadán. Rige la norma general de la DGT PROT 2026/04: permitidos el aparcamiento y el descanso interior en viales idóneos del casco urbano sin despliegue de elementos de acampada. Fuera del suelo urbano aplica el PORN del Parque Natural.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12003",
@@ -24163,11 +24163,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 40.35626,
       "longitud": 0.0253618,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar. Dispone de área pública municipal de autocaravanas y rige la Instrucción PROT 2026/04 de la DGT.",
+      "texto_normativa": "Capital de la comarca del Alt Maestrat. Dispone de área municipal habilitada con servicios específicos para autocaravanas. Se aplica el marco normativo DGT PROT 2026/04: se autoriza el estacionamiento y la pernocta interior respetando el uso correcto de las instalaciones y sin sacar elementos de acampada.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12004",
@@ -24176,11 +24176,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 40.30459,
       "longitud": 0.2263053,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Prohibida la pernocta, acampada y uso habitacional en todo el litoral (Alcossebre, Cap i Corp) por Ley de Costas bajo sanción directa.",
+      "texto_normativa": "Municipio costero con el núcleo litoral de Alcossebre. Por aplicación directa de la Ley 22/1988 de Costas y la ordenanza de uso del litoral, están prohibidos la pernocta, la acampada y el estacionamiento residencial en la franja marítimo-terrestre, aparcamientos de playa y del Parque Natural de la Serra d'Irta, bajo régimen sancionador activo.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "12005",
@@ -24189,11 +24189,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.3864,
       "longitud": -0.3513,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar. Dispone de área pública municipal de autocaravanas y rige la Instrucción PROT 2026/04 de la DGT.",
+      "texto_normativa": "Capital de la comarca de L'Alcalatén. Dispone de área pública municipal habilitada para autocaravanas. Se aplica la regulación general de la DGT PROT 2026/04: se autorizan el estacionamiento y la pernocta en el interior dentro de las zonas habilitadas y calles urbanas sin desplegar elementos de acampada al exterior.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12006",
@@ -24202,11 +24202,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.91713,
       "longitud": -0.3556332,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de interior situado en el Parque Natural de la Sierra de Espadán. Rige el marco normativo general de la DGT PROT 2026/04: permitidos el aparcamiento y la pernocta interior en viales urbanos idóneos. Queda prohibida la acampada fuera de zonas autorizadas por la normativa ambiental del Parque.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12007",
@@ -24215,11 +24215,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.83725,
       "longitud": -0.26879,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en viales urbanos según la Instrucción PROT 2026/04 de la DGT, respetando la prohibición de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Plana Baixa en la entrada de la Sierra de Espadán. Sin ordenanza local restrictiva contra vehículos vivienda. Aplica la Instrucción PROT 2026/04 de la DGT, autorizándose el aparcamiento y el descanso interior en el casco urbano siempre que no se invada la vía pública con enseres.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12008",
@@ -24228,11 +24228,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.91433,
       "longitud": -0.4434568,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en las vías públicas conforme a la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Alto Palancia en la Sierra de Espadán. Se aplica la regulación general de la DGT PROT 2026/04: se autorizan el aparcamiento y el uso habitacional interior dentro del suelo urbano respetando el espacio delimitado de estacionamiento.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12009",
@@ -24241,11 +24241,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.94497,
       "longitud": -0.0633176,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Prohibida la pernocta, acampada y estacionamiento habitacional en todo el litoral y paseo marítimo por Ley de Costas bajo sanción.",
+      "texto_normativa": "Municipio costero de la Plana Baixa. En aplicación de la Ley 22/1988 de Costas y la ordenanza local de playas, la pernocta, acampada y uso residencial de vehículos están estrictamente prohibidos en todo el frente marítimo (Playa de Benafelí, Pla de la Torre) y zonas de servidumbre costeras bajo sanción.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "12010",
@@ -24254,11 +24254,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.87085,
       "longitud": -0.4104057,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en las vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de interior situado en el Parque Natural de la Sierra de Espadán. Rige el marco normativo general de la DGT PROT 2026/04: permitidos el aparcamiento y la pernocta interior en viales urbanos idóneos sin desplegar elementos de acampada. Fuera del casco urbano aplica la regulación del Parque Natural.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12011",
@@ -24267,11 +24267,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.7544,
       "longitud": -0.222755,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Prohibida la pernocta, acampada y estacionamiento habitacional en todo el litoral (Playa Casablanca) por Ley de Costas bajo sanción.",
+      "texto_normativa": "Municipio costero de la Plana Baixa. En aplicación directa de la Ley 22/1988 de Costas y la ordenanza municipal de playas, la pernocta, la acampada y el uso habitacional de vehículos están estrictamente prohibidos en la franja marítimo-terrestre, accesos a la Playa Casablanca y zonas de servidumbre costera bajo sanción.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "12901",
@@ -24280,11 +24280,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.89653,
       "longitud": -0.1134461,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en las vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de interior de la comarca de la Plana Baixa. Carece de ordenanza específica restrictiva contra autocaravanas. Rige la Instrucción PROT 2026/04 de la DGT, permitiendo el estacionamiento y descanso interior en el casco urbano siempre que no se invada la vía pública con elementos de acampada.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12012",
@@ -24293,11 +24293,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.853,
       "longitud": -0.5135517,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar. Cuenta con área pública municipal de autocaravanas y aplica la Instrucción PROT 2026/04 de la DGT.",
+      "texto_normativa": "Municipio de la comarca del Alto Palancia. Dispone de un área municipal pública habilitada para el acogimiento y pernocta de autocaravanas. Rige la Instrucción PROT 2026/04 de la DGT: permitidos el aparcamiento y el uso habitacional interior sin desplegar enseres o elementos de acampada fuera del vehículo.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12013",
@@ -24306,11 +24306,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 40.0711,
       "longitud": -0.4817952,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas conforme a la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de interior en la comarca del Alto Mijares. Sin normativa restrictiva local específica para vehículos vivienda. Se aplica la regulación general de la DGT PROT 2026/04, autorizándose el aparcamiento y uso habitacional interior en el casco urbano respetando las normas generales de estacionamiento.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12014",
@@ -24319,11 +24319,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.4864,
       "longitud": -0.5013,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar. Cuenta con punto de estacionamiento habilitado y rige la Instrucción PROT 2026/04 de la DGT.",
+      "texto_normativa": "Municipio de montaña de la comarca del Alt Maestrat. Dispone de espacio público acondicionado para el estacionamiento de autocaravanas. Aplica la normativa de la DGT PROT 2026/04: se autorizan el estacionamiento y la pernocta en el interior del vehículo siempre que no se utilicen elementos de acampada al exterior.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12015",
@@ -24332,11 +24332,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 40.05524,
       "longitud": -0.3498509,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en las vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de interior de la comarca del Alto Mijares. Aplica el marco normativo general de la DGT PROT 2026/04: autorizados el aparcamiento y el descanso interior dentro del casco urbano en lugares permitidos para turismos, prohibiéndose sacar enseres o elementos de acampada a la vía pública.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12016",
@@ -24345,11 +24345,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.89002,
       "longitud": -0.2576374,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en las vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de interior en la comarca de la Plana Baixa y entrada al Parque Natural de la Sierra de Espadán. Carece de normativa restrictiva local contra vehículos vivienda. Se aplica la regulación general de la DGT PROT 2026/04, permitiéndose el aparcamiento y el uso habitacional interior en el casco urbano. Fuera de suelo urbano aplican las normas medioambientales del Parque.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12001",
@@ -24358,11 +24358,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 40.21661,
       "longitud": -0.1706612,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, respetando la prohibición de acampada.",
+      "texto_normativa": "Municipio de interior de la comarca de L'Alcalatén. Rige el marco normativo general de la DGT PROT 2026/04: autorizados el aparcamiento y el descanso en el interior del vehículo dentro del suelo urbano habilitado para turismos, siempre que no se invada la vía pública con enseres o elementos de acampada.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12017",
@@ -24371,11 +24371,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.99977,
       "longitud": -0.3760511,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en las vías urbanas conforme a la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Alto Mijares dentro del Parque Natural de la Sierra de Espadán. Aplica el marco regulatorio DGT PROT 2026/04: se autorizan el estacionamiento y la pernocta interior en zonas urbanas idóneas. Prohibida la acampada fuera de los lugares autorizados por la normativa del Parque Natural.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12018",
@@ -24384,11 +24384,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.83419,
       "longitud": -0.3704957,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en las vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Alto Palancia. Sin ordenanza restrictiva específica para vehículos vivienda. Rige la norma general de la DGT PROT 2026/04, permitiendo el estacionamiento y el descanso nocturno en el interior del vehículo en viales autorizados sin sacar enseres al exterior.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12020",
@@ -24397,11 +24397,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 40.01577,
       "longitud": -0.6967063,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Alto Palancia situado en la meseta del altiplano. Se aplica la regulación estatal de la DGT PROT 2026/04: se autorizan el estacionamiento y la pernocta dentro del vehículo en las zonas urbanas de aparcamiento habilitadas, estando prohibida la acampada en la vía pública.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12022",
@@ -24410,11 +24410,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.91087,
       "longitud": -0.7038683,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas conforme a la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de montaña de la comarca del Alto Palancia. Aplica la normativa de la DGT PROT 2026/04: permitidos el aparcamiento y la pernocta interior en viales idóneos del suelo urbano sin exceder el perímetro del vehículo ni desplegar enseres de acampada.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12024",
@@ -24423,11 +24423,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.93554,
       "longitud": -0.5767506,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en las vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Alto Palancia. Rige la norma general DGT PROT 2026/04: se autoriza el estacionamiento y el descanso habitacional interior en el casco urbano respetando los viales y espacio delimitado para turismos.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12025",
@@ -24436,11 +24436,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 40.27721,
       "longitud": -0.209237,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de montaña en la comarca de L'Alcalatén. Aplica la regulación general de la DGT PROT 2026/04: autorizados el aparcamiento y el uso habitacional interior dentro de los viales del casco urbano sin despliegue de elementos de acampada.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12026",
@@ -24449,11 +24449,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 39.5864,
       "longitud": -0.6513,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar. Cuenta con área pública municipal habilitada y aplica la Instrucción PROT 2026/04 de la DGT.",
+      "texto_normativa": "Municipio del Alt Maestrat. Cuenta con área pública municipal equipada para autocaravanas con un tiempo de estancia autorizado de hasta 48 horas. Rige la Instrucción PROT 2026/04 de la DGT: se permiten el estacionamiento y la pernocta interior en zonas autorizadas prohibiéndose la acampada fuera de recintos regulados.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "12027",
