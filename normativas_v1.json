@@ -28599,8 +28599,8 @@
       "estado_norma": "RESTRINGIDO",
       "resumen_corto": "Estacionamiento y pernocta restringidos con límite de estancia de 48h en el área municipal autorizada.",
       "texto_normativa": "Municipio de la comarca de Bergantiños. Su ordenanza reguladora establece un límite de estancia continuada de 48 horas en el área pública señalizada para garantizar la rotación. Prohibido desplegar enseres de acampada fuera del perímetro del vehículo en todo el término municipal.",
-      "fuente_url": "https://coristanco.sedelectronica.es/",
-      "ultima_actualizacion": "08/09/2026"
+      "fuente_url": "https://sede.dacoruna.gal/subtel/ordenanzas/ordenanza/7643",
+      "ultima_actualizacion": "23/09/2010"
     },
     {
       "codigo_ine": "15030",
@@ -28609,11 +28609,11 @@
       "comunidad_autonoma": "Galicia",
       "latitud": 43.37087,
       "longitud": -8.395835,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Estacionamiento y pernocta restringidos a áreas/zonas habilitadas con tiempo máximo (48h). Prohibición de pernocta en todo el litoral marítimo por Ley de Costas.",
+      "texto_normativa": "Capital provincial y gran municipio marítimo. La ordenanza local de movilidad limita el estacionamiento habitacional continuado a 48 horas en los puntos habilitados. En el Dominio Público Marítimo-Terrestre, playas y paseos costeros rige la prohibición estricta de acampada y pernocta en virtud de la Ley 22/1988 de Costas.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "15031",
@@ -28622,11 +28622,11 @@
       "comunidad_autonoma": "Galicia",
       "latitud": 43.31584,
       "longitud": -8.384923,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Prohibida la pernocta y acampada en la ría del Burgo y entorno litoral por la Ley de Costas. En vías urbanas interiores rige la Instrucción DGT PROT 2026/04.",
+      "texto_normativa": "Municipio de la área metropolitana coruñesa. En el entorno de la Ría del Burgo y franja marítimo-terrestre se aplica la prohibición de pernocta y acampada estipulada por la Ley 22/1988 de Costas. En el resto de viales urbanos interiores rige la Instrucción DGT PROT 2026/04 sin despliegue de elementos exteriores.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "15032",
@@ -28635,11 +28635,11 @@
       "comunidad_autonoma": "Galicia",
       "latitud": 43.12437,
       "longitud": -8.146308,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento y pernocta restringidos con límite de estancia continuada (48h) en el área de autocaravanas municipal.",
+      "texto_normativa": "Municipio de la comarca de Betanzos. La normativa municipal limita la pernocta y estacionamiento de autocaravanas a un máximo de 48 horas continuas en el área pública habilitada de Teixeiro para promover la rotación. Queda totalmente prohibida la acampada y despliegue de enseres exteriores en el resto de la vía pública.",
+      "fuente_url": "https://curtis.sedelectronica.es/",
+      "ultima_actualizacion": "08/09/2026"
     },
     {
       "codigo_ine": "15033",
@@ -28648,11 +28648,11 @@
       "comunidad_autonoma": "Galicia",
       "latitud": 42.7175,
       "longitud": -8.714723,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Sar. Rige la norma estatal DGT PROT 2026/04: autorizados el aparcamiento y el uso habitacional en el interior del vehículo dentro de viales urbanos habilitados para turismos, siempre que permanezca en su perímetro sin desplegar enseres ni acampar en la vía pública.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "08/09/2026"
     },
     {
       "codigo_ine": "15034",
@@ -28661,11 +28661,11 @@
       "comunidad_autonoma": "Galicia",
       "latitud": 43.00933,
       "longitud": -9.11521,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento y pernocta restringidos por límite de estancia máxima (24-48h) en el área de O Ézaro y prohibición costera por Ley de Costas.",
+      "texto_normativa": "Municipio de la Costa da Morte. Dispone de ordenanza reguladora en el área pública habilitada de O Ézaro con limitación temporal de estancia. En las zonas de litoral, desembocadura del río Xallas y entorno de playas rige la prohibición estricta de acampada y pernocta en cumplimiento de la Ley 22/1988 de Costas.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "15035",
@@ -28674,11 +28674,11 @@
       "comunidad_autonoma": "Galicia",
       "latitud": 43.47521,
       "longitud": -8.165961,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento y pernocta restringidos con un máximo de estancia de 48 horas en el área municipal habilitada. Prohibida la pernocta litoral por Ley de Costas.",
+      "texto_normativa": "Municipio de la ría de Ferrol. La regulación municipal condiciona la pernocta habitacional a un límite de 48 horas en el área de autocaravanas habilitada. Asimismo, en todo el dominio público marítimo-terrestre y franja costera rige la prohibición de acampada y pernocta según la Ley 22/1988 de Costas.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "15036",
@@ -28687,11 +28687,11 @@
       "comunidad_autonoma": "Galicia",
       "latitud": 43.48839,
       "longitud": -8.222509,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Pernocta y estacionamiento restringidos a áreas habilitadas con límite temporal (48h). Prohibición estricta de pernocta en el litoral y playas por la Ley de Costas.",
+      "texto_normativa": "Ciudad cabecera de comarca. La ordenanza de movilidad urbana restringe la pernocta y uso habitacional a las áreas públicas municipales señalizadas con tiempo máximo continuado. En todas las playas del municipio (Doniños, San Xurxo, Covas) y franja costera aplica la prohibición de pernocta y acampada por la Ley 22/1988 de Costas.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "15037",
@@ -28700,11 +28700,11 @@
       "comunidad_autonoma": "Galicia",
       "latitud": 42.90507,
       "longitud": -9.264338,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Prohibida la pernocta y acampada en todo el litoral, playas (Langosteira) y Cabo Fisterra conforme a la Ley de Costas. En vías urbanas rige la DGT PROT 2026/04.",
+      "texto_normativa": "Municipio turístico del fin del Camino. En aplicación estricta de la Ley 22/1988 de Costas y la normativa de protección del litoral, está totalmente prohibida la pernocta y acampada en el Cabo Fisterra, aparcamientos de playas y zona de servidumbre costera. En casco urbano aplica DGT PROT 2026/04 sin desplegar enseres al exterior.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "15038",
@@ -28713,11 +28713,11 @@
       "comunidad_autonoma": "Galicia",
       "latitud": 43.04,
       "longitud": -8.277223,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio interior de la comarca de Órdenes. Aplica la normativa general de la DGT PROT 2026/04: autorizados el aparcamiento y uso habitacional en el interior del vehículo en viales autorizados para turismos, siempre que se respete el perímetro del autocaravana y no se realice acampada.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "08/09/2026"
     },
     {
       "codigo_ine": "15039",
@@ -28726,24 +28726,24 @@
       "comunidad_autonoma": "Galicia",
       "latitud": 43.28474,
       "longitud": -8.058925,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de Betanzos. Aplica la regulación estatal DGT PROT 2026/04: se permite el estacionamiento y el descanso dentro del vehículo en vías urbanas habilitadas para el tráfico general, manteniendo el vehículo sobre sus ruedas y sin ocupar espacio exterior.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "08/09/2026"
     },
     {
       "codigo_ine": "15041",
-      "nombre": "Laracha, A",
+      "nombre": "A Laracha",
       "provincia": "A Coruña",
       "comunidad_autonoma": "Galicia",
       "latitud": 43.25232,
       "longitud": -8.584469,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento y pernocta restringidos con límite de estancia continua (48h) en el área pública municipal. Prohibición de pernocta en el litoral por la Ley de Costas.",
+      "texto_normativa": "Municipio costero de la comarca de Bergantiños. La ordenanza local restringe la pernocta habitacional a un máximo de 48 horas en el área municipal habilitada. En toda la franja litoral y zona de playas (Caión) rige la prohibición estricta de acampada y pernocta en cumplimiento de la Ley 22/1988 de Costas.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "15040",
@@ -28752,11 +28752,11 @@
       "comunidad_autonoma": "Galicia",
       "latitud": 43.21975,
       "longitud": -9.005163,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PHOIBIDO",
+      "resumen_corto": "Prohibida la pernocta y acampada en todo el litoral marítimo y accesos a playas según la Ley de Costas. En vías urbanas rige la Instrucción DGT PROT 2026/04.",
+      "texto_normativa": "Municipio costero de la Costa da Morte. En aplicación estricta de la Ley 22/1988 de Costas y la normativa local del litoral, está totalmente prohibida la pernocta, la acampada y el estacionamiento residencial en el Dominio Público Marítimo-Terrestre y accesos a playas. En el casco urbano rige la Instrucción DGT PROT 2026/04 sin despliegue de enseres exteriores.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "15042",
@@ -28765,11 +28765,11 @@
       "comunidad_autonoma": "Galicia",
       "latitud": 42.75896,
       "longitud": -8.846885,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio interior de la comarca de Noia. Aplica la regulación estatal DGT PROT 2026/04: autorizados el aparcamiento y el uso habitacional dentro del vehículo en vías urbanas abiertas al tráfico general, siempre que el vehículo permanezca sobre sus ruedas y no ocupe espacio exterior.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "08/09/2026"
     },
     {
       "codigo_ine": "15043",
@@ -28778,11 +28778,11 @@
       "comunidad_autonoma": "Galicia",
       "latitud": 43.32416,
       "longitud": -8.809312,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Prohibida la pernocta y acampada en todo el litoral marítimo y puerto conforme a la Ley de Costas. En viales urbanos aplica la Instrucción DGT PROT 2026/04.",
+      "texto_normativa": "Municipio costero de la Costa da Morte. En virtud de la Ley 22/1988 de Costas y la regulación local del litoral, queda terminantemente prohibida la pernocta y la acampada en playas, acantilados y Dominio Público Marítimo-Terrestre. En el casco urbano aplica la DGT PROT 2026/04 sin desplegar elementos exteriores.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "15044",
@@ -28791,11 +28791,11 @@
       "comunidad_autonoma": "Galicia",
       "latitud": 43.7692,
       "longitud": -7.685581,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Pernocta restringida a áreas habilitadas con tiempo límite (48h). Prohibición estricta de acampada y pernocta en el litoral (Estaca de Bares) por la Ley de Costas.",
+      "texto_normativa": "Municipio del extremo norte peninsular (Estaca de Bares). Dispone de espacio municipal habilitado con limite de estancia continuada a 48 horas. En todo el espacio litoral, acantilados y franja costera rige la prohibición total de pernocta y acampada según la Ley 22/1988 de Costas.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "15045",
@@ -28804,11 +28804,11 @@
       "comunidad_autonoma": "Galicia",
       "latitud": 42.93893,
       "longitud": -8.992199,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento y pernocta restringidos por límite temporal de estancia (48h) en el área pública municipal habilitada.",
+      "texto_normativa": "Municipio del interior de la comarca del Xallas. La ordenanza local restringe el estacionamiento habitacional continuado a un máximo de 48 horas en el área pública municipal señalizada. Se prohíbe el despliegue de enseres de acampada fuera del perímetro del vehículo en todo el término municipal.",
+      "fuente_url": "https://sede.dacoruna.gal/subtel/ordenanzas/ordenanza/7643",
+      "ultima_actualizacion": "23/09/2010"
     },
     {
       "codigo_ine": "15046",
@@ -28817,11 +28817,11 @@
       "comunidad_autonoma": "Galicia",
       "latitud": 42.91393,
       "longitud": -8.014727,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento y pernocta restringidos con estancia máxima continua de 48 horas en el área pública municipal habilitada.",
+      "texto_normativa": "Encrucijada clave del Camino de Santiago. La ordenanza reguladora municipal limita la estancia y pernocta a un máximo de 48 horas continuas en la zona de autocaravanas habilitada para garantizar la rotación de peregrinos y visitantes. Prohibida la acampada en la vía pública.",
+      "fuente_url": "https://sede.dacoruna.gal/subtel/ordenanzas/ordenanza/7643",
+      "ultima_actualizacion": "23/09/2010"
     },
     {
       "codigo_ine": "15047",
@@ -28830,11 +28830,11 @@
       "comunidad_autonoma": "Galicia",
       "latitud": 43.11592,
       "longitud": -8.244491,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio interior de la comarca de Órdenes. Aplica la normativa general DGT PROT 2026/04: se permite el aparcamiento y el uso residencial interior dentro del vehículo en viales urbanos habilitados para turismos, siempre que se respete el perímetro del vehículo y no se realice acampada.",
+      "fuente_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+      "ultima_actualizacion": "08/09/2026"
     },
     {
       "codigo_ine": "15048",
