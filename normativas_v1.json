@@ -2714,11 +2714,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.82312,
       "longitud": -0.0020653,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Marina Alta. Se aplica la regulación estatal DGT PROT 2026/04: autorizados el estacionamiento y la pernocta en el interior del vehículo siempre que no se desplieguen toldos, ventanas abatibles salientes o patas estabilizadoras.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03027",
@@ -2727,11 +2727,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.68372,
       "longitud": -0.2160712,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Marina Baixa. Aplica la regulación estatal DGT PROT 2026/04: autorizados el aparcamiento y la pernocta en el interior del vehículo siempre que esté correctamente estacionado y no ocupe más espacio que el de su perímetro en planta.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03028",
@@ -2740,11 +2740,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.81952,
       "longitud": -0.3782794,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de El Comtat. Se rige por la Instrucción DGT PROT 2026/04: se permite el aparcamiento y uso habitacional interior en viales públicos autorizados para turismos, siempre que el vehículo permanezca apoyado únicamente en sus ruedas.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03030",
@@ -2753,11 +2753,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.79387,
       "longitud": -0.0281963,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Marina Alta. Rige la norma estatal DGT PROT 2026/04: autorizados el estacionamiento y el uso residencial dentro del vehículo sin desplegar toldos, patas estabilizadoras ni realizar vertidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03031",
@@ -2766,11 +2766,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.53704,
       "longitud": -0.1290771,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento habitacional permitido. Prohibición total en litoral por la Ley de Costas y limitaciones de gálibo/duración en trama urbana.",
+      "texto_normativa": "Gran centro turístico de la Marina Baixa. La ordenanza municipal de movilidad restringe el estacionamiento continuado de vehículos de gran tamaño y el uso habitacional continuado en vía pública urbana, derivando la pernocta a campings y espacios autorizados. En todo el litoral rige la prohibición por la Ley 22/1988 de Costas.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "03032",
@@ -2779,11 +2779,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.66279,
       "longitud": -0.4003207,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Pequeño municipio del interior de la comarca de l'Alcoià. Aplica la normativa general DGT PROT 2026/04: se autoriza el aparcamiento y uso habitacional interior en viales habilitados para turismos, siempre que el vehículo no supere su perímetro en planta.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03033",
@@ -2792,11 +2792,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.67406,
       "longitud": -0.2300378,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Marina Baixa en el Valle de Guadalest. Rige la regulación estatal DGT PROT 2026/04: autorizados el aparcamiento y la pernocta en el interior en espacios urbanos habilitados para el estacionamiento general, manteniendo la ausencia de despliegue de enseres.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03029",
@@ -2805,11 +2805,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.75606,
       "longitud": -0.1102239,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle de Pop en la comarca de la Marina Alta. Aplica el marco estatal DGT PROT 2026/04: se autoriza el aparcamiento y el uso residencial en el interior del vehículo siempre que no se utilicen calzos de nivelación ni se emitan fluidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03034",
@@ -2818,11 +2818,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.07811,
       "longitud": -0.73795,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Vega Baja del Segura. Aplica la norma estatal DGT PROT 2026/04: permitido el estacionamiento y uso habitacional interior sin desplegar elementos exteriores ni exceder los límites perimetrales del vehículo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03035",
@@ -2831,11 +2831,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.70023,
       "longitud": -0.3904273,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de El Comtat. Aplica la regulación estatal DGT PROT 2026/04: autorizados el aparcamiento y la pernocta en el interior del vehículo siempre que esté correctamente estacionado y no ocupe más espacio que el de su perímetro en planta.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03036",
@@ -2844,11 +2844,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.75348,
       "longitud": -0.3789057,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Pequeño municipio de la comarca de El Comtat. Se rige por la Instrucción DGT PROT 2026/04: se permite el aparcamiento y uso habitacional interior en viales públicos autorizados para turismos, siempre que el vehículo permanezca apoyado únicamente en sus ruedas.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03037",
@@ -2857,11 +2857,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.67443,
       "longitud": -0.207443,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle de Guadalest en la Marina Baixa. Rige la norma estatal DGT PROT 2026/04: autorizados el estacionamiento y el uso residencial dentro del vehículo sin desplegar toldos, patas estabilizadoras ni realizar vertidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03038",
@@ -2870,11 +2870,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.7751,
       "longitud": -0.3934855,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de El Comtat. Aplica la norma estatal DGT PROT 2026/04: permitido el estacionamiento y el uso habitacional interior sin desplegar elementos exteriores ni exceder los límites perimetrales del vehículo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03039",
@@ -2883,11 +2883,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.74907,
       "longitud": -0.2923697,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle de Seta en El Comtat. Aplica la normativa general DGT PROT 2026/04: se autoriza el aparcamiento y uso habitacional interior en viales habilitados para turismos, siempre que el vehículo no supere su perímetro en planta.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03040",
@@ -2896,11 +2896,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.82294,
       "longitud": -0.0417273,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Marina Alta en la Rectoría. Rige la regulación estatal DGT PROT 2026/04: autorizados el aparcamiento y la pernocta en el interior en espacios urbanos habilitados para el estacionamiento general, manteniendo la ausencia de despliegue de enseres.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03041",
@@ -2909,11 +2909,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.71623,
       "longitud": 0.0533722,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento restringido a 48h en áreas señalizadas. Prohibición total de pernocta en las calas y franja litoral por la Ley de Costas.",
+      "texto_normativa": "Municipio costero de la Marina Alta. La ordenanza local limita la estancia continuada en el casco urbano y zonas acondicionadas a 48 horas. En toda la zona de influencia litoral y calas del municipio aplica la prohibición estricta de acampada y pernocta en virtud de la Ley 22/1988 de Costas.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "03043",
@@ -2922,11 +2922,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.6297,
       "longitud": -0.7654974,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento y pernocta restringidos con estancia máxima de 48 horas en el área pública municipal.",
+      "texto_normativa": "Municipio de la comarca del Alto Vinalopó. La normativa local restringe el estacionamiento habitacional a un máximo de 48 horas continuas en el área de autocaravanas acondicionada para fomentar la rotación. Se prohíbe el despliegue de elementos de acampada en la vía pública.",
+      "fuente_url": "https://dogv.gva.es/es/eli/es-vc/d/2015/01/23/6/dof/spa/html",
+      "ultima_actualizacion": "27/01/2015"
     },
     {
       "codigo_ine": "03044",
@@ -2935,11 +2935,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.06304,
       "longitud": -0.8955043,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Vega Baja del Segura. Aplica el marco legal DGT PROT 2026/04: se autoriza el aparcamiento y uso residencial interior en calles urbanas abiertas al tráfico, respetando el perímetro del vehículo y sin realizar actos de acampada.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03045",
@@ -2948,11 +2948,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.67622,
       "longitud": -0.1117929,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Marina Baixa. Se rige por la Instrucción DGT PROT 2026/04: autorizados el estacionamiento y la pernocta en el interior del vehículo siempre que no se utilicen calzos niveladores ni se sobrepase el volumen de la autocaravana.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03046",
@@ -2961,11 +2961,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.48483,
       "longitud": -0.4172711,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento y pernocta restringidos con límite de estancia de 48 horas en el área pública municipal.",
+      "texto_normativa": "Municipio de la comarca del Alacantí. La regulación municipal fija un límite de estancia de 48 horas continuas en la zona acondicionada para autocaravanas. Se prohíbe la acampada no autorizada fuera del recinto asignado.",
+      "fuente_url": "https://dogv.gva.es/es/eli/es-vc/d/2015/01/23/6/dof/spa/html",
+      "ultima_actualizacion": "27/01/2015"
     },
     {
       "codigo_ine": "03049",
@@ -2974,11 +2974,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.12413,
       "longitud": -0.8784829,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Vega Baja del Segura. Aplica la normativa DGT PROT 2026/04: se permite el aparcamiento y pernocta en viales públicos permitidos para turismos, condicionado a no desplegar toldos, mesas ni apoyos estabilizadores que excedan el perímetro vehicular.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03048",
@@ -2987,11 +2987,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.65133,
       "longitud": -0.1225342,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+    "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Marina Baixa. Se rige por la regulación estatal DGT PROT 2026/04: autorizados el aparcamiento y la pernocta en el interior del vehículo en vías públicas aptas para turismos, siempre que esté correctamente estacionado y sin desplegar elementos exteriores.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03047",
@@ -3000,11 +3000,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.64483,
       "longitud": 0.0454063,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento restringido por tramos horarios en vía pública urbana y prohibición total de pernocta en la zona de Costas.",
+      "texto_normativa": "Municipio costero de la Marina Alta. La ordenanza municipal regula y limita el tiempo de estacionamiento de autocaravanas en el casco urbano (permitido en franjas diurnas de 09:00 a 21:00 en verano y de 09:00 a 20:00 el resto del año), derivando la pernocta nocturna a los campings y áreas privadas autorizadas. Asimismo, aplica la prohibición absoluta de pernocta en la zona de Dominio Público Marítimo-Terrestre por la Ley de Costas.",
+      "fuente_url": "https://dogv.gva.es/es/eli/es-vc/d/2015/01/23/6/dof/spa/html",
+      "ultima_actualizacion": "27/01/2015"
     },
     {
       "codigo_ine": "03051",
@@ -3013,11 +3013,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.68671,
       "longitud": -0.7770379,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Alto Vinalopó. Aplica la regulación general DGT PROT 2026/04: autorizados el aparcamiento y uso habitacional en el interior del vehículo siempre que permanezca correctamente estacionado y no ocupe más espacio que su perímetro en planta.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03050",
@@ -3026,11 +3026,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.42892,
       "longitud": -0.3978871,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Estacionamiento restringido en primera línea de playa. Prohibición de pernocta en la zona litoral por la Ley de Costas.",
+      "texto_normativa": "Municipio costero de la comarca de l'Alacantí. El estacionamiento habitacional se encuentra restringido en los paseos marítimos y zonas próximas al litoral en virtud de la Ley 22/1988 de Costas y ordenanzas de tráfico local, derivando la pernocta a áreas habilitadas privadas y campings del término municipal.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "03052",
@@ -3039,11 +3039,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.67524,
       "longitud": -0.8098581,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Alto Vinalopó. Se rige por la Instrucción DGT PROT 2026/04: se permite el aparcamiento y la pernocta en el interior del vehículo siempre que el vehículo esté correctamente estacionado y apoyado únicamente en sus ruedas.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03053",
@@ -3052,11 +3052,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.59519,
       "longitud": -0.6722506,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Hoya de Alcoy. Rige la norma estatal DGT PROT 2026/04: autorizados el estacionamiento y el uso residencial dentro del vehículo sin desplegar toldos, patas estabilizadoras ni realizar vertidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03054",
@@ -3065,11 +3065,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.75242,
       "longitud": -0.1748384,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de interior de la Marina Alta. Aplica el marco legal estatal DGT PROT 2026/04: se permite el aparcamiento y pernocta en vías públicas siempre que no se extienda ningún elemento al exterior y no se emitan vertidos o ruidos molestos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03075",
@@ -3078,11 +3078,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.67644,
       "longitud": -0.198618,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Estacionamiento regulado en aparcamientos públicos municipales. Prohibición de pernocta fuera de zonas expresamente autorizadas.",
+      "texto_normativa": "Municipio de la Marina Baixa con alta afluencia turística. Por ordenanza local, el estacionamiento de grandes vehículos y autocaravanas está regulado en los aparcamientos municipales de pago, quedando prohibida la pernocta y la acampada no autorizada en el casco urbano y accesos.",
+      "fuente_url": "https://dogv.gva.es/es/eli/es-vc/d/2015/01/23/6/dof/spa/html",
+      "ultima_actualizacion": "27/01/2015"
     },
     {
       "codigo_ine": "03055",
@@ -3091,11 +3091,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.16095,
       "longitud": -0.8014995,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Vega Baja del Segura. Aplica la normativa DGT PROT 2026/04: se autoriza el estacionamiento y uso residencial interior en calles urbanas abiertas al tráfico, respetando el perímetro del vehículo y sin realizar actos de acampada.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03056",
@@ -3104,11 +3104,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.74228,
       "longitud": -0.4384323,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Capital de la comarca de El Comtat. Se rige por la norma DGT PROT 2026/04: permitido el aparcamiento y uso habitacional interior en viales públicos acondicionados para turismos, siempre que no se sobrepasen las dimensiones del vehículo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03057",
@@ -3117,11 +3117,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.68329,
       "longitud": -0.2685593,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Marina Baixa en el Valle de Guadalest. Aplica la regulación de la DGT PROT 2026/04: autorizados el aparcamiento y la pernocta en el interior siempre que el vehículo esté estacionado en la vía pública sin instalar calzos ni elementos exteriores.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03058",
@@ -3130,11 +3130,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.1416,
       "longitud": -0.8870501,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Vega Baja del Segura. Se rige por la Instrucción DGT PROT 2026/04: se autoriza el aparcamiento y la pernocta dentro del habitáculo en zonas habilitadas para turismos, manteniendo la ausencia de despliegue de elementos de acampada.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03059",
@@ -3143,11 +3143,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.24703,
       "longitud": -0.803492,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Baix Vinalopó. Aplica la normativa DGT PROT 2026/04: permitido el estacionamiento y el uso residencial interior sin desplegar elementos exteriores ni exceder los límites perimetrales del vehículo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03061",
@@ -3156,11 +3156,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.11316,
       "longitud": -0.7592378,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Vega Baja del Segura. Aplica el marco estatal DGT PROT 2026/04: se autoriza el aparcamiento y el uso residencial en el interior del vehículo siempre que esté estacionado en viales públicos sin desplegar apoyos estabilizadores ni verter líquidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03062",
@@ -3169,11 +3169,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.10484,
       "longitud": -0.7387287,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Pequeño municipio de la Vega Baja del Segura. Se rige por la norma DGT PROT 2026/04: autorizados el aparcamiento y el uso habitacional en el interior en viales autorizados para turismos, siempre que no se sobresalga del perímetro en planta.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03063",
@@ -3182,11 +3182,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.84043,
       "longitud": 0.1085751,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Estacionamiento y pernocta restringidos en el frente litoral por la Ley de Costas y con limitaciones horarias/zonales en la trama urbana.",
+      "texto_normativa": "Municipio costero capital de la Marina Alta. El estacionamiento habitacional y la pernocta están estrictamente prohibidos en todo el litoral y zona de influencia por la Ley 22/1988 de Costas y el Plan de Ordenación Urbana. En el casco urbano se limita la estancia continuada y el aparcamiento de vehículos pesados/de gran gálibo a zonas específicamente habilitadas.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "03064",
@@ -3195,11 +3195,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.14058,
       "longitud": -0.7692993,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Vega Baja del Segura. Aplica el marco legal general DGT PROT 2026/04: se autoriza el aparcamiento y uso residencial interior en calles urbanas abiertas al tráfico, respetando el perímetro del vehículo y sin desplegar enseres ni realizar vertidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03066",
@@ -3208,11 +3208,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.47803,
       "longitud": -0.7904639,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Capital de la comarca del Medio Vinalopó. Se rige por la Instrucción DGT PROT 2026/04: autorizados el estacionamiento y el uso habitacional en el interior en viales públicos permitidos para turismos, siempre que el vehículo permanezca apoyado únicamente sobre sus ruedas.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03065",
@@ -3234,11 +3234,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.2452,
       "longitud": 0.2685,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de El Comtat. Aplica la regulación estatal DGT PROT 2026/04: autorizados el aparcamiento y la pernocta en el interior del vehículo siempre que esté correctamente estacionado y no ocupe más espacio que el de su perímetro en planta.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03068",
@@ -3247,11 +3247,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.73206,
       "longitud": -0.2463927,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle de Seta en El Comtat. Se rige por la Instrucción DGT PROT 2026/04: se permite el aparcamiento y uso habitacional interior en viales públicos autorizados para turismos, siempre que el vehículo permanezca apoyado únicamente en sus ruedas.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03069",
@@ -3260,11 +3260,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.56909,
       "longitud": -0.2107335,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Estacionamiento restringido en Cala de Finestrat por Ley de Costas y limitaciones de estacionamiento en trama urbana litoral.",
+      "texto_normativa": "Municipio de la Marina Baixa con núcleo urbano e histórico de interior y franja costera. En la Cala de Finestrat y la zona marítima rige la prohibición de pernocta de la Ley 22/1988 de Costas y restricciones locales de aparcamiento para grandes vehículos, derivando la estancia habitacional a campings y espacios autorizados.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "03077",
@@ -3273,11 +3273,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.30504,
       "longitud": -0.9341582,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Medio Vinalopó. Aplica la normativa DGT PROT 2026/04: autorizados el estacionamiento y el uso residencial en el interior del vehículo siempre que permanezca correctamente aparcado sin sobresalir de su perímetro.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03070",
@@ -3286,11 +3286,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.08562,
       "longitud": -0.7453506,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Vega Baja del Segura. Aplica la regulación estatal DGT PROT 2026/04: se autoriza el aparcamiento y pernocta dentro del habitáculo en zonas urbanas habilitadas, manteniendo la ausencia de despliegue de enseres.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03072",
@@ -3299,11 +3299,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.81155,
       "longitud": -0.4103162,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de El Comtat a los pies de la Serra del Benicadell. Rige la norma estatal DGT PROT 2026/04: se autoriza el aparcamiento y el uso residencial dentro del vehículo sin desplegar toldos, calzos ni verter líquidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03071",
@@ -3312,11 +3312,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.77425,
       "longitud": 0.0812124,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Marina Alta. Aplica el marco legal DGT PROT 2026/04: se autoriza el aparcamiento y el uso habitacional interior en calles abiertas al tráfico general sin exceder los límites del vehículo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03073",
@@ -3325,11 +3325,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.72056,
       "longitud": -0.3560984,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de El Comtat. Aplica la normativa estatal DGT PROT 2026/04: autorizados el aparcamiento y uso residencial interior en viales públicos siempre que no se utilicen patas niveladoras ni se realicen vertidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03074",
@@ -3338,11 +3338,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.15253,
       "longitud": -0.8909073,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Vega Baja del Segura. Se rige por la Instrucción DGT PROT 2026/04: permitido el estacionamiento y el uso habitacional interior sin desplegar elementos exteriores ni exceder los límites perimetrales del vehículo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03076",
@@ -3351,11 +3351,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.08615,
       "longitud": -0.651254,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Pernocta y estacionamiento habitacional prohibidos en el pinar, dunas y litoral por la Ley de Costas y ordenanza de uso del litoral.",
+      "texto_normativa": "Municipio costero de la Vega Baja del Segura. El estacionamiento habitacional y la pernocta están expresamente prohibidos en la zona marítimo-terrestre y en el Paraje Natural de las Dunas de Guardamar en cumplimiento de la Ley 22/1988 de Costas y de las ordenanzas locales de protección ambiental.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "03078",
@@ -3364,11 +3364,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.27319,
       "longitud": -0.9276314,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Medio Vinalopó. Aplica la regulación general DGT PROT 2026/04: se autoriza el aparcamiento y el uso habitacional en el interior del vehículo siempre que se encuentre correctamente estacionado en el casco urbano.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03079",
@@ -3377,11 +3377,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.62551,
       "longitud": -0.5713521,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Estacionamiento y pernocta regulados con un límite máximo de estancia de 48 horas en el área pública municipal.",
+      "texto_normativa": "Municipio de la comarca de la Hoya de Alcoy. La regulación municipal establece el área pública acondicionada como espacio preferente con una estancia máxima continuada de 48 horas para garantizar la rotación. Se prohíbe el despliegue de elementos de acampada en el resto de vías urbanas.",
+      "fuente_url": "https://dogv.gva.es/es/eli/es-vc/d/2015/01/23/6/dof/spa/html",
+      "ultima_actualizacion": "27/01/2015"
     },
     {
       "codigo_ine": "03080",
@@ -3390,11 +3390,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.06133,
       "longitud": -0.8686115,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Vega Baja del Segura. Aplica la normativa general DGT PROT 2026/04: se autoriza el aparcamiento y uso habitacional interior en viales públicos acondicionados para turismos, siempre que el vehículo no supere su perímetro en planta.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03085",
@@ -3403,11 +3403,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.74273,
       "longitud": 0.0063282,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Marina Alta en el Valle de Pop. Aplica la regulación DGT PROT 2026/04: autorizados el aparcamiento y uso residencial interior en espacios urbanos abiertos al tráfico general sin desplegar elementos exteriores.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03086",
@@ -3416,11 +3416,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.73058,
       "longitud": -0.3638289,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de El Comtat. Se rige por la norma DGT PROT 2026/04: se permite el aparcamiento y la pernocta en el interior en vías públicas habilitadas para turismos, manteniendo el vehículo apoyado únicamente en sus ruedas.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03088",
@@ -3429,11 +3429,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.37923,
       "longitud": -0.7292369,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Medio Vinalopó. Rige la norma estatal DGT PROT 2026/04: autorizados el estacionamiento y el uso residencial dentro del vehículo sin desplegar toldos, patas niveladoras ni realizar vertidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03089",
@@ -3442,11 +3442,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.43725,
       "longitud": -0.8294068,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Medio Vinalopó. Aplica la regulación estatal DGT PROT 2026/04: se autoriza el aparcamiento y pernocta en el interior siempre que el vehículo no exceda los límites de su perímetro y permanezca correctamente estacionado.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03903",
@@ -3455,11 +3455,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.02732,
       "longitud": -0.743438,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Vega Baja del Segura junto al Parque Natural de las Lagunas de La Mata y Torrevieja. Aplica el marco legal DGT PROT 2026/04: permitido el estacionamiento y uso habitacional interior en viales urbanos sin instalar calzos ni enseres exteriores.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03091",
@@ -3468,11 +3468,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.76031,
       "longitud": -0.0829431,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Marina Alta en el Valle de Pop. Aplica la normativa general DGT PROT 2026/04: autorizados el aparcamiento y el uso residencial interior siempre que la autocaravana esté correctamente aparcada en espacios urbanos para turismos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03092",
@@ -3481,11 +3481,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.78075,
       "longitud": -0.4402698,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de El Comtat. Se rige por la Instrucción DGT PROT 2026/04: se autoriza el aparcamiento y pernocta dentro del habitáculo en zonas urbanas habilitadas, manteniendo la ausencia de despliegue de enseres y vertidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03090",
@@ -3494,11 +3494,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.41235,
       "longitud": -0.4432408,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Alacantí. Aplica la norma estatal DGT PROT 2026/04: permitido el estacionamiento y el uso habitacional en el interior sin desplegar elementos exteriores ni exceder los límites perimetrales del vehículo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03093",
@@ -3507,11 +3507,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.3853,
       "longitud": -0.7653857,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Capital de la comarca del Medio Vinalopó. Aplica el marco estatal DGT PROT 2026/04: se autoriza el aparcamiento y el uso residencial en el interior del vehículo siempre que permanezca correctamente estacionado sin emitir ruidos ni vertidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03094",
@@ -3520,11 +3520,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.61438,
       "longitud": -0.1257095,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Estacionamiento restringido por dimensiones en la trama urbana y prohibición de acampada fuera de áreas autorizadas.",
+      "texto_normativa": "Municipio de la comarca de la Marina Baixa. Las ordenanzas municipales de movilidad restringen el estacionamiento prolongado y de grandes dimensiones en los cascos urbanos y urbanizaciones, prohibiendo el uso habitacional y la acampada no autorizada en la vía pública.",
+      "fuente_url": "https://lanucia.sedelectronica.es/",
+      "ultima_actualizacion": "09/09/2026"
     },
     {
       "codigo_ine": "03095",
@@ -3533,11 +3533,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.82607,
       "longitud": 0.0159034,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Marina Alta. Aplica la regulación estatal DGT PROT 2026/04: autorizados el aparcamiento y la pernocta en el interior del vehículo siempre que esté correctamente estacionado y no ocupe más espacio que el de su perímetro en planta.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03096",
@@ -3546,11 +3546,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.62606,
       "longitud": -0.6731591,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Pernocta permitida únicamente con limitaciones de tiempo (máximo 48 horas) en el área pública municipal.",
+      "texto_normativa": "Municipio de la comarca de la Hoya de Alcoy. La normativa municipal limita la estancia y pernocta habitacional a un máximo de 48 horas continuas en el área pública habilitada para fomentar la rotación de vehículos.",
+      "fuente_url": "https://dogv.gva.es/es/eli/es-vc/d/2015/01/23/6/dof/spa/html",
+      "ultima_actualizacion": "27/01/2015"
     },
     {
       "codigo_ine": "03097",
@@ -3559,11 +3559,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.78033,
       "longitud": -0.0637978,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Marina Alta. Rige la norma estatal DGT PROT 2026/04: se permite el estacionamiento y el uso residencial dentro del vehículo sin desplegar toldos, patas niveladoras ni realizar vertidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03099",
@@ -3572,11 +3572,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.08395,
       "longitud": -0.9447829,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Pernocta libre prohibida en la franja costera de Orihuela Costa y calas por Ley de Costas y ordenanza litoral.",
+      "texto_normativa": "Capital de la Vega Baja del Segura con amplio litoral. La ordenanza municipal de uso del litoral y la Ley 22/1988 de Costas prohíben expresamente la pernocta libre y el aparcamiento de vehículos vivienda durante la noche en todo el frente marítimo y aparcamientos de playas.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "03084",
@@ -3585,11 +3585,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.84306,
       "longitud": -0.309963,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de El Comtat. Aplica la regulación general DGT PROT 2026/04: se autoriza el aparcamiento y uso habitacional interior en viales públicos siempre que el vehículo permanezca apoyado únicamente sobre sus ruedas.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03098",
@@ -3598,11 +3598,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.5636,
       "longitud": -0.2619973,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Marina Baixa. Aplica la normativa DGT PROT 2026/04: autorizados el estacionamiento y la pernocta en el interior del vehículo siempre que no se sobresalga de los límites perimetrales del mismo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03100",
@@ -3611,11 +3611,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.74553,
       "longitud": -0.0661097,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Marina Alta en el Valle de Pop. Se rige por la Instrucción DGT PROT 2026/04: permitido el aparcamiento y el uso habitacional interior en calles abiertas al tráfico general sin exceder los límites del vehículo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03101",
@@ -3624,11 +3624,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.79388,
       "longitud": 0.0345502,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Marina Alta. Aplica el marco legal DGT PROT 2026/04: se autoriza el aparcamiento y la pernocta dentro del habitáculo en zonas urbanas habilitadas, manteniendo la ausencia de despliegue de enseres.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03102",
@@ -3637,11 +3637,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.84324,
       "longitud": -0.1175528,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Marina Alta. Rige la regulación DGT PROT 2026/04: se permite el estacionamiento y uso residencial interior siempre que el vehículo esté correctamente aparcado en el casco urbano sin emitir ruidos ni vertidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03103",
@@ -3650,11 +3650,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.67942,
       "longitud": -0.3590004,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Hoya de Alcoy. Aplica la normativa general DGT PROT 2026/04: autorizados el aparcamiento y uso residencial en el interior del vehículo sin desplegar elementos exteriores.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "03104",
@@ -3663,11 +3663,11 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 38.47744,
       "longitud": -0.7742523,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Pernocta permitida únicamente con limitaciones de tiempo (máximo 72 horas) en el área pública municipal.",
+      "texto_normativa": "Municipio del Medio Vinalopó. La ordenanza local restringe el estacionamiento y pernocta habitacional a un máximo de 72 horas continuas en el área pública municipal habilitada, prohibiéndose la acampada fuera de dicho recinto.",
+      "fuente_url": "https://dogv.gva.es/es/eli/es-vc/d/2015/01/23/6/dof/spa/html",
+      "ultima_actualizacion": "27/01/2015"
     },
     {
       "codigo_ine": "03902",
@@ -3676,9 +3676,10 @@
       "comunidad_autonoma": "Comunidad Valenciana",
       "latitud": 37.86538,
       "longitud": -0.7925081,
-      "estado_norma": "RESTRINGIDO",
+      "estado_norma": "PROHIBIDO",
       "resumen_corto": "Estacionamiento limitado a un máximo de 48 horas en vías urbanas según ordenanza local. Prohibida la pernocta y acampada en todo el litoral por Ley de Costas.",
-      "texto_normativa": "Municipio con regulación específica. La Ordenanza Municipal de Tráfico prohíbe expresamente el estacionamiento de caravanas y autocaravanas por un tiempo superior a 48 horas en el casco urbano. Asimismo, en toda la franja del litoral y playas (Torre de la Horadada, Mil Palmeras, Las Higuericas) rige la prohibición de uso habitacional, pernocta y acampada en el Dominio Público Marítimo-Terrestre.",  "fuente_url": "https://sede.pilardelahoradada.org/portal/gdConecta/CUD:12435375044706415334.pdf",
+      "texto_normativa": "Municipio con regulación específica. La Ordenanza Municipal de Tráfico prohíbe expresamente el estacionamiento de caravanas y autocaravanas por un tiempo superior a 48 horas en el casco urbano. Asimismo, en toda la franja del litoral y playas (Torre de la Horadada, Mil Palmeras, Las Higuericas) rige la prohibición de uso habitacional, pernocta y acampada en el Dominio Público Marítimo-Terrestre.",  
+      "fuente_url": "https://sede.pilardelahoradada.org/portal/gdConecta/CUD:12435375044706415334.pdf",
       "ultima_actualizacion": "21/02/2019"
     },
     {
