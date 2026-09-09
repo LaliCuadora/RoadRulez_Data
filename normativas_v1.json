@@ -4235,11 +4235,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.13305,
       "longitud": -2.797098,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de Filabres-Alhamilla en la falda de Sierra Nevada. Aplica la norma estatal DGT PROT 2026/04: se autoriza el aparcamiento y uso habitacional interior en viales públicos siempre que no se utilicen patas niveladoras ni se realicen vertidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04003",
@@ -4248,11 +4248,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.74807,
       "longitud": -3.022522,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Pernocta libre prohibida en todo el frente litoral y aparcamientos de playa por Ley de Costas y ordenanza local.",
+      "texto_normativa": "Municipio costero de la comarca del Poniente Almeriense. En aplicación de la Ley 22/1988 de Costas y la normativa local sobre el uso de playas, está expresamente prohibida la pernocta en la vía pública costera, paseos marítimos y zonas de dominio público marítimo-terrestre.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "04004",
@@ -4261,11 +4261,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.2871,
       "longitud": -2.181163,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle del Almanzora. Se rige por la Instrucción DGT PROT 2026/04: se autoriza el aparcamiento y pernocta dentro del habitáculo en zonas urbanas habilitadas, manteniendo la ausencia de despliegue de enseres y vertidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04005",
@@ -4274,11 +4274,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.03319,
       "longitud": -2.62175,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Alpujarra Almeriense. Aplica el marco legal DGT PROT 2026/04: permitido el estacionamiento y uso habitacional interior en viales urbanos sin instalar calzos ni enseres exteriores.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04006",
@@ -4287,11 +4287,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.38979,
       "longitud": -2.147483,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Valle del Almanzora. Aplica la normativa general DGT PROT 2026/04: autorizados el aparcamiento y el uso residencial interior siempre que la autocaravana esté correctamente aparcada sin sobresalir del perímetro.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04007",
@@ -4300,11 +4300,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.97449,
       "longitud": -2.961038,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Alpujarra Almeriense. Aplica la regulación estatal DGT PROT 2026/04: se autoriza el aparcamiento y uso residencial en el interior del vehículo siempre que permanezca correctamente estacionado.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04008",
@@ -4313,11 +4313,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.33585,
       "longitud": -2.596944,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Valle del Almanzora. Se rige por la norma DGT PROT 2026/04: autorizados el estacionamiento y el uso habitacional en el interior sin desplegar elementos exteriores ni realizar vertidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04009",
@@ -4326,11 +4326,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.23598,
       "longitud": -2.266174,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de Filabres-Alhamilla. Aplica el marco estatal DGT PROT 2026/04: se autoriza el aparcamiento y pernocta en el interior siempre que el vehículo esté correctamente estacionado y apoyado en sus ruedas.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04010",
@@ -4339,11 +4339,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.9893,
       "longitud": -2.587667,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de Alpujarra Almeriense. Aplica la regulación general DGT PROT 2026/04: autorizados el aparcamiento y la pernocta en el interior del vehículo siempre que no se sobresalga del perímetro del mismo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04011",
@@ -4352,11 +4352,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.95742,
       "longitud": -2.570075,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de la Alpujarra Almeriense. Rige la norma estatal DGT PROT 2026/04: se autoriza el aparcamiento y el uso residencial dentro del vehículo sin desplegar elementos exteriores.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04012",
@@ -4365,11 +4365,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.9663,
       "longitud": -2.601994,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Pequeño municipio de la Alpujarra Almeriense. Aplica el marco legal DGT PROT 2026/04: se autoriza el aparcamiento y el uso habitacional interior en viales públicos acondicionados para turismos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04013",
@@ -4378,11 +4378,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.84016,
       "longitud": -2.467922,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Pernocta libre prohibida en todo el litoral del municipio (Cabo de Gata, Retamar, Costacabana) por Ley de Costas y PORN Cabo de Gata.",
+      "texto_normativa": "Capital provincial con extenso término costero. La pernocta libre está estrictamente prohibida en toda la franja marítima y en las áreas protegidas del Parque Natural Cabo de Gata-Níjar por la Ley 22/1988 de Costas y el Plan de Ordenación de Recursos Naturales.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "04014",
@@ -4391,11 +4391,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.00236,
       "longitud": -2.790071,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Alpujarra Almeriense. Aplica la regulación general DGT PROT 2026/04: autorizados el aparcamiento y uso residencial interior en viales públicos siempre que el vehículo permanezca apoyado únicamente sobre sus ruedas.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04015",
@@ -4404,11 +4404,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.002,
       "longitud": -2.594579,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Alpujarra Almeriense. Rige la norma estatal DGT PROT 2026/04: se autoriza el aparcamiento y el uso habitacional en el interior sin desplegar elementos exteriores ni exceder los límites perimetrales.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04016",
@@ -4417,11 +4417,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.24516,
       "longitud": -1.917543,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Levante Almeriense. Aplica la regulación estatal DGT PROT 2026/04: se autoriza el aparcamiento y uso residencial interior en viales públicos urbanos siempre que no se utilicen elementos desplegables ni se realicen vertidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04017",
@@ -4430,11 +4430,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.35025,
       "longitud": -2.074867,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Valle del Almanzora. Se rige por la Instrucción DGT PROT 2026/04: autorizados el estacionamiento y uso habitacional dentro del vehículo siempre que no se rebase el perímetro del mismo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04018",
@@ -4443,11 +4443,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.34969,
       "longitud": -2.411396,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle del Almanzora. Aplica el marco legal DGT PROT 2026/04: se autoriza el aparcamiento y pernocta habitacional en viales habilitados para turismos sin emisión de ruidos ni vertidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04019",
@@ -4456,11 +4456,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.26083,
       "longitud": -2.454761,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Sierra de los Filabres. Rige la norma estatal DGT PROT 2026/04: se autoriza el estacionamiento y uso del interior del vehículo en calles públicas de forma análoga a un turismo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04904",
@@ -4469,11 +4469,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.354,
       "longitud": -1.7137,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Pernocta libre prohibida en todo el litoral y paseos marítimos por la Ley de Costas y ordenanza de playas.",
+      "texto_normativa": "Municipio costero del Poniente Almeriense. En aplicación estricta de la Ley 22/1988 de Costas y ordenanza litoral, queda totalmente prohibida la pernocta libre y la acampada en paseos marítimos y zonas próximas al Dominio Público Marítimo-Terrestre.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "04020",
@@ -4482,11 +4482,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.03116,
       "longitud": -2.996469,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Alpujarra Almeriense. Aplica la normativa general DGT PROT 2026/04: se autoriza el aparcamiento y pernocta habitacional en vías urbanas siempre que el vehículo esté bien estacionado sobre sus ruedas.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04021",
@@ -4495,11 +4495,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.33091,
       "longitud": -2.43566,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle del Almanzora. Se rige por la Instrucción DGT PROT 2026/04: autorizados el estacionamiento y el uso residencial interior sin ocupar más superficie que la del vehículo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04022",
@@ -4508,11 +4508,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.18964,
       "longitud": -1.981898,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Levante Almeriense. Aplica el marco estatal DGT PROT 2026/04: se permite el estacionamiento y uso del habitáculo interior en viales públicos manteniendo la ausencia de enseres exteriores.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04023",
@@ -4521,11 +4521,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.012,
       "longitud": -2.790928,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Alpujarra Almeriense. Aplica la regulación DGT PROT 2026/04: autorizados el aparcamiento y uso residencial interior en viales aptos siempre que no se extiendan toldos ni estabilizadores.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04024",
@@ -4534,11 +4534,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.92587,
       "longitud": -2.455683,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Alpujarra Almeriense. Aplica la regulación DGT PROT 2026/04: autorizados el aparcamiento y uso residencial interior en viales aptos siempre que no se extiendan toldos ni estabilizadores.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04026",
@@ -4547,11 +4547,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.23124,
       "longitud": -2.239107,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de Filabres-Alhamilla. Se rige por la Instrucción DGT PROT 2026/04: autorizados el aparcamiento y pernocta habitacional en calles abiertas al tráfico sin desplegar elementos exteriores.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04027",
@@ -4560,11 +4560,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.21175,
       "longitud": -2.241685,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de Filabres-Alhamilla. Aplica el marco estatal DGT PROT 2026/04: permitido el aparcamiento y uso residencial en el interior siempre que el vehículo esté correctamente estacionado.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04028",
@@ -4573,11 +4573,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.98652,
       "longitud": -2.61942,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Medio Andarax y Alpujarra. Aplica la normativa DGT PROT 2026/04: se permite el estacionamiento y uso residencial interior sin ocupar mayor espacio que el perimetral del vehículo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04029",
@@ -4586,11 +4586,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.84644,
       "longitud": -2.949425,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Poniente Almeriense. Aplica la norma estatal DGT PROT 2026/04: autorizados el aparcamiento y la pernocta en el interior del vehículo siempre que permanezca en zonas urbanas autorizadas sin despliegue de enseres.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04030",
@@ -4599,11 +4599,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.00973,
       "longitud": -2.739681,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Alpujarra Almeriense. Rige la norma estatal DGT PROT 2026/04: se permite el aparcamiento y el uso habitacional interior en viales públicos siempre que el vehículo esté correctamente estacionado.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04031",
@@ -4612,11 +4612,12 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.35259,
       "longitud": -2.193626,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Pernocta permitida en vías urbanas sujeta a la normativa de tráfico, con un límite máximo recomendado de 24 horas continuas y con limitaciones de tiempo (máximo 48 horas) en el área pública municipal",
+      "texto_normativa": "Municipio del Valle del Almanzora. Al no disponer de un área pública municipal regulada por ordenanza específica, rige la normativa general de tráfico y el Decreto autonómico 26/2018. Se permite el estacionamiento y la pernocta en vías aptas un máximo de 24 horas continuas para garantizar la rotación y evitar el asentamiento, debiendo acudir a áreas reguladas de la comarca para estancias de hasta 72 horas.",
+      "fuente_url": "https://www.juntadeandalucia.es/boja/2018/27/1.html",
+      "ultima_actualizacion": "07/02/2018"
+
     },
     {
       "codigo_ine": "04032",
@@ -4625,11 +4626,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.99659,
       "longitud": -1.895012,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Pernocta libre prohibida en todo el litoral y áreas protegidas del Parque Natural Cabo de Gata-Níjar por Ley de Costas y PORN.",
+      "texto_normativa": "Municipio costero del Levante Almeriense. La ordenanza municipal y el PORN del Parque Natural Cabo de Gata-Níjar, junto con la Ley 22/1988 de Costas, prohíben de forma estricta la pernocta y acampada en todo el litoral, playas y aparcamientos del municipio.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "04033",
@@ -4638,11 +4639,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.18464,
       "longitud": -2.439524,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de Los Filabres-Tabernas. Aplica la regulación general DGT PROT 2026/04: autorizados el aparcamiento y uso habitacional interior en viales públicos siempre que permanezca apoyado en sus ruedas.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04036",
@@ -4651,11 +4652,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.26633,
       "longitud": -2.257897,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle del Almanzora. Aplica la normativa DGT PROT 2026/04: se permite el estacionamiento y uso residencial en el interior sin exceder los límites perimetrales del vehículo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04037",
@@ -4664,11 +4665,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.5956,
       "longitud": -2.264839,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Pernocta permitida en vías urbanas conforme a las normativas de tráfico, con un límite recomendado de 24 horas continuas.",
+      "texto_normativa": "Municipio de la comarca de Los Vélez. Al no contar con un área de autocaravanas pública regulada bajo ordenanza local específica, rige el Reglamento General de Circulación y el Decreto 26/2018 de la Junta de Andalucía. Se permite estacionar y pernoctar en zonas autorizadas del casco urbano un máximo de 24 horas continuas para favorecer la rotación de vehículos, debiendo abstenerse de realizar conductas de acampada (desplegar toldos o elementos externos) para evitar sanciones.",
+      "fuente_url": "https://www.juntadeandalucia.es/boja/2018/27/1.html",
+      "ultima_actualizacion": "07/02/2018"
     },
     {
       "codigo_ine": "04034",
@@ -4677,11 +4678,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.26199,
       "longitud": -2.210223,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle del Almanzora. Se rige por la norma DGT PROT 2026/04: autorizados el aparcamiento y pernocta dentro del habitáculo en zonas urbanas habilitadas, sin emisión de ruidos ni vertidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04035",
@@ -4690,11 +4691,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.29709,
       "longitud": -1.881476,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Pernocta libre prohibida en toda la franja costera y aparcamientos de playas (Pozo del Esparto, Villaricos) por Ley de Costas.",
+      "texto_normativa": "Municipio con amplio litoral en el Levante Almeriense. En aplicación estricta de la Ley 22/1988 de Costas y la normativa local sobre el litoral, queda expresamente prohibida la pernocta libre en calas, playas y aparcamientos de costa.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "04038",
@@ -4703,11 +4704,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.82121,
       "longitud": -2.870697,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Poniente Almeriense. Aplica el marco legal DGT PROT 2026/04: se autoriza el estacionamiento y uso habitacional dentro del vehículo siempre que permanezca bien aparcado.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04902",
@@ -4716,11 +4717,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.77506,
       "longitud": -2.812738,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Pernocta libre prohibida en toda la franja litoral y aparcamientos de playa (Almerimar, Balerma) por Ley de Costas y ordenanza de playas.",
+      "texto_normativa": "Municipio del Poniente Almeriense con amplio litoral. La ordenanza municipal de playas y la Ley 22/1988 de Costas prohíben la pernocta en la vía pública costera, aparcamientos colindantes a playas y espacio del Paraje Natural Punta Entinas-Sabinar.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "04041",
@@ -4729,11 +4730,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.87704,
       "longitud": -2.602107,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Alpujarra Almeriense. Aplica la regulación general DGT PROT 2026/04: se autoriza el aparcamiento y pernocta habitacional en viales urbanos sin desplegar toldos ni patas estabilizadoras.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04043",
@@ -4742,11 +4743,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.86892,
       "longitud": -2.657921,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Alpujarra Almeriense. Rige la norma estatal DGT PROT 2026/04: autorizados el estacionamiento y uso del interior del vehículo de forma análoga a un turismo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04044",
@@ -4755,11 +4756,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.35888,
       "longitud": -2.262964,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle del Almanzora. Aplica el marco estatal DGT PROT 2026/04: se permite el aparcamiento y pernocta dentro del habitáculo sin realizar vertidos ni desplegar elementos exteriores.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04045",
@@ -4768,11 +4769,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.17101,
       "longitud": -2.840678,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Pernocta permitida en zonas de estacionamiento urbano según normas de tráfico, limitada a un máximo de 24 horas continuas.",
+      "texto_normativa": "Municipio de la comarca del Río Nacimiento. Al carecer de un área pública municipal específica regulada por ordenanza local, la pernocta en el término municipal queda supeditada al Reglamento General de Circulación y al Decreto 26/2018 de la Junta de Andalucía. El estacionamiento habitacional se permite en vías urbanas aptas un máximo de 24 horas continuas para asegurar la rotación de vehículos y evitar la acampada ilegal.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04046",
@@ -4781,11 +4782,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.97942,
       "longitud": -2.858356,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Alpujarra Almeriense. Aplica la normativa general DGT PROT 2026/04: autorizados el aparcamiento y la pernocta en el interior del vehículo siempre que no se sobresalga del perímetro del mismo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04047",
@@ -4794,11 +4795,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.95393,
       "longitud": -2.492936,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Bajo Andarax. Aplica la norma estatal DGT PROT 2026/04: se permite el estacionamiento y uso habitacional interior siempre que el vehículo esté correctamente aparcado.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04048",
@@ -4807,11 +4808,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.16948,
       "longitud": -1.940099,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Levante Almeriense. Aplica la regulación general DGT PROT 2026/04: autorizados el aparcamiento y uso habitacional interior en viales aptos sin desplegar enseres ni soportes externos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04049",
@@ -4820,11 +4821,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.17925,
       "longitud": -1.821901,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Pernocta libre prohibida en todo el frente marítimo y zonas de playa por Ley de Costas y ordenanza de playas.",
+      "texto_normativa": "Municipio costero del Levante Almeriense. En aplicación estricta de la Ley 22/1988 de Costas y la normativa local sobre el litoral, se prohíbe explícitamente la pernocta libre en paseos marítimos y zonas próximas al Dominio Público Marítimo-Terrestre.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "04050",
@@ -4833,11 +4834,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.1207,
       "longitud": -2.538305,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de Los Filabres-Tabernas. Aplica la norma estatal DGT PROT 2026/04: se autoriza el aparcamiento y el uso habitacional en el interior del vehículo en vías urbanas siempre que permanezca correctamente estacionado sin desplegar elementos exteriores ni realizar vertidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04051",
@@ -4846,11 +4847,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.96788,
       "longitud": -2.611436,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Alpujarra Almeriense. Aplica la normativa DGT PROT 2026/04: autorizados el estacionamiento y el uso habitacional interior en vías públicas habilitadas siempre que el vehículo permanezca bien aparcado sin ocupar espacio adicional.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04052",
@@ -4859,11 +4860,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.88415,
       "longitud": -2.435978,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del área metropolitana de Almería. Rige el marco regulador DGT PROT 2026/04: se permite el aparcamiento y pernocta en las vías públicas urbanas, respetando las zonas delimitadas y sin sacar enseres al exterior.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04053",
@@ -4872,11 +4873,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.39063,
       "longitud": -1.943684,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Pernocta permitida un máximo de 72 horas en el área pública municipal regulada.",
+      "texto_normativa": "Municipio de la comarca del Levante Almeriense. Cuenta con una Ordenanza General Reguladora de Autocaravanas y un área pública oficial acondicionada en el casco urbano (Travesía Alameda). La normativa local limita la estancia y la pernocta habitacional en este espacio regulado a un máximo de 72 horas continuas para garantizar la rotación turística de vehículos, prohibiendo expresamente las conductas de acampada libre en el resto del término municipal.",
+      "fuente_url": "https://www.juntadeandalucia.es/boja/2018/27/1.html",
+      "ultima_actualizacion": "07/02/2018"
     },
     {
       "codigo_ine": "04054",
@@ -4885,11 +4886,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.98504,
       "longitud": -2.639302,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Alpujarra Almeriense. Aplica la normativa general DGT PROT 2026/04: autorizados el aparcamiento y pernocta habitacional dentro del vehículo en zonas urbanas autorizadas sin emisión de ruidos ni vertidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04055",
@@ -4898,11 +4899,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.99316,
       "longitud": -2.659945,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Alpujarra Almeriense. Se rige por la Instrucción DGT PROT 2026/04: se permite el aparcamiento y uso del espacio interior del vehículo en vías públicas urbanas siempre que no exceda el perímetro ni despliegue enseres.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04056",
@@ -4911,11 +4912,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.29667,
       "longitud": -2.329601,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Valle del Almanzora. Aplica el marco legal DGT PROT 2026/04: autorizados el aparcamiento y la pernocta en el interior en viales públicos de forma análoga a cualquier turismo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04057",
@@ -4924,11 +4925,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.99384,
       "longitud": -2.88922,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Capital de la Alpujarra Almeriense. Rige la norma estatal DGT PROT 2026/04: se autoriza el aparcamiento y pernocta habitacional en los aparcamientos urbanos autorizados siempre que no se desplieguen toldos, mesas ni soportes externos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04058",
@@ -4937,11 +4938,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.29527,
       "longitud": -2.219928,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+     "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle del Almanzora. Aplica la norma estatal DGT PROT 2026/04: se autoriza el estacionamiento y uso del habitáculo en zonas llanas habilitadas en vías urbanas sin sobrepasar el perímetro vehicular.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04059",
@@ -4950,11 +4951,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.21585,
       "longitud": -2.067055,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca de Filabres-Alhamilla. Aplica el marco estatal DGT PROT 2026/04: se permite el aparcamiento y uso habitacional siempre que no se considere acampada exterior ni entorpezca el tráfico.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04060",
@@ -4963,11 +4964,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.04179,
       "longitud": -2.200706,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de Filabres-Alhamilla. Rige la norma estatal DGT PROT 2026/04: autorizados el aparcamiento y pernocta en aparcamientos urbanos delimitados (como el parking público junto a la Vía Verde) sin desplegar elementos exteriores.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04061",
@@ -4976,11 +4977,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.39965,
       "longitud": -2.427074,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle del Almanzora. Aplica la normativa general DGT PROT 2026/04: se autoriza el aparcamiento y pernocta dentro del habitáculo en zonas urbanas y bolsas de aparcamiento (como el entorno de Cela), siempre que no se desplieguen elementos exteriores.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04062",
@@ -4989,11 +4990,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.33229,
       "longitud": -2.304892,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle del Almanzora. Rige la norma estatal DGT PROT 2026/04: autorizados el estacionamiento y uso habitacional interior en viales públicos de forma idéntica a cualquier turismo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04063",
@@ -5002,11 +5003,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.7111,
       "longitud": -2.165795,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Pernocta restringida a las zonas habilitadas por la regulación ambiental del Parque Natural Sierra de María-Los Vélez.",
+      "texto_normativa": "Municipio de la comarca de Los Vélez. El PORN del Parque Natural Sierra de María-Los Vélez prohíbe de forma expresa la acampada y pernocta en autocaravanas o camper fuera de campamentos de turismo autorizados dentro del ámbito del espacio protegido.",
+      "fuente_url": "https://www.juntadeandalucia.es/medioambiente/portal/documents/20151/600654/decreto191Maria.pdf/fc595e30-5c29-23b4-bf00-d57e2030f763",
+      "ultima_actualizacion": "15/11/2005"
     },
     {
       "codigo_ine": "04064",
@@ -5015,11 +5016,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.13995,
       "longitud": -1.851328,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Pernocta libre prohibida en todo el litoral y áreas próximas al mar por Ley de Costas y ordenanza municipal de playas.",
+      "texto_normativa": "Municipio costero del Levante Almeriense. La ordenanza local de uso de playas y la Ley 22/1988 de Costas prohíben estrictamente el estacionamiento nocturno y la pernocta en autocaravanas o camper en el paseo marítimo, aparcamientos colindantes a playas y espacio protegido de Marina de la Torre.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "04903",
@@ -5028,11 +5029,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.75254,
       "longitud": -2.688159,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Poniente Almeriense. Aplica la normativa general DGT PROT 2026/04: se permite el aparcamiento y pernocta habitacional en viales urbanos respetando la señalización vial general.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04065",
@@ -5041,11 +5042,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.10497,
       "longitud": -2.64774,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Río Nacimiento. Aplica el marco estatal DGT PROT 2026/04: autorizados el aparcamiento y uso interior del vehículo sin sobrepasar el perímetro exterior ni realizar vertidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04066",
@@ -5054,11 +5055,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.96576,
       "longitud": -2.20651,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Pernocta libre prohibida en todo el litoral y Parque Natural Cabo de Gata-Níjar (de 22:00 a 08:00 hs) por normativa ambiental y Costas.",
+      "texto_normativa": "Municipio costero de Almería. El PORN/PRUG del Parque Natural Cabo de Gata-Níjar y la Ley de Costas prohíben expresamente el estacionamiento y pernocta entre las 22:00 h y las 08:00 h fuera de campings o áreas privadas autorizadas.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "04067",
@@ -5067,11 +5068,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.03723,
       "longitud": -2.745168,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Alpujarra Almeriense. Aplica la regulación general DGT PROT 2026/04: se autoriza el aparcamiento y pernocta habitacional dentro del casco urbano siempre que permanezca bien estacionado.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04068",
@@ -5080,11 +5081,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.17611,
       "longitud": -2.476297,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de Los Filabres-Tabernas. Aplica la normativa DGT PROT 2026/04: autorizados el aparcamiento y la estancia en el interior del vehículo en viales públicos de forma análoga a cualquier turismo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04069",
@@ -5093,11 +5094,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.35212,
       "longitud": -2.298121,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle del Almanzora. Aplica el marco legal DGT PROT 2026/04: se permite el aparcamiento y la pernocta en los aparcamientos urbanos y recinto ferial siempre que no coincida con eventos organizados.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04070",
@@ -5106,11 +5107,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.48503,
       "longitud": -2.295018,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle del Almanzora. Se rige por la Instrucción DGT PROT 2026/04: se autoriza el aparcamiento y uso habitacional interior en aparcamientos habilitados y vías urbanas sin sacar enseres fuera del vehículo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04071",
@@ -5119,11 +5120,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.99884,
       "longitud": -2.773482,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en el parking municipal y vías urbanas según la Instrucción PROT 2026/04 de la DGT.",
+      "texto_normativa": "Municipio de la Alpujarra Almeriense. Dispone de un aparcamiento público llano para vehículos habitáculo en la C. la Rueda. Aplica la normativa DGT PROT 2026/04, permitiendo el estacionamiento y uso del interior del vehículo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04072",
@@ -5132,11 +5133,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.40604,
       "longitud": -2.226434,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle del Almanzora. Aplica la normativa general DGT PROT 2026/04: se autoriza el aparcamiento y pernocta en el interior del vehículo en vías públicas llanas siempre que no exceda el perímetro ni despliegue enseres al exterior.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04073",
@@ -5145,11 +5146,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.02088,
       "longitud": -2.953087,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Alpujarra Almeriense. Aplica el marco estatal DGT PROT 2026/04: autorizados el estacionamiento y uso habitacional dentro del vehículo en zonas urbanas habilitadas siempre que permanezca correctamente aparcado.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04074",
@@ -5158,11 +5159,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.91667,
       "longitud": -2.440625,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Bajo Andarax. Aplica la normativa DGT PROT 2026/04: se permite el aparcamiento y pernocta habitacional en viales urbanos respetando la señalización general de tráfico.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04075",
@@ -5171,11 +5172,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.41183,
       "longitud": -1.745502,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Pernocta libre prohibida en todo el litoral y aparcamientos de playa (San Juan de los Terreros) por Ley de Costas y ordenanza de playas.",
+      "texto_normativa": "Municipio costero del Levante Almeriense. En aplicación de la Ley 22/1988 de Costas y las ordenanzas locales de playas, la pernocta libre y acampada en vehículos están estrictamente prohibidas en toda la franja litoral y aparcamientos de San Juan de los Terreros.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "04076",
@@ -5184,11 +5185,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.34855,
       "longitud": -2.36155,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle del Almanzora. Se rige por la Instrucción DGT PROT 2026/04: autorizados el aparcamiento y pernocta habitacional en viales públicos de forma análoga a un turismo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04077",
@@ -5197,11 +5198,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.99564,
       "longitud": -2.680989,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Alpujarra Almeriense. Aplica el marco legal DGT PROT 2026/04: se autoriza el estacionamiento y uso habitacional dentro del vehículo sin emitir ruidos ni realizar vertidos a la vía pública.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04078",
@@ -5210,11 +5211,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.94406,
       "longitud": -2.462424,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Bajo Andarax. Aplica la normativa general DGT PROT 2026/04: se permite el aparcamiento y uso del espacio interior del vehículo en zonas urbanas habilitadas.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04079",
@@ -5223,11 +5224,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.76427,
       "longitud": -2.614935,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Pernocta libre prohibida en todo el litoral, paseos marítimos y aparcamientos de playa por Ley de Costas y ordenanza de uso de playas. Se permite la pernocta en zonas autorizadas por un plaoz máximo de 48 a 72 horas. según el espacio",
+      "texto_normativa": "Municipio del Poniente Almeriense. La ordenanza municipal de playas y la Ley 22/1988 de Costas prohíben la pernocta en el litoral, aparcamientos colindantes a las playas (Aguadulce, Roquetas, Playa Serena) y espacios protegidos como Punta Entinas-Sabinar.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "04080",
@@ -5236,11 +5237,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.0172,
       "longitud": -2.603768,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Alpujarra Almeriense. Aplica la regulación general DGT PROT 2026/04: autorizados el aparcamiento y la pernocta en el interior del vehículo siempre que permanezca bien estacionado.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04081",
@@ -5249,11 +5250,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.97506,
       "longitud": -2.530279,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Bajo Andarax. Aplica la norma estatal DGT PROT 2026/04: se autoriza el aparcamiento y uso habitacional dentro del vehículo en viales aptos sin desplegar enseres exteriores.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04082",
@@ -5262,11 +5263,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.20457,
       "longitud": -2.347544,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de Los Filabres-Tabernas. Aplica la norma estatal DGT PROT 2026/04: autorizados el estacionamiento y el uso habitacional interior en viales y aparcamientos llanos urbanos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04083",
@@ -5275,11 +5276,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.34361,
       "longitud": -2.508077,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Pernocta permitida únicamente con limitaciones de tiempo (máximo 48 horas) en el área pública municipal de la Vía Verde.",
+      "texto_normativa": "Municipio del Valle del Almanzora. La ordenanza municipal regula el área de autocaravanas situada junto a la Estación de Serón, limitando la estancia máxima continuada a 48 horas para garantizar la rotación de plazas.",
+      "fuente_url": "https://www.juntadeandalucia.es/boja/2018/27/1.html",
+      "ultima_actualizacion": "07/02/2018"
     },
     {
       "codigo_ine": "04084",
@@ -5288,11 +5289,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.32348,
       "longitud": -2.398526,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle del Almanzora. Aplica el marco legal DGT PROT 2026/04: se permite el aparcamiento y uso habitacional interior en vías urbanas siempre que el vehículo esté correctamente aparcado.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04085",
@@ -5301,11 +5302,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.39139,
       "longitud": -2.389127,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle del Almanzora. Aplica la normativa general DGT PROT 2026/04: autorizados el aparcamiento y pernocta habitacional en viales urbanos sin desplegar enseres exteriores ni realizar vertidos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04086",
@@ -5314,11 +5315,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.09841,
       "longitud": -2.126351,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Permitido estacionar en casco urbano; prohibida la pernocta dentro del Paraje Natural Karst en Yesos de Sorbas.",
+      "texto_normativa": "Municipio de Los Filabres-Tabernas. La normativa ambiental del Paraje Natural Karst en Yesos de Sorbas prohíbe la acampada y pernocta dentro del espacio protegido. En las zonas urbanas del municipio aplica la Instrucción DGT PROT 2026/04 permitiendo el aparcamiento sin despliegue de enseres.",
+      "fuente_url": "https://www.juntadeandalucia.es/medioambiente/portal/documents/20151/1498264/1y2_decreto_anexos1al7.pdf/695b189d-a04f-dcb7-a156-4de067b63dd8",
+      "ultima_actualizacion": "23/12/2016"
     },
     {
       "codigo_ine": "04087",
@@ -5327,11 +5328,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.3382,
       "longitud": -2.389523,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle del Almanzora. Aplica la normativa general DGT PROT 2026/04: se autoriza el aparcamiento y pernocta en el interior del vehículo en viales públicos siempre que permanezca bien estacionado.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04088",
@@ -5340,11 +5341,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.04945,
       "longitud": -2.392681,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en zonas urbanas según la Instrucción PROT 2026/04 de la DGT, salvo en el Paraje Natural Desierto de Tabernas.",
+      "texto_normativa": "Municipio de Los Filabres-Tabernas. Aplica la Instrucción DGT PROT 2026/04 en el casco urbano y bolsas de aparcamiento. Queda prohibida la pernocta fuera de viales autorizados dentro de la restricción ambiental del Paraje Natural Desierto de Tabernas.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04089",
@@ -5353,11 +5354,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.46729,
       "longitud": -2.076205,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle del Almanzora. Se rige por la norma estatal DGT PROT 2026/04: autorizados el aparcamiento y uso habitacional interior en el casco urbano de forma análoga a un turismo.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04090",
@@ -5366,11 +5367,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.22803,
       "longitud": -2.28497,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de Los Filabres-Tabernas. Aplica la regulación general DGT PROT 2026/04: se autoriza el aparcamiento y pernocta habitacional dentro del perímetro del vehículo en viales públicos.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04091",
@@ -5379,11 +5380,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.98359,
       "longitud": -2.597233,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la Alpujarra Almeriense. Aplica la normativa general DGT PROT 2026/04: autorizados el estacionamiento y uso del espacio interior en zonas llanas habilitadas de la población.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04092",
@@ -5392,11 +5393,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.34551,
       "longitud": -2.439434,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle del Almanzora. Aplica el marco legal DGT PROT 2026/04: se permite el aparcamiento y pernocta habitacional en viales públicos y zonas de estacionamiento autorizadas.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04901",
@@ -5405,11 +5406,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.13334,
       "longitud": -2.7,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca del Río Nacimiento. Aplica la norma DGT PROT 2026/04: autorizados el estacionamiento y uso interior del vehículo en los núcleos urbanos de Doña María, Ocaña y Escúllar.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04093",
@@ -5418,11 +5419,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.15225,
       "longitud": -1.8948990000000001,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Levante Almeriense. Aplica la Instrucción DGT PROT 2026/04: se permite el aparcamiento y pernocta dentro del habitáculo en zonas urbanas, excepto en zonas de monte o masa forestal de Sierra Cabrera con restricción de incendios.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04094",
@@ -5431,11 +5432,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.03019,
       "longitud": -2.264096,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de Los Filabres-Tabernas. Aplica la regulación DGT PROT 2026/04: se autoriza el estacionamiento y pernocta dentro del vehículo en viales públicos respetando la señalización vial ordinaria.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04095",
@@ -5444,11 +5445,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.18548,
       "longitud": -2.203801,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de Los Filabres-Tabernas. Aplica la normativa general DGT PROT 2026/04: se autoriza el aparcamiento y pernocta habitacional en viales urbanos siempre que el vehículo esté correctamente estacionado y no exceda su perímetro.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04096",
@@ -5457,11 +5458,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.39732,
       "longitud": -2.36507,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle del Almanzora. Se rige por el marco estatal DGT PROT 2026/04: autorizados el estacionamiento y uso habitacional interior en zonas urbanas llanas sin desplegar enseres al exterior.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04097",
@@ -5470,11 +5471,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.19375,
       "longitud": -2.403687,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de Los Filabres-Tabernas. Aplica la normativa DGT PROT 2026/04: se autoriza el aparcamiento y pernocta dentro del habitáculo en las zonas de estacionamiento señalizadas.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04098",
@@ -5483,11 +5484,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.69095,
       "longitud": -2.095682,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Permitido estacionar en zonas urbanas y área municipal; prohibida la pernocta en el interior del Parque Natural Sierra de María-Los Vélez.",
+      "texto_normativa": "Municipio de Los Vélez. La normativa ambiental del Parque Natural prohibe expresamente la acampada y pernocta fuera de campamentos autorizados. En el casco urbano y áreas municipales asignadas aplica la Instrucción DGT PROT 2026/04.",
+      "fuente_url": "https://www.juntadeandalucia.es/medioambiente/portal/documents/20151/600654/decreto191Maria.pdf/fc595e30-5c29-23b4-bf00-d57e2030f763",
+      "ultima_actualizacion": "15/11/2005"
     },
     {
       "codigo_ine": "04099",
@@ -5496,11 +5497,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.64802,
       "longitud": -2.074232,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Pernocta autorizada en el área municipal regulada con estancia máxima de 72 horas.",
+      "texto_normativa": "Municipio de Los Vélez. La ordenanza local regula el uso del área pública municipal reservada para autocaravanas, estableciendo un límite de permanencia de 72 horas continuadas y prohibiendo el despliegue de elementos de acampada fuera de las marcas del estacionamiento.",
+      "fuente_url": "https://www.juntadeandalucia.es/boja/2018/27/1.html",
+      "ultima_actualizacion": "07/02/2018"
     },
     {
       "codigo_ine": "04100",
@@ -5509,11 +5510,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.24686,
       "longitud": -1.868238,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PROHIBIDO",
+      "resumen_corto": "Pernocta prohibida en la franja marítimo-terrestre y aparcamientos de playa (Vera Playa) según la Ley de Costas y ordenanza de playas.",
+      "texto_normativa": "Municipio costero del Levante Almeriense. En aplicación de la Ley 22/1988 de Costas y la ordenanza de uso y aprovechamiento de playas, se prohíbe el estacionamiento nocturno y la pernocta en todo el litoral y zonas de aparcamiento colindantes a las playas.",
+      "fuente_url": "https://www.boe.es/eli/es/l/1988/07/28/22/con",
+      "ultima_actualizacion": "29/07/1988"
     },
     {
       "codigo_ine": "04101",
@@ -5522,11 +5523,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.88963,
       "longitud": -2.426541,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio de la comarca Metropolitana de Almería. Aplica la normativa general DGT PROT 2026/04: se autoriza el aparcamiento y uso habitacional dentro del vehículo en vías públicas llanas habilitadas.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04102",
@@ -5535,11 +5536,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 36.83145,
       "longitud": -2.642515,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Poniente Almeriense. Aplica el marco legal DGT PROT 2026/04: autorizados el aparcamiento y pernocta habitacional en viales urbanos respetando la señalización vial general.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "04103",
@@ -5548,11 +5549,11 @@
       "comunidad_autonoma": "Andalucía",
       "latitud": 37.34265,
       "longitud": -2.039607,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "PERMITIDO",
+      "resumen_corto": "Permitido estacionar y pernoctar en vías urbanas según la Instrucción PROT 2026/04 de la DGT, sin desplegar elementos de acampada.",
+      "texto_normativa": "Municipio del Valle del Almanzora. Aplica la normativa general DGT PROT 2026/04: autorizados el estacionamiento y uso interior del vehículo en viales públicos de la población.",
+      "fuente_url": "https://www.dgt.es/muevete-con-seguridad/conoce-las-normas-de-trafico/normativa-general/",
+      "ultima_actualizacion": "11/03/2026"
     },
     {
       "codigo_ine": "05001",
@@ -5730,11 +5731,11 @@
       "comunidad_autonoma": "Castilla y León",
       "latitud": 40.65642,
       "longitud": -4.700323,
-      "estado_norma": "SIN_DATOS",
-      "texto_normativa": "",
-      "resumen_corto": "",
-      "fuente_url": "",
-      "ultima_actualizacion": ""
+      "estado_norma": "RESTRINGIDO",
+      "resumen_corto": "Pernocta autorizada preferentemente en el área municipal regulada con límite de tiempo (máximo 48 horas).",
+      "texto_normativa": "Capital de provincia. La ordenanza municipal y las normas del recinto regulan la pernocta y el estacionamiento de autocaravanas dirigiéndolos al área pública del Lienzo Norte, estableciendo un límite máximo de estancia continuada de 48 horas para garantizar la rotación de plazas y prohibiendo el despliegue de enseres fuera del perímetro del vehículo.",
+      "fuente_url": "https://www.avila.es/ayuntamiento/ordenanzas-municipales/1355-ordenanza-de-circulacion-del-termino-municipal-de-avila-entra-en-vigor-el-25-de-abril-de-2024",
+      "ultima_actualizacion": "25/04/2024"
     },
     {
       "codigo_ine": "05021",
