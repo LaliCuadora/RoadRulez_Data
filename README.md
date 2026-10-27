@@ -1,3 +1,7 @@
-# RoadRulez_Data
+# Base de datos
 
-Archivo json para base de datos de RoadRulez (acceso anticipado)
+Base de datos utiizada por la aplicación RoadRulez para conocer los municipios, ubicaciones y normativas de cada municipio.
+
+## Formato
+
+Est base de datos utiliza un formato JSON debido a su bajo impacto al ser texto plano.
